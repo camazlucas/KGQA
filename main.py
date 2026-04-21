@@ -1,8 +1,8 @@
-from method import bfs_answer
-from dataset import load_graph
-from avaliacao import Evaluator
-from extrair import extract_entity
-from carregarperguntas import load_qa
+from Classicos.bfs import bfs_answer
+from Dataset.dataset import load_graph
+from Processamento.avaliacao import Evaluator
+from Processamento.extrair import extract_entity
+from Dataset.dataset import load_qa
 
 
 # carregar grafo
