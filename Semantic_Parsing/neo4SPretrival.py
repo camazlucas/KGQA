@@ -45,14 +45,17 @@ def parse_question(q):
     
     return None
 
-def sp_query(G, entity, relation):
-    if entity not in G:
-        return []
+
+def sp_query(session, entity, relation):
+    query = f"""
+    MATCH (a {{name: $entity}})-[:{relation}]->(b)
+    RETURN b.name AS name
+    """
     
-    results = []
+    result = session.run(query, entity=entity)
     
-    for neighbor in G[entity]:
-        if G[entity][neighbor].get("relation") == relation:
-            results.append(neighbor)
+    data = [record["name"] for record in result]
     
-    return results
+    result.consume()  # evita bug de buffer
+    
+    return data
