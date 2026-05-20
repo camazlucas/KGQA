@@ -1,2 +1,9 @@
 Benchmark/
 venv/
+Dataset/
+Métodos/BeamQA
+Métodos/EPR-NSM
+Métodos/NSM
+Métodos/RoG
+Métodos/TransferNet
+__pycache__
