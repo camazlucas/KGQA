@@ -1,11 +1,23 @@
-Benchmark/
+# Virtual environments
 venv/
-Dataset/
-Métodos/BeamQA
-Métodos/EPR-NSM
-Métodos/NSM
-Métodos/RoG
-Métodos/TransferNet
-Métodos/EPERM-Reproduction/
-__pycache__
-MetaQA
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Datasets
+datasets/*
+!datasets/.gitkeep
+
+# Methods
+methods/*
+!methods/.gitkeep
+
+# Models
+models/*
+!models/.gitkeep
+
+# Results
+results/*
+!results/.gitkeep
