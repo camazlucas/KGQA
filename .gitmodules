@@ -1,0 +1,12 @@
+[submodule "methods/BeamQA"]
+	path = methods/BeamQA
+	url = https://github.com/camazlucas/BeamQA.git
+[submodule "methods/DoG"]
+	path = methods/DoG
+	url = https://github.com/camazlucas/DoG.git
+[submodule "methods/RoG"]
+	path = methods/RoG
+	url = https://github.com/camazlucas/RoG.git
+[submodule "methods/TransferNet"]
+	path = methods/TransferNet
+	url = https://github.com/camazlucas/TransferNet.git
