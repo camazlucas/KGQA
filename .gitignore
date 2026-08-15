@@ -10,9 +10,9 @@ __pycache__/
 datasets/*
 !datasets/.gitkeep
 
-# Methods
-methods/*
-!methods/.gitkeep
+# # Methods
+# methods/*
+# !methods/.gitkeep
 
 # Models
 models/*
