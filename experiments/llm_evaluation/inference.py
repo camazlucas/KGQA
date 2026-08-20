@@ -1,11 +1,14 @@
-def generate_response(model, prompt):
-    """
-    Generate a response from a language model.
+def generate_response(model, tokenizer, prompt):
+    inputs = tokenizer(prompt, return_tensors="pt").to(model.device)
 
-    The model interface will be defined when we implement
-    support for the different local LLMs.
-    """
-
-    raise NotImplementedError(
-        "LLM inference interface not implemented yet."
+    outputs = model.generate(
+        **inputs,
+        max_new_tokens=100,
     )
+
+    response = tokenizer.decode(
+        outputs[0][inputs["input_ids"].shape[1]:],
+        skip_special_tokens=True,
+    )
+
+    return response.strip()

@@ -6,7 +6,13 @@ Knowledge Graph triples:
 Question:
 {question}
 
-Answer only with the answer to the question. Do not provide explanations.
+Answer the question using only the information provided in the knowledge graph triples.
+
+Return ONLY the answer.
+Do not explain.
+Do not describe the reasoning.
+Do not repeat the question.
+Do not add punctuation or additional text.
 """
 
 
