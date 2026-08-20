@@ -1,18 +1,23 @@
 TRIPLES_PROMPT = """Use the following structured knowledge graph triples as context to answer the question.
 
 Knowledge Graph triples:
+
 {kg_triples}
 
+Each triple is represented as:
+
+Head | Relation | Tail
+
+The relation describes the relationship from Head to Tail.
+
+Use the triples to determine which entity, Head or Tail, answers the question.
+
 Question:
+
 {question}
 
-Answer the question using only the information provided in the knowledge graph triples.
-
-Return ONLY the answer.
-Do not explain.
-Do not describe the reasoning.
-Do not repeat the question.
-Do not add punctuation or additional text.
+Return only the answer.
+Do not explain your reasoning.
 """
 
 
