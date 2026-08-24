@@ -94,12 +94,35 @@ def preprocess_dataset(dataset, dictionary):
                 "triples": triples
             })
 
+        # Convert gold answer MIDs to labels
+        answers = example["answers"]
+
+        answer_labels = []
+
+        for answer in answers:
+            answer_label = get_label(answer, dictionary)
+            answer_labels.append(answer_label)
+
+            if answer_label == answer:
+                missing_labels += 1
+
+                # Convert topic entity MIDs to labels
+
+        topic_entities = []
+
+        for topic_entity in example["topic_entities"]:
+            topic_label = get_label(topic_entity, dictionary)
+            topic_entities.append(topic_label)
+
+            if topic_label == topic_entity:
+                missing_labels += 1
+
         output.append({
             "qid": example["qid"],
             "question": example["question"],
-            "topic_entities": example["topic_entities"],
+            "topic_entities": topic_entities,
             "paths": example["paths"],
-            "answers": example["answers"],
+            "answers": answer_labels,
             "kg_results": kg_results
         })
 
