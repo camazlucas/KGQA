@@ -1,5 +1,10 @@
 import torch
-from transformers import AutoModelForCausalLM, AutoTokenizer
+from transformers import (
+    AutoModelForCausalLM,
+    AutoTokenizer,
+    Mistral3ForConditionalGeneration,
+    MistralCommonBackend,
+)
 
 
 CAUSAL_MODELS = {
@@ -18,16 +23,34 @@ CAUSAL_MODELS = {
     "ministral-3-8b": "mistralai/Ministral-3-8B-Instruct-2512",
 }
 
+MINISTRAL_MODELS = {
+    "ministral-3-3b",
+    "ministral-3-8b-reasoning",
+    "ministral-3-8b",
+}
+
 
 def load_causal_model(model_name):
     model_id = CAUSAL_MODELS[model_name]
 
-    tokenizer = AutoTokenizer.from_pretrained(model_id)
+    if model_name in MINISTRAL_MODELS:
+        tokenizer = MistralCommonBackend.from_pretrained(
+            model_id
+        )
 
-    model = AutoModelForCausalLM.from_pretrained(
-        model_id,
-        dtype=torch.float16,
-        device_map="auto",
-    )
+        model = Mistral3ForConditionalGeneration.from_pretrained(
+            model_id,
+            dtype=torch.bfloat16,
+            device_map="auto",
+        )
+
+    else:
+        tokenizer = AutoTokenizer.from_pretrained(model_id)
+
+        model = AutoModelForCausalLM.from_pretrained(
+            model_id,
+            dtype=torch.float16,
+            device_map="auto",
+        )
 
     return tokenizer, model
