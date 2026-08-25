@@ -5,9 +5,19 @@ from pathlib import Path
 
 import torch
 
-from experiments.llm_evaluation.causal.loader import load_causal_model
-from experiments.llm_evaluation.inference import generate_response
 from experiments.llm_evaluation.prompts import build_triples_prompt
+
+from experiments.llm_evaluation.causal.loader import load_causal_model
+from experiments.llm_evaluation.causal.inference import generate_response as generate_causal_response
+
+from experiments.llm_evaluation.seq2seq.loader import load_seq2seq_model
+from experiments.llm_evaluation.seq2seq.inference import generate_response as generate_seq2seq_response
+
+SEQ2SEQ_MODELS = {
+    "bart-base",
+    "bart-large",
+    "flan-t5-xl",
+}
 
 
 def parse_args():
@@ -29,7 +39,7 @@ def parse_args():
     parser.add_argument(
         "--model",
         required=True,
-        help="Model name defined in the causal loader"
+        help="Model name defined in the causal or seq2seq loader"
     )
 
     parser.add_argument(
@@ -89,7 +99,10 @@ def main():
 
     print(f"Loading model: {args.model}")
 
-    tokenizer, model = load_causal_model(args.model)
+    if args.model in SEQ2SEQ_MODELS:
+        tokenizer, model = load_seq2seq_model(args.model)
+    else:
+        tokenizer, model = load_causal_model(args.model)
 
     gpu_name, gpu_total_memory = get_gpu_info()
 
@@ -124,12 +137,19 @@ def main():
             kg_triples
         )
 
-        response = generate_response(
-            model,
-            tokenizer,
-            prompt,
-            args.model
-        )
+        if args.model in SEQ2SEQ_MODELS:
+            response = generate_seq2seq_response(
+                model,
+                tokenizer,
+                prompt
+            )
+        else:
+            response = generate_causal_response(
+                model,
+                tokenizer,
+                prompt,
+                args.model
+            )
 
         if torch.cuda.is_available():
             torch.cuda.synchronize()
