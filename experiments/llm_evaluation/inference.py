@@ -1,17 +1,24 @@
-def generate_response(model, tokenizer, prompt):
-    messages = [
-        {
-            "role": "user",
-            "content": prompt
-        }
-    ]
+def generate_response(model, tokenizer, prompt, model_name):
 
-    inputs = tokenizer.apply_chat_template(
-        messages,
-        tokenize=True,
-        add_generation_prompt=True,
-        return_tensors="pt"
-    )
+    if model_name == "alpaca-7b":
+        inputs = tokenizer(
+            prompt,
+            return_tensors="pt"
+        )
+    else:
+        messages = [
+            {
+                "role": "user",
+                "content": prompt
+            }
+        ]
+
+        inputs = tokenizer.apply_chat_template(
+            messages,
+            tokenize=True,
+            add_generation_prompt=True,
+            return_tensors="pt"
+        )
 
     inputs = inputs.to(model.device)
 

@@ -51,7 +51,8 @@ def main():
         response = generate_response(
             model,
             tokenizer,
-            prompt
+            prompt,
+            args.model
         )
 
         print("\n" + "=" * 60)

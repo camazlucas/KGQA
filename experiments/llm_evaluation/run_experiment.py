@@ -127,7 +127,8 @@ def main():
         response = generate_response(
             model,
             tokenizer,
-            prompt
+            prompt,
+            args.model
         )
 
         if torch.cuda.is_available():
