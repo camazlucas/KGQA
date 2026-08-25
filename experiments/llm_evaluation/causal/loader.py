@@ -10,6 +10,7 @@ CAUSAL_MODELS = {
     "qwen-2.5-7b": "Qwen/Qwen2.5-7B-Instruct",
     "llama-3-8b": "meta-llama/Meta-Llama-3-8B-Instruct",
     "qwen-14b": "Qwen/Qwen2.5-14B-Instruct",
+    "alpaca-7b": "allenai/open-instruct-stanford-alpaca-7b"
 }
 
 
