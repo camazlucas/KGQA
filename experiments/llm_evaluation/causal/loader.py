@@ -21,6 +21,7 @@ CAUSAL_MODELS = {
     "ministral-3-3b": "mistralai/Ministral-3-3B-Instruct-2512",
     "ministral-3-8b-reasoning": "mistralai/Ministral-3-8B-Reasoning-2512",
     "ministral-3-8b": "mistralai/Ministral-3-8B-Instruct-2512",
+    "deepseek-r1-distill-qwen-1.5b": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B"
 }
 
 MINISTRAL_MODELS = {
