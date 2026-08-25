@@ -10,7 +10,12 @@ CAUSAL_MODELS = {
     "qwen-2.5-7b": "Qwen/Qwen2.5-7B-Instruct",
     "llama-3-8b": "meta-llama/Meta-Llama-3-8B-Instruct",
     "qwen-14b": "Qwen/Qwen2.5-14B-Instruct",
-    "alpaca-7b": "allenai/open-instruct-stanford-alpaca-7b"
+    "deepseek-llm-7b-chat": "deepseek-ai/deepseek-llm-7b-chat",
+    "deepseek-coder-6.7b": "deepseek-ai/deepseek-coder-6.7b-instruct",
+    "deepseek-coder-1.3b": "deepseek-ai/deepseek-coder-1.3b-instruct",
+    "ministral-3-3b": "mistralai/Ministral-3-3B-Instruct-2512",
+    "ministral-3-8b-reasoning": "mistralai/Ministral-3-8B-Reasoning-2512",
+    "ministral-3-8b": "mistralai/Ministral-3-8B-Instruct-2512",
 }
 
 
