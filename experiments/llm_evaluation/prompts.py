@@ -26,3 +26,30 @@ def build_triples_prompt(question, kg_triples):
         kg_triples=kg_triples,
         question=question
     )
+
+PATHS_PROMPT = """Use the following knowledge graph paths as context to answer the question.
+
+Knowledge Graph paths:
+
+{kg_paths}
+
+Each path represents a sequence of entities and relations connected in the knowledge graph.
+The path starts from the topic entity and follows the relations to the answer entity.
+
+Use the paths to determine which entity answers the question.
+
+Question:
+
+{question}
+
+Return only the answer.
+
+Do not explain your reasoning.
+"""
+
+
+def build_paths_prompt(question, kg_paths):
+    return PATHS_PROMPT.format(
+        kg_paths=kg_paths,
+        question=question
+    )
