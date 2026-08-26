@@ -9,8 +9,8 @@ MODELS=(
     "llama-3-8b"
 )
 
-DATASET="src/kgqa/data/grailqa/grailqa_triples_text.json"
-RESULTS_DIR="results/llm_evaluation/triples"
+DATASET="src/kgqa/data/grailqa/grailqa_paths_text.json"
+RESULTS_DIR="results/llm_evaluation/paths"
 LOG_DIR="results/llm_evaluation/logs"
 
 mkdir -p "$LOG_DIR"
@@ -21,11 +21,11 @@ for MODEL in "${MODELS[@]}"; do
     echo "Starting model: $MODEL"
     echo "========================================"
 
-    python -m experiments.llm_evaluation.run_experiment \
+    python -m experiments.llm_evaluation.run_experiment_paths \
         --model "$MODEL" \
         --dataset "$DATASET" \
         --results-dir "$RESULTS_DIR" \
-        > "$LOG_DIR/${MODEL}.log" 2>&1
+        > "$LOG_DIR/${MODEL}_paths.log" 2>&1
 
     STATUS=$?
 
