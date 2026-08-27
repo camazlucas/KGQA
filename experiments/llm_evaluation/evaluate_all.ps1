@@ -1,4 +1,4 @@
-$baseDir = "results/llm_evaluation/triples/grailqa_triples_text"
+$baseDir = "results/llm_evaluation/paths/grailqa_paths_text"
 
 $models = @(
     "qwen-0.5b",
@@ -6,7 +6,9 @@ $models = @(
     "llama-2-chat-7b",
     "qwen-2.5-7b",
     "llama-8b",
-    "llama-3-8b"
+    "llama-3-8b",
+    "deepseek-llm-7b-chat",
+    "deepseek-r1-distill-qwen-1.5b"
 )
 
 foreach ($model in $models) {
