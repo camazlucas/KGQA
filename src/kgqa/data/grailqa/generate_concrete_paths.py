@@ -67,10 +67,36 @@ def find_concrete_paths(topic_entities, path, triples):
     return concrete_paths
 
 
+def filter_paths_by_answer(concrete_paths, answers):
+    """
+    Keep at most one concrete path for each gold answer.
+    """
+
+    selected = []
+    answers = set(answers)
+    found_answers = set()
+
+    for path in concrete_paths:
+        if not path:
+            continue
+
+        final_entity = path[-1]
+
+        if (
+            final_entity in answers
+            and final_entity not in found_answers
+        ):
+            selected.append(path)
+            found_answers.add(final_entity)
+
+    return selected
+
+
 def generate_concrete_paths(data):
     output = []
 
     total_kg_results = 0
+    total_concrete_paths_before_filter = 0
     total_concrete_paths = 0
     examples_without_paths = 0
 
@@ -80,6 +106,7 @@ def generate_concrete_paths(data):
         paths = example.get("paths", [])
         topic_entities = example.get("topic_entities", [])
         kg_results = example.get("kg_results", [])
+        answers = example.get("answers", [])
 
         total_kg_results += len(kg_results)
 
@@ -97,6 +124,14 @@ def generate_concrete_paths(data):
                     if concrete_path not in concrete_paths:
                         concrete_paths.append(concrete_path)
 
+        total_concrete_paths_before_filter += len(concrete_paths)
+
+        # Keep at most one concrete path for each gold answer.
+        concrete_paths = filter_paths_by_answer(
+            concrete_paths,
+            answers,
+        )
+
         if not concrete_paths:
             examples_without_paths += 1
 
@@ -109,7 +144,14 @@ def generate_concrete_paths(data):
 
     print(f"Examples: {len(output)}")
     print(f"KG results: {total_kg_results}")
-    print(f"Concrete paths: {total_concrete_paths}")
+    print(
+        f"Concrete paths before filter: "
+        f"{total_concrete_paths_before_filter}"
+    )
+    print(
+        f"Concrete paths after filter: "
+        f"{total_concrete_paths}"
+    )
     print(f"Examples without concrete paths: {examples_without_paths}")
 
     return output
@@ -117,19 +159,19 @@ def generate_concrete_paths(data):
 
 def main():
     parser = argparse.ArgumentParser(
-        description="Generate concrete KG paths from validated GrailQA paths."
+        description="Generate concrete KG paths from filtered GrailQA triples."
     )
 
     parser.add_argument(
         "--input",
         required=True,
-        help="Input grailqa_gold_paths_validated.json",
+        help="Input filtered triples JSON.",
     )
 
     parser.add_argument(
         "--output",
         required=True,
-        help="Output grailqa_concrete_paths.json",
+        help="Output JSON with concrete paths.",
     )
 
     args = parser.parse_args()
@@ -145,7 +187,12 @@ def main():
     output_path.parent.mkdir(parents=True, exist_ok=True)
 
     with output_path.open("w", encoding="utf-8") as f:
-        json.dump(output, f, ensure_ascii=False, indent=2)
+        json.dump(
+            output,
+            f,
+            ensure_ascii=False,
+            indent=2,
+        )
 
     print(f"Saved to: {output_path}")
 
