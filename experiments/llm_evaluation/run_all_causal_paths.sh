@@ -7,9 +7,13 @@ MODELS=(
     "qwen-2.5-7b"
     "llama-8b"
     "llama-3-8b"
+    "deepseek-llm-7b-chat"
+    "deepseek-r1-distill-qwen-1.5b"
+    "ministral-3-3b"
+    "ministral-3-8b"
 )
 
-DATASET="src/kgqa/data/grailqa/grailqa_paths_text.json"
+DATASET="src/kgqa/data/grailqa/grailqa_filtered_paths2.json"
 RESULTS_DIR="results/llm_evaluation/paths"
 LOG_DIR="results/llm_evaluation/logs"
 
