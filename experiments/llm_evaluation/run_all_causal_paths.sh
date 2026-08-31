@@ -1,4 +1,28 @@
 #!/bin/bash
+# uso: ./run_all_causal_paths.sh grailqa | webqsp | cwq
+
+DATASET_NAME="$1"
+
+if [ -z "$DATASET_NAME" ]; then
+    echo "Uso: $0 <grailqa|webqsp|cwq>"
+    exit 1
+fi
+
+case "$DATASET_NAME" in
+    grailqa)
+        DATASET="src/kgqa/data/grailqa/outputs/grailqa_filtered_paths.json"
+        ;;
+    webqsp)
+        DATASET="src/kgqa/data/webqsp/outputs/webqsp_gold_paths.json"
+        ;;
+    cwq)
+        DATASET="src/kgqa/data/cwq/outputs/cwq_gold_paths.json"
+        ;;
+    *)
+        echo "Dataset desconhecido: $DATASET_NAME"
+        exit 1
+        ;;
+esac
 
 MODELS=(
     "qwen-0.5b"
@@ -13,16 +37,14 @@ MODELS=(
     "ministral-3-8b"
 )
 
-DATASET="src/kgqa/data/grailqa/grailqa_filtered_paths2.json"
-RESULTS_DIR="results/llm_evaluation/paths"
-LOG_DIR="results/llm_evaluation/logs"
+RESULTS_DIR="results/llm_evaluation/${DATASET_NAME}/paths"
+LOG_DIR="results/llm_evaluation/${DATASET_NAME}/logs"
 
 mkdir -p "$LOG_DIR"
 
 for MODEL in "${MODELS[@]}"; do
-
     echo "========================================"
-    echo "Starting model: $MODEL"
+    echo "Starting model: $MODEL ($DATASET_NAME)"
     echo "========================================"
 
     python -m experiments.llm_evaluation.run_experiment_paths \
@@ -38,9 +60,8 @@ for MODEL in "${MODELS[@]}"; do
     else
         echo "$MODEL failed with status $STATUS."
     fi
-
 done
 
 echo "========================================"
-echo "All models finished."
+echo "All models finished ($DATASET_NAME)."
 echo "========================================"
