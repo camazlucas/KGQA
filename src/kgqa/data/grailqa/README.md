@@ -184,11 +184,12 @@ KGQA/
 │   └── kgqa/
 │       └── data/
 │           └── grailqa/
-│               ├── grailqa_gold_paths_validated.json
-│               ├── grailqa_concrete_paths.json
-│               ├── grailqa_paths_text.json
 │               ├── generate_concrete_paths.py
-│               └── preprocess_grailqa_labels.py
+│               ├── preprocess_grailqa_labels.py
+│               └── outputs/
+│                   ├── grailqa_gold_paths_validated.json
+│                   ├── grailqa_concrete_paths.json
+│                   └── grailqa_paths_text.json
 │
 └── [armazenamento externo]
     └── mid2label.pkl
@@ -201,7 +202,9 @@ Os scripts utilizam `argparse` para receber os caminhos dos arquivos e não depe
 
 A partir da raiz do projeto:
 
-    python -m src.kgqa.data.grailqa.generate_concrete_paths --input src/kgqa/data/grailqa/grailqa_gold_paths_validated.json --output src/kgqa/data/grailqa/grailqa_concrete_paths.json
+    python -m src.kgqa.data.grailqa.generate_concrete_paths \
+    --input src/kgqa/data/grailqa/outputs/grailqa_gold_paths_validated.json \
+    --output src/kgqa/data/grailqa/outputs/grailqa_concrete_paths.json
 
 
 
@@ -209,7 +212,10 @@ A partir da raiz do projeto:
 
 A partir da raiz do projeto:
 
-    python -m src.kgqa.data.grailqa.preprocess_grailqa_labels --input src/kgqa/data/grailqa/grailqa_concrete_paths.json --dictionary <CAMINHO_PARA_mid2label.pkl> --output src/kgqa/data/grailqa/grailqa_paths_text.json
+    python -m src.kgqa.data.grailqa.preprocess_grailqa_labels \
+    --input src/kgqa/data/grailqa/outputs/grailqa_concrete_paths.json \
+    --dictionary <CAMINHO_PARA_mid2label.pkl> \
+    --output src/kgqa/data/grailqa/outputs/grailqa_paths_text.json
 
 ### Parâmetros
 
