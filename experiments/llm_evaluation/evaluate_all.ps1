@@ -1,23 +1,28 @@
-$baseDir = "results/llm_evaluation/paths/grailqa_paths_text"
+param(
+    [Parameter(Mandatory = $true)]
+    [string]$BaseDir,
 
-$models = @(
-    "qwen-0.5b",
-    "llama-3.2-3b",
-    "llama-2-chat-7b",
-    "qwen-2.5-7b",
-    "llama-8b",
-    "llama-3-8b",
-    "deepseek-llm-7b-chat",
-    "deepseek-r1-distill-qwen-1.5b"
+    [string[]]$Models = @(
+        "qwen-0.5b",
+        "llama-3.2-3b",
+        "llama-2-chat-7b",
+        "qwen-2.5-7b",
+        "llama-8b",
+        "llama-3-8b",
+        "deepseek-llm-7b-chat",
+        "deepseek-r1-distill-qwen-1.5b",
+        "rog"
+    )
 )
 
-foreach ($model in $models) {
-
-    $input = "$baseDir/$model/predictions.json"
-    $output = "$baseDir/$model/evaluation.json"
+foreach ($model in $Models) {
+    $modelDir = Join-Path $BaseDir $model
+    $input = Join-Path $modelDir "predictions.json"
+    $output = Join-Path $modelDir "evaluation.json"
 
     Write-Host "========================================"
     Write-Host "Evaluating: $model"
+    Write-Host "Results directory: $BaseDir"
     Write-Host "========================================"
 
     if (-not (Test-Path $input)) {
