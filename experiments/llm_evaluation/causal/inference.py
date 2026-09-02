@@ -1,6 +1,5 @@
 def generate_response(model, tokenizer, prompt, model_name):
-
-    if model_name == "alpaca-7b":
+    if model_name == "rog":
         inputs = tokenizer(
             prompt,
             return_tensors="pt"
