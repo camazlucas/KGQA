@@ -10,3 +10,12 @@
 [submodule "methods/TransferNet"]
 	path = methods/TransferNet
 	url = https://github.com/camazlucas/TransferNet.git
+[submodule "methods/GCR"]
+	path = methods/GCR
+	url = https://github.com/camazlucas/GCR-graph-constrained-reasoning
+[submodule "methods/_original_reference/TransferNet"]
+	path = methods/_original_reference/TransferNet
+	url = https://github.com/shijx12/TransferNet.git
+[submodule "methods/_original_reference/BeamQA"]
+	path = methods/_original_reference/BeamQA
+	url = https://github.com/colab-nyuad/BeamQA.git
