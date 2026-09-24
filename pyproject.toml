@@ -1,0 +1,23 @@
+[project]
+name = "kgqa"
+version = "0.1.0"
+description = "Cost-benefit analysis of Knowledge Graph Question Answering methods"
+authors = [{ name = "Lucas Camaz Ferreira", email = "camazlucas@gmail.com" }]
+requires-python = ">=3.10,<3.13"
+dependencies = [
+    "torch>=2.5",
+    "transformers>=5.0",
+    "accelerate>=1.0",
+    "datasets>=3.0",
+    "networkx>=3.3",
+    "pandas>=2.2",
+    "matplotlib>=3.9",
+    "sparqlwrapper>=2.0",
+]
+
+[tool.poetry]
+package-mode = false
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
