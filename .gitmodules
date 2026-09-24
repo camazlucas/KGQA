@@ -10,3 +10,6 @@
 [submodule "methods/TransferNet"]
 	path = methods/TransferNet
 	url = https://github.com/camazlucas/TransferNet.git
+[submodule "methods/GCR"]
+	path = methods/GCR
+	url = https://github.com/camazlucas/GCR-graph-constrained-reasoning
