@@ -6,6 +6,8 @@ import time
 from datasets import load_dataset
 from SPARQLWrapper import SPARQLWrapper, JSON
 
+from ..mid_label import load_label_to_mid_dict, resolve_labels_to_mids
+
 FREEBASE_NS = "http://rdf.freebase.com/ns/"
 
 
@@ -161,7 +163,7 @@ def load_existing_output(output_path):
         return json.load(f)
 
 
-def process_report(report_path, sparql, output_path, max_hops, max_frontier,
+def process_report(report_path, sparql, output_path, label2mids, max_hops, max_frontier,
                     batch_size, limit=None):
     with open(report_path, "r", encoding="utf-8") as f:
         report = json.load(f)
@@ -200,10 +202,21 @@ def process_report(report_path, sparql, output_path, max_hops, max_frontier,
 
             topic_entities = example["q_entity"]
 
-            found_paths = find_paths_for_example(
-                sparql, topic_entities, missing,
+            topic_mids, _ = resolve_labels_to_mids(topic_entities, label2mids)
+            answer_mids, answer_label_to_mids = resolve_labels_to_mids(missing, label2mids)
+
+            found_paths_by_mid = find_paths_for_example(
+                sparql, topic_mids, answer_mids,
                 max_hops=max_hops, max_frontier=max_frontier, batch_size=batch_size,
             )
+
+            # Remapeia os MIDs encontrados de volta para o label original da answer
+            found_paths = {}
+            for label, mids in answer_label_to_mids.items():
+                for mid in mids:
+                    if mid in found_paths_by_mid:
+                        found_paths[label] = found_paths_by_mid[mid]
+                        break
 
             split_results.append({
                 "qid": qid,
@@ -260,6 +273,12 @@ def main():
         help="Endpoint SPARQL do Virtuoso (ex: http://localhost:8891/sparql)."
     )
     parser.add_argument(
+        "--dictionary", required=True,
+        help="Caminho para o dicionario mid2label.pkl (MID -> label), usado para resolver "
+             "topic_entities e answers do RoG-webqsp/RoG-cwq (que vem como texto) para "
+             "MIDs do Freebase antes de consultar o Virtuoso."
+    )
+    parser.add_argument(
         "--output", default="src/kgqa/data/kgs/freebase/rog-subgraph/outputs/recovered_answer_paths.json",
         help="Caminho do arquivo de saida."
     )
@@ -285,10 +304,13 @@ def main():
     print("Conectando ao Virtuoso...")
     sparql = create_sparql_client(args.endpoint)
 
+    label2mids = load_label_to_mid_dict(args.dictionary)
+
     output = process_report(
         report_path=args.report,
         sparql=sparql,
         output_path=args.output,
+        label2mids=label2mids,
         max_hops=args.max_hops,
         max_frontier=args.max_frontier,
         batch_size=args.batch_size,
