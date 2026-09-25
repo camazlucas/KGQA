@@ -252,7 +252,7 @@ def main():
                      "que nao apareceram nos subgrafos pre-extraidos do RoG."
     )
     parser.add_argument(
-        "--report", default="src/kgqa/data/freebase/outputs/answer_coverage_report.json",
+        "--report", default="src/kgqa/data/kgs/freebase/rog-subgraph/outputs/answer_coverage_report.json",
         help="Caminho do relatorio gerado por check_answer_coverage.py."
     )
     parser.add_argument(
@@ -260,7 +260,7 @@ def main():
         help="Endpoint SPARQL do Virtuoso (ex: http://localhost:8891/sparql)."
     )
     parser.add_argument(
-        "--output", default="src/kgqa/data/freebase/outputs/recovered_answer_paths.json",
+        "--output", default="src/kgqa/data/kgs/freebase/rog-subgraph/outputs/recovered_answer_paths.json",
         help="Caminho do arquivo de saida."
     )
     parser.add_argument(

@@ -111,7 +111,7 @@ def main():
         help="Splits a verificar (default: train, validation, test)."
     )
     parser.add_argument(
-        "--output", default="src/kgqa/data/freebase/outputs/answer_coverage_report.json",
+        "--output", default="src/kgqa/data/kgs/freebase/rog-subgraph/outputs/answer_coverage_report.json",
         help="Caminho do relatório de saída."
     )
     args = parser.parse_args()
