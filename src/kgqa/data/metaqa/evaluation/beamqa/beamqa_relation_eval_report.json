@@ -1,0 +1,34 @@
+{
+  "per_hop": [
+    {
+      "hop": 1,
+      "total_gold_examples": 9947,
+      "no_prediction_found": 377,
+      "evaluated": 9570,
+      "hits_at_1": 9570,
+      "hits_at_3": 9570,
+      "hits_at_1_ratio": 1.0,
+      "hits_at_3_ratio": 1.0
+    },
+    {
+      "hop": 2,
+      "total_gold_examples": 14872,
+      "no_prediction_found": 1051,
+      "evaluated": 13821,
+      "hits_at_1": 13821,
+      "hits_at_3": 13821,
+      "hits_at_1_ratio": 1.0,
+      "hits_at_3_ratio": 1.0
+    },
+    {
+      "hop": 3,
+      "total_gold_examples": 14274,
+      "no_prediction_found": 0,
+      "evaluated": 14274,
+      "hits_at_1": 14274,
+      "hits_at_3": 14274,
+      "hits_at_1_ratio": 1.0,
+      "hits_at_3_ratio": 1.0
+    }
+  ]
+}
