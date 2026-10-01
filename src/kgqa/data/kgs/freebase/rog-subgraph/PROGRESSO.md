@@ -80,20 +80,57 @@ dicionário: `WebQSP.json` já dá o MID de topic entity e de answer diretamente
 MID da topic entity direto e, para a answer, dá pra rodar o SPARQL original do próprio exemplo
 contra o Virtuoso local e pegar o MID certo (em vez de resolver por label).
 
+## Plano anterior (superado pela abordagem abaixo)
+
+O plano original era recuperar os **caminhos** (topic entity → … → answer) das respostas
+faltantes via BFS bidirecional no Virtuoso, usando os MIDs sem ambiguidade do DoG (disponíveis
+só para o split de test) e, para train/validation, a resolução label→MID via `mid2label.pkl`
+(com a alta taxa de ambiguidade registrada acima). Esse plano foi abandonado em favor da
+abordagem mais simples da seção seguinte, por decisão explícita de simplificar o escopo.
+
+## Abordagem adotada: subgrafo global mesclado
+
+Em vez de tentar recuperar as respostas faltantes, a estratégia virou: juntar todos os
+subgrafos dos exemplos onde **pelo menos uma resposta já está presente** no subgrafo
+pré-extraído, formando um único grafo global.
+
+- **`build_merged_subgraph.py`** — para cada exemplo de WebQSP+CWQ (todos os splits), inclui o
+  `graph` do exemplo no grafo global se pelo menos uma `a_entity` aparecer entre os nós do
+  próprio subgrafo (ou seja, `fully_covered` + `partially_covered` na classificação do
+  `check_answer_coverage.py`; exclui `zero_covered` e `no_answers`). Deduplica triplas exatas
+  via `set()` do Python. Salva `outputs/merged_subgraph.tsv` (`head\trelation\ttail`, uma tripla
+  por linha) e `outputs/merged_subgraph_stats.json` (contagem e qids inclusos por split).
+
+- **Decisão: mesclar por label de entidade, não por MID.** As entidades do campo `graph` do RoG
+  são labels em texto (às vezes um MID bruto quando não há nome resolvido), não MIDs. Mesclar
+  por label faz com que entidades reais diferentes com o mesmo nome (ex: duas coisas chamadas
+  "Washington") virem o mesmo nó no grafo global — risco aceito conscientemente em troca de
+  simplicidade. As relações já são predicados reais do Freebase (ex:
+  `travel.tour_operator.travel_destinations`), então não têm esse problema de ambiguidade.
+
+- **Resultado (rodado em escala completa, WebQSP + CWQ, todos os splits):**
+
+  | dataset/split | exemplos qualificados | total |
+  |---|---|---|
+  | webqsp/train | 2715 | 2826 |
+  | webqsp/validation | 235 | 246 |
+  | webqsp/test | 1557 | 1628 |
+  | cwq/train | 22089 | 27639 |
+  | cwq/validation | 2848 | 3519 |
+  | cwq/test | 2848 | 3531 |
+
+  Total: **7.989.528 triplas únicas**, arquivo `outputs/merged_subgraph.tsv` com ~525MB (fora do
+  versionamento — entrada adicionada ao `.gitignore`).
+
+- **Decisão: não carregar no Virtuoso nem converter para RDF/IRI.** Com ~525MB, o grafo cabe
+  tranquilamente em RAM, então a ideia é trabalhá-lo direto em memória em Python (ex: dict de
+  adjacência), sem precisar resolver entidades para MID nem codificar labels como IRI. Esse
+  grafo mesclado é um conjunto **separado** do Freebase completo carregado no Virtuoso — sem
+  cruzamento/join entre os dois.
+
 ## Próxima etapa
 
-O objetivo final não é recuperar as respostas em si, e sim os **caminhos** (topic entity → …
-→ answer). Com os MIDs de topic entity e answer garantidos (via `WebQSP.json`/`cwq.json` do DoG,
-para o split de test), o plano é:
-
-1. Montar, para `webqsp/test` e `cwq/test`, os pares de MID (topic entity, answer) usando o
-   dataset do DoG em vez da resolução label→MID via dicionário.
-2. Buscar o caminho **mais curto** entre os dois MIDs no Virtuoso, com **BFS bidirecional**
-   (expandindo dos dois lados ao mesmo tempo até se encontrarem) — mais eficiente e mais
-   confiável que o BFS de fonte única de `find_missing_answer_paths.py`, já que agora se sabe o
-   destino exato de antemão.
-3. Train e validation continuam em aberto — o DoG não tem uma fonte equivalente pra esses
-   splits, então a resolução label→MID via `mid2label.pkl` (com a alta taxa de ambiguidade já
-   registrada acima) ainda é a única opção conhecida até agora, a menos que se encontre outra
-   fonte.
-4. Caso fique muito extenso, montar o subgrafo apenas com o conteúdo completo que esteja no dataset do RoG. Ou seja, descartar as perguntas sem resposta no subgrafo e trabalhar apenas com as que tem todas as respostas.
+1. Carregar `outputs/merged_subgraph.tsv` em uma estrutura de grafo em memória (ex: dict de
+   adjacência direto/reverso, ou `networkx`), para uso em Python sem depender do Virtuoso.
+2. Definir o que fazer com esse grafo em memória (ex: pathfinding entre topic entity e resposta
+   via BFS bidirecional, direto no grafo mesclado) — ainda em aberto.
