@@ -53,12 +53,12 @@ def main():
     )
     parser.add_argument(
         "--output",
-        default="src/kgqa/data/kgs/freebase/rog-subgraph/outputs/merged_subgraph.tsv",
+        default="src/kgqa/data/kgs/freebase/rog-subgraph/kg/merged_subgraph.tsv",
         help="Caminho do subgrafo global mesclado, uma tripla (head\\trelation\\ttail) por linha."
     )
     parser.add_argument(
         "--stats_output",
-        default="src/kgqa/data/kgs/freebase/rog-subgraph/outputs/merged_subgraph_stats.json",
+        default="src/kgqa/data/kgs/freebase/rog-subgraph/kg/merged_subgraph_stats.json",
         help="Caminho do relatorio com contagens e qids inclusos por dataset/split."
     )
     args = parser.parse_args()
