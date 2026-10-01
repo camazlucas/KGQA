@@ -22,3 +22,6 @@ models/*
 # Results
 results/*
 !results/.gitkeep
+
+# Merged RoG subgraph (large, local-only)
+src/kgqa/data/kgs/freebase/rog-subgraph/outputs/merged_subgraph*
