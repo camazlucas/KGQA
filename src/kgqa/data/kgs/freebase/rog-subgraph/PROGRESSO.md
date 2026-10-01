@@ -2,7 +2,9 @@
 
 Documenta o histórico do trabalho nesta pasta (`kgs/freebase/rog-subgraph/`), que lida com o
 subgrafo do Freebase pré-extraído pelo RoG para o WebQSP e o CWQ (`rmanluo/RoG-webqsp`,
-`rmanluo/RoG-cwq`) — não com processamento de QA em si.
+`rmanluo/RoG-cwq`) — não com processamento de QA em si. Estrutura: `scripts/` (os scripts
+citados abaixo), `kg/` (subgrafo global mesclado, ver seção "Abordagem adotada"), `outputs/`
+(relatórios e listas intermediárias em json).
 
 ## Contexto
 
@@ -98,8 +100,13 @@ pré-extraído, formando um único grafo global.
   `graph` do exemplo no grafo global se pelo menos uma `a_entity` aparecer entre os nós do
   próprio subgrafo (ou seja, `fully_covered` + `partially_covered` na classificação do
   `check_answer_coverage.py`; exclui `zero_covered` e `no_answers`). Deduplica triplas exatas
-  via `set()` do Python. Salva `outputs/merged_subgraph.tsv` (`head\trelation\ttail`, uma tripla
-  por linha) e `outputs/merged_subgraph_stats.json` (contagem e qids inclusos por split).
+  via `set()` do Python. Salva `kg/merged_subgraph.tsv` (`head\trelation\ttail`, uma tripla
+  por linha) e `kg/merged_subgraph_stats.json` (contagem e qids inclusos por split).
+
+- **`extract_entities_relations.py`** — a partir de `kg/merged_subgraph.tsv`, extrai as
+  entidades e relações distintas (colunas head/tail e relation) e salva `kg/entities.txt`
+  (2.493.661 entidades, ~43,5MB — fora do versionamento por tamanho) e `kg/relations.txt`
+  (6.994 relações, ~300KB — versionado), uma por linha, ordenadas.
 
 - **Decisão: mesclar por label de entidade, não por MID.** As entidades do campo `graph` do RoG
   são labels em texto (às vezes um MID bruto quando não há nome resolvido), não MIDs. Mesclar
@@ -119,7 +126,7 @@ pré-extraído, formando um único grafo global.
   | cwq/validation | 2848 | 3519 |
   | cwq/test | 2848 | 3531 |
 
-  Total: **7.989.528 triplas únicas**, arquivo `outputs/merged_subgraph.tsv` com ~525MB (fora do
+  Total: **7.989.528 triplas únicas**, arquivo `kg/merged_subgraph.tsv` com ~525MB (fora do
   versionamento — entrada adicionada ao `.gitignore`).
 
 - **Decisão: não carregar no Virtuoso nem converter para RDF/IRI.** Com ~525MB, o grafo cabe
@@ -130,7 +137,7 @@ pré-extraído, formando um único grafo global.
 
 ## Próxima etapa
 
-1. Carregar `outputs/merged_subgraph.tsv` em uma estrutura de grafo em memória (ex: dict de
+1. Carregar `kg/merged_subgraph.tsv` em uma estrutura de grafo em memória (ex: dict de
    adjacência direto/reverso, ou `networkx`), para uso em Python sem depender do Virtuoso.
 2. Definir o que fazer com esse grafo em memória (ex: pathfinding entre topic entity e resposta
    via BFS bidirecional, direto no grafo mesclado) — ainda em aberto.
