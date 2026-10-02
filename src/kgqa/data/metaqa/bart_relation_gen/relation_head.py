@@ -85,6 +85,19 @@ def attach_relation_head(model, tokenizer, vocab):
         cfg.eos_token_id = EOS_ID
         cfg.decoder_start_token_id = BOS_ID
 
+    # O generation_config do bart-base traz parametros pensados pro vocabulario
+    # original que, com a cabeca de 21 tokens, passam a apontar pra tokens errados:
+    # forced_bos_token_id=0 forcaria o 1o token gerado a ser <pad> (id 0 aqui),
+    # o que zerava o exact_match. Tambem removemos forced_eos, no_repeat_ngram_size
+    # e o beam search default (num_beams=4); quem quiser beam passa num_beams
+    # explicitamente no generate().
+    gen_cfg = model.generation_config
+    gen_cfg.forced_bos_token_id = None
+    gen_cfg.forced_eos_token_id = None
+    gen_cfg.no_repeat_ngram_size = None
+    gen_cfg.num_beams = 1
+    gen_cfg.early_stopping = False
+
     return model
 
 
