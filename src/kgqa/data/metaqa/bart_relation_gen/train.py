@@ -56,17 +56,22 @@ def make_compute_metrics(num_special):
         if isinstance(predictions, tuple):
             predictions = predictions[0]
 
-        exact_matches = []
-        for pred_row, label_row in zip(predictions, labels):
-            gold = [int(t) for t in label_row if t != -100][:-1]  # remove o EOS final
-            pred = []
-            for t in pred_row:
+        def extract_chain(row):
+            # Le ate o primeiro EOS e ignora ids especiais (PAD/BOS). Serve igual pra
+            # predicao e pro gold: o Trainer completa os labels com o pad_token_id (0
+            # aqui) ao juntar os lotes, e nao com -100, entao nao da pra filtrar so -100.
+            chain = []
+            for t in row:
                 t = int(t)
                 if t == EOS_ID:
                     break
                 if t >= num_special:
-                    pred.append(t)
-            exact_matches.append(int(pred == gold))
+                    chain.append(t)
+            return chain
+
+        exact_matches = []
+        for pred_row, label_row in zip(predictions, labels):
+            exact_matches.append(int(extract_chain(pred_row) == extract_chain(label_row)))
 
         return {"exact_match": sum(exact_matches) / len(exact_matches)}
 
