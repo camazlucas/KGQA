@@ -22,3 +22,6 @@ models/*
 # Results
 results/*
 !results/.gitkeep
+
+#KGs
+src\kgqa\data\kgs\freebase\rog-subgraph\kg
