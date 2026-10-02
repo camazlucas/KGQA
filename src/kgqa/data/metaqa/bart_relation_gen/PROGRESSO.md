@@ -58,6 +58,11 @@ por template fixo por relação (ver `evaluation/beamqa/PROGRESSO.md`).
     viram o default; quem quiser beam search passa `num_beams` explicitamente em `generate()`. O
     `generation_config` não entra no `state_dict`, então modelos já treinados não precisam ser
     retreinados.
+  - **Labels chegam ao `compute_metrics` preenchidos com `0`, não `-100`**: ao juntar os lotes de
+    avaliação o Trainer completa os labels com o `pad_token_id` (0 nesta cabeça), então filtrar só
+    `-100` deixava zeros no gold e o `exact_match` ficava em 0 mesmo com predições corretas. A métrica
+    agora extrai a cadeia de predição e de gold do mesmo jeito: lê até o primeiro EOS e ignora ids
+    especiais (PAD/BOS).
 
 ## Treino
 
