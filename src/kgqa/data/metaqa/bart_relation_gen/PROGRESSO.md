@@ -49,6 +49,15 @@ por template fixo por relação (ver `evaluation/beamqa/PROGRESSO.md`).
     `relation_vocab.json` (a lista de relações, na ordem usada para os ids) + tokenizer salvo à
     parte. Quem for carregar o modelo depois (`predict.py`) precisa reconstruir a arquitetura
     chamando `attach_relation_head` de novo antes de carregar os pesos.
+  - **`generation_config` herdado do `bart-base`**: `attach_relation_head` precisa limpar os parâmetros
+    de geração do checkpoint original, que apontam para ids do vocabulário grande. Com
+    `forced_bos_token_id=0` o `generate()` forçava o primeiro token gerado a ser o id 0, que na cabeça
+    de 21 tokens é o `<pad>`, e o `exact_match` no `valid` ficava em 0 mesmo com a loss perto de zero
+    (o greedy manual, sem `generate()`, acertava). Por isso `forced_bos_token_id`,
+    `forced_eos_token_id` e `no_repeat_ngram_size` são zerados e `num_beams=1`/`early_stopping=False`
+    viram o default; quem quiser beam search passa `num_beams` explicitamente em `generate()`. O
+    `generation_config` não entra no `state_dict`, então modelos já treinados não precisam ser
+    retreinados.
 
 ## Treino
 
