@@ -27,8 +27,12 @@ from src.kgqa.data.metaqa.bart_relation_gen.relation_head import (
 MAX_HOPS = 3
 
 
-def load_examples(csv_path, rel_to_id):
+def load_examples(csv_path, rel_to_id, max_examples=None, seed=42):
     df = pd.read_csv(csv_path)
+    if max_examples is not None and max_examples < len(df):
+        # Amostra fixa (mesma seed) feita uma unica vez -- todas as epocas
+        # treinam sobre o mesmo subconjunto, nao reamostra a cada epoca.
+        df = df.sample(n=max_examples, random_state=seed).reset_index(drop=True)
     questions = df["question"].tolist()
     label_ids = [
         [rel_to_id[r] for r in paths.split("|")] + [EOS_ID]
@@ -111,6 +115,11 @@ def main():
     parser.add_argument("--per_device_eval_batch_size", type=int, default=64)
     parser.add_argument("--learning_rate", type=float, default=3e-5)
     parser.add_argument("--max_input_length", type=int, default=64)
+    parser.add_argument(
+        "--max_train_examples", type=int, default=None,
+        help="Se definido, amostra aleatoriamente (seed fixa, uma unica vez) esse numero de "
+             "exemplos do train em vez de usar o csv inteiro. O valid nao e afetado."
+    )
     parser.add_argument("--early_stopping_patience", type=int, default=2)
     parser.add_argument("--checkpoint_every_n_epochs", type=int, default=5)
     parser.add_argument("--seed", type=int, default=42)
@@ -125,7 +134,9 @@ def main():
     rel_to_id = {rel: i for i, rel in enumerate(vocab)}
     attach_relation_head(model, tokenizer, vocab)
 
-    train_questions, train_labels = load_examples(args.train_csv, rel_to_id)
+    train_questions, train_labels = load_examples(
+        args.train_csv, rel_to_id, max_examples=args.max_train_examples, seed=args.seed
+    )
     valid_questions, valid_labels = load_examples(args.valid_csv, rel_to_id)
 
     train_dataset = build_dataset(train_questions, train_labels, tokenizer, args.max_input_length)
