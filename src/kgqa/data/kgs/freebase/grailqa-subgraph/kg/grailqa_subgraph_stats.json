@@ -1,0 +1,7 @@
+{
+  "input": "src/kgqa/data/qa/grailqa/outputs/grailqa_paths_text.json",
+  "total_examples": 962,
+  "raw_triples": 107526,
+  "invalid_triples": 0,
+  "unique_triples": 61239
+}
