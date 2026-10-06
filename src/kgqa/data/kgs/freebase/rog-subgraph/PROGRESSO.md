@@ -103,7 +103,10 @@ pré-extraído, formando um único grafo global.
   via `set()` do Python. Salva `kg/merged_subgraph.tsv` (`head\trelation\ttail`, uma tripla
   por linha) e `kg/merged_subgraph_stats.json` (contagem e qids inclusos por split).
 
-- **`extract_entities_relations.py`** — a partir de `kg/merged_subgraph.tsv`, extrai as
+- **`extract_entities_relations.py`** (movido para `src/kgqa/data/kgs/common/`, por ser
+  genérico entre KGs; uso: `python -m src.kgqa.data.kgs.common.extract_entities_relations
+  --graph src/kgqa/data/kgs/freebase/rog-subgraph/kg/merged_subgraph.tsv`) — a partir de
+  `kg/merged_subgraph.tsv`, extrai as
   entidades e relações distintas (colunas head/tail e relation) e salva `kg/entities.txt`
   (2.493.661 entidades, ~43,5MB — fora do versionamento por tamanho) e `kg/relations.txt`
   (6.994 relações, ~300KB — versionado), uma por linha, ordenadas.
