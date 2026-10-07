@@ -162,6 +162,7 @@ def process_dataset_split(dataset_short, split, qids, entity_to_id, relation_lis
 
         if not chains:
             no_path_qids.append(ex["id"])
+            continue
 
         entries.append({
             "qid": ex["id"],
@@ -212,7 +213,8 @@ def main():
                      "caminho mais curto (BFS bidirecional) entre cada topic_entity e cada "
                      "answer no subgrafo global mesclado, e salva o dataset de "
                      "pergunta+relation-paths no formato unificado do projeto (mesmo schema "
-                     "CSV do MetaQA)."
+                     "CSV do MetaQA). Exemplos sem nenhum caminho encontrado sao descartados "
+                     "do CSV e listados em <dataset>_<split>_no_path_report.json."
     )
     parser.add_argument(
         "--dataset", action="append", nargs=2, metavar=("DATASET", "SPLIT"),
@@ -283,8 +285,9 @@ def main():
             }, f, indent=2, ensure_ascii=False)
 
         print(
-            f"{dataset_short}/{split}: {len(entries) - len(no_path_qids)}/{len(entries)} "
-            f"exemplos com pelo menos um caminho encontrado | salvos em {output_path}"
+            f"{dataset_short}/{split}: {len(entries)}/{len(qids)} exemplos com pelo menos um "
+            f"caminho encontrado (mantidos no dataset) | {len(no_path_qids)} descartados "
+            f"(sem caminho, ver {report_path}) | salvos em {output_path}"
         )
 
 

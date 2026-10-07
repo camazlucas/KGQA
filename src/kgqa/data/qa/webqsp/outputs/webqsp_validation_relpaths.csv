@@ -47,7 +47,6 @@ WebQTrn-722,what is the current government system in france,France,Semi-presiden
 WebQTrn-724,what is calabria italy,Calabria,Italian region,base.aareas.schema.administrative_area.administrative_area_type
 WebQTrn-733,who did heinrich himmler marry,Heinrich Himmler,Margarete Boden,(R people.person.parents)|people.person.parents
 WebQTrn-741,who was carrie underwood in soul surfer,Carrie Underwood|Soul Surfer,Sarah Hill,film.actor.film|(R film.film_character.portrayed_in_films);film.film.starring|(R film.film_character.portrayed_in_films)
-WebQTrn-747,what is venus named for,Venus,Venus,
 WebQTrn-788,what clubs has peter crouch played for,Peter Crouch,Aston Villa F.C.|Queens Park Rangers F.C. in European football|Tottenham Hotspur F.C.|Portsmouth F.C.|Stoke City F.C.|Liverpool F.C.|Southampton F.C.,sports.pro_athlete.teams|sports.sports_team_roster.team;sports.pro_athlete.teams|sports.sports_team_roster.team;sports.pro_athlete.teams|sports.sports_team_roster.team;soccer.football_player.statistics|(R soccer.football_team.player_statistics);soccer.football_player.statistics|(R soccer.football_team.player_statistics);sports.pro_athlete.teams|sports.sports_team_roster.team;sports.pro_athlete.teams|sports.sports_team_roster.team
 WebQTrn-793,who did michael jordan marry,Michael Jordan,Yvette Prieto|Juanita Vanoy,people.person.children|people.person.parents;(R people.person.parents)|people.person.parents
 WebQTrn-810,what date did the san francisco giants win the world series,San Francisco Giants,2014 World Series,(R sports.sports_championship_event.champion)

@@ -456,7 +456,6 @@ WebQTest-611,where was st peter killed,Saint Peter,Rome,people.deceased_person.p
 WebQTest-612,who does jeremy shockey play for in 2012,Jeremy Shockey,Carolina Panthers,base.schemastaging.athlete_extra.salary|base.schemastaging.athlete_salary.team
 WebQTest-613,what college did deion sanders jr go to,Deion Sanders,Florida State University,people.person.nationality|(R location.location.containedby)
 WebQTest-615,what were the names of henry viii 's three children,Henry VIII of England,"Henry, Duke of Cornwall|Henry FitzRoy, 1st Duke of Richmond and Somerset|Mary I of England|Elizabeth I of England|Edward VI of England",people.person.children;(R people.person.parents);people.person.children;(R people.person.parents);(R people.person.parents)
-WebQTest-616,what was queen elizabeth ii childhood nickname,Elizabeth II,Elizabeth II|Lilibet,
 WebQTest-617,where did tim tebow grow up,Tim Tebow,Makati,(R location.location.people_born_here)
 WebQTest-618,where is chesapeake bay bridge,Chesapeake Bay Bridge,Anne Arundel County|Queen Anne's County,transportation.bridge.locale;transportation.bridge.locale
 WebQTest-619,who played victoria barkley,The Big Valley,Barbara Stanwyck,award.award_nominated_work.award_nominations|(R award.award_nominee.award_nominations)
@@ -569,7 +568,6 @@ WebQTest-749,who was president in 1988 in the united states,President of the Uni
 WebQTest-751,who owns google 2012,Google,David Drummond|Patrick Pichette|Vic Gundotra|Larry Page|Nikesh Arora,organization.organization.leadership|(R business.board_member.leader_of);organization.organization.leadership|(R business.board_member.leader_of);conferences.conference_subject.specific_conferences_about_this|time.event.people_involved;organization.organization.founders;organization.organization.leadership|(R business.board_member.leader_of)
 WebQTest-752,what drink did john pemberton create,John Pemberton,Coca-Cola,(R law.invention.inventor)
 WebQTest-753,what position did stanley matthews play,Sir Stanley Matthews,Outside forward|Midfielder|Forward,soccer.football_player.position_s;soccer.football_player.position_s;soccer.football_player.position_s
-WebQTest-755,what was bonnie prince charlie full name,Charles Edward Stuart,Charles Edward Stuart,
 WebQTest-756,who makes the voice of stewie griffin,Stewie Griffin,Seth MacFarlane,(R fictional_universe.fictional_character_creator.fictional_characters_created)
 WebQTest-757,who is angelina jolie mom and dad,Angelina Jolie,Jon Voight|Marcheline Bertrand,people.person.parents;people.person.parents
 WebQTest-758,who is the governor of indiana 2009,Governor of Indiana,Mitch Daniels,common.topic.image
@@ -1172,7 +1170,6 @@ WebQTest-1550,what is the name of king george vi wife,George VI,Queen Elizabeth 
 WebQTest-1551,what year did seattle seahawks go to the super bowl,Seattle Seahawks,Super Bowl XLVIII|Super Bowl XL,sports.sports_team.championships;(R sports.sports_championship_event.runner_up)
 WebQTest-1553,where does sami yusuf live,Sami Yusuf,Tehran,music.artist.origin
 WebQTest-1554,what is the official language of brazil now,Brazil,Portuguese Language,location.country.languages_spoken
-WebQTest-1555,what is the parliament of nepal called,Parliament of Nepal,Parliament of Nepal,
 WebQTest-1556,when 's the last time the mets won the world series,New York Mets,1986 World Series,(R sports.sports_championship_event.champion)
 WebQTest-1557,where do florida panthers play,Florida Panthers,Miami Arena|BB&T Center,sports.sports_team.arena_stadium;(R sports.sports_facility.teams)
 WebQTest-1558,who is john cena married to,John Cena,Elizabeth Huberdeau,freebase.valuenotation.is_reviewed|(R freebase.valuenotation.has_value)
@@ -1314,7 +1311,6 @@ WebQTest-1727,what countries speak french as a first language,French,Equatorial 
 WebQTest-1728,who was ptolemy and what did he do,Ptolemy,Mathematician|Astrologer|Astronomer|Geographer|Philosopher,people.person.profession;people.person.profession;common.topic.notable_types;people.person.profession;people.person.profession
 WebQTest-1729,what was the name of henry viii first wife,Henry VIII of England,Catherine of Aragon,people.family_member.family|(R people.family_member.family)
 WebQTest-1730,where does the parana river flow,Paraná River,South America,location.location.containedby
-WebQTest-1731,what is president nixon 's first name,Richard Nixon,Richard Nixon,
 WebQTest-1732,where did theodor schwann get his education,Theodor Schwann,Humboldt University of Berlin|University of Würzburg|University of Bonn,people.person.nationality|(R location.location.containedby);people.person.nationality|(R location.location.containedby);people.deceased_person.place_of_death|location.location.contains
 WebQTest-1733,who or what influenced frank lloyd wright,Frank Lloyd Wright,Bruce Price|William Morris|Georges I. Gurdjieff and Thomas De Hartmann|Louis Sullivan|Henry David Thoreau|Ebenezer Howard|Elizabeth Gordon,(R influence.influence_node.influenced);influence.influence_node.influenced_by;influence.influence_node.influenced_by;influence.influence_node.influenced_by;influence.influence_node.influenced_by;(R influence.influence_node.influenced);(R influence.influence_node.influenced)
 WebQTest-1734,what year did houston rockets win their first championship,Houston Rockets,1994 NBA Finals,(R sports.sports_championship_event.champion)
@@ -1545,7 +1541,6 @@ WebQTest-2016,where does fabio capello come from,Fabio Capello,San Canzian d'Iso
 WebQTest-2017,what party was abe lincoln part of,Abraham Lincoln,Illinois Republican Party|National Union Party|Whig Party|Republican Party,organization.organization_founder.organizations_founded;government.politician.party|(R government.political_party.politicians_in_this_party);influence.influence_node.influenced_by|organization.organization_founder.organizations_founded;organization.organization_founder.organizations_founded
 WebQTest-2018,what did jack london do for a living,Jack London,Author|Journalist|Screenwriter|Essayist|Sailor|Novelist,common.topic.notable_types;people.person.profession;people.person.profession;people.person.profession;people.person.profession;people.person.profession
 WebQTest-2019,who did morgan freeman marry,Morgan Freeman,Myrna Colley-Lee,(R people.person.parents)|people.person.parents
-WebQTest-2020,what are the mountains in northern italy called,Apennine Mountains,Apennine Mountains,
 WebQTest-2021,what influenced john steinbeck to start writing,John Steinbeck,Thomas Malory|Robert Burns|Sherwood Anderson|William Faulkner,influence.influence_node.influenced_by;influence.influence_node.influenced_by;influence.influence_node.influenced_by;influence.influence_node.influenced_by
 WebQTest-2022,where is dwayne johnson ethnicity,Dwayne Johnson,Samoan American|African American,people.person.ethnicity;people.person.ethnicity
 WebQTest-2023,where are the nato headquarters located,North Atlantic Treaty Organization (NATO),Brussels,(R organization.organization_founder.organizations_founded)|location.country.capital
