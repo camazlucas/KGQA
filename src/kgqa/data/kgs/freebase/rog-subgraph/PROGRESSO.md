@@ -135,9 +135,49 @@ pré-extraído, formando um único grafo global.
   grafo mesclado é um conjunto **separado** do Freebase completo carregado no Virtuoso — sem
   cruzamento/join entre os dois.
 
+## Dataset de pergunta + relation paths (análogo ao MetaQA)
+
+Objetivo: montar, pra WebQSP/CWQ, um dataset `{qid, question, topic_entities, answers, paths}`
+igual em schema ao que já existe pro MetaQA (`src/kgqa/data/metaqa/build_relpaths_dataset.py`,
+na branch `experiment/rel-paths-datasets`). Diferença: no MetaQA `paths` é uma cadeia de
+relações única (KB templated); aqui cada resposta pode exigir uma cadeia diferente (KG real),
+então `paths` guarda várias cadeias separadas por `;` (relações dentro de cada cadeia separadas
+por `|`, mesmo delimitador do MetaQA).
+
+Também foi encontrado, numa branch não mergeada (`experiment/rog-comparison`), um
+`path_extraction.py` que já fazia exatamente esse tipo de extração — só que no subgrafo
+**local** de cada exemplo (via `networkx`, com uma aresta inversa rotulada `(R <relação>)` pra
+permitir caminhar nos dois sentidos). A lógica/convenção foi reaproveitada, mas não o arquivo
+em si (aquela branch está com a estrutura de pastas antiga e misturada com outras mudanças).
+
+- **`scripts/extract_merged_paths.py`** — em vez de `networkx` (pesado demais pra 2,5M
+  entidades / 8M triplas), monta um dict de adjacência com entidades/relações convertidas pra
+  inteiros. Pra cada exemplo qualificado (ver seção anterior), busca por **BFS bidirecional**
+  (com limite `--max_hops`, default 3) o caminho mais curto entre cada `topic_entity` e cada
+  `answer`, usando a mesma convenção de relação inversa do `path_extraction.py` de referência.
+  Salva o CSV final (`<dataset>_<split>_relpaths.csv`) direto em `qa/webqsp/outputs/` e
+  `qa/cwq/outputs/`, mais um relatório `<dataset>_<split>_no_path_report.json` dos qids sem
+  nenhum caminho encontrado.
+
+- **Resultado (rodado em escala completa):**
+
+  | dataset/split | com caminho | qualificados |
+  |---|---|---|
+  | webqsp/train | 2708 | 2715 |
+  | webqsp/validation | 234 | 235 |
+  | webqsp/test | 1552 | 1557 |
+  | cwq/train | 21987 | 22089 |
+  | cwq/validation | 2839 | 2848 |
+  | cwq/test | 2834 | 2848 |
+
+  **32.154/32.292 exemplos (99,6%)** com pelo menos um caminho encontrado — cobertura bem
+  acima da expectativa inicial, provavelmente porque o grafo mesclado é bem mais conectado do
+  que o subgrafo local de cada exemplo (inclusive via "atalhos" entre exemplos diferentes, risco
+  de colisão por label já aceito anteriormente).
+
 ## Próxima etapa
 
-1. Carregar `kg/merged_subgraph.tsv` em uma estrutura de grafo em memória (ex: dict de
-   adjacência direto/reverso, ou `networkx`), para uso em Python sem depender do Virtuoso.
-2. Definir o que fazer com esse grafo em memória (ex: pathfinding entre topic entity e resposta
-   via BFS bidirecional, direto no grafo mesclado) — ainda em aberto.
+- Em aberto: investigar os poucos exemplos sem caminho (138 no total, listados nos
+  `*_no_path_report.json`); decidir se vale a pena inspecionar manualmente alguns caminhos
+  encontrados pra validar que não são "atalhos" espúrios por colisão de label; usar esse
+  dataset de relation-paths em algum método (ex: avaliação de LLM, treino supervisionado).
