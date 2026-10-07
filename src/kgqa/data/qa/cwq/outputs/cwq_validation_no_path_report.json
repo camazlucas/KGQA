@@ -1,0 +1,17 @@
+{
+  "dataset": "cwq",
+  "split": "validation",
+  "total_qualifying": 2848,
+  "no_path_count": 9,
+  "no_path_qids": [
+    "WebQTrn-1109_39789ea4a11e50dadf674ef60a421392",
+    "WebQTest-1005_7b850f5e1bfe49abeaace98c2f2c8cca",
+    "WebQTest-310_6137d442d446712c83821b5d4d7ce909",
+    "WebQTrn-2995_4cb8281acfccc5bf61fed217ed7d028a",
+    "WebQTest-1036_0b5333d98ef87008aa02d1fbc1554b05",
+    "WebQTest-1383_12aaa127b4f5373235d0730cc3ec55f3",
+    "WebQTest-470_d34f26c825e32b405e9988aff447373f",
+    "WebQTest-1383_758ecbb15b3e71626c8416b21106a648",
+    "WebQTrn-3327_063884db7cbd88485c220abe1f6f4cdd"
+  ]
+}

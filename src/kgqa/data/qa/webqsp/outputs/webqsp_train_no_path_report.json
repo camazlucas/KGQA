@@ -1,0 +1,15 @@
+{
+  "dataset": "webqsp",
+  "split": "train",
+  "total_qualifying": 2715,
+  "no_path_count": 7,
+  "no_path_qids": [
+    "WebQTrn-160",
+    "WebQTrn-168",
+    "WebQTrn-1097",
+    "WebQTrn-1263",
+    "WebQTrn-3312",
+    "WebQTrn-3336",
+    "WebQTrn-3489"
+  ]
+}

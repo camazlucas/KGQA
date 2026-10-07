@@ -1,0 +1,9 @@
+{
+  "dataset": "webqsp",
+  "split": "validation",
+  "total_qualifying": 235,
+  "no_path_count": 1,
+  "no_path_qids": [
+    "WebQTrn-747"
+  ]
+}

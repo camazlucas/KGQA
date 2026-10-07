@@ -1,0 +1,13 @@
+{
+  "dataset": "webqsp",
+  "split": "test",
+  "total_qualifying": 1557,
+  "no_path_count": 5,
+  "no_path_qids": [
+    "WebQTest-616",
+    "WebQTest-755",
+    "WebQTest-1555",
+    "WebQTest-1731",
+    "WebQTest-2020"
+  ]
+}
