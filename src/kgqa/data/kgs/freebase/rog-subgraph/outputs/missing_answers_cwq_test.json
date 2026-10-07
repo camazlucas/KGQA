@@ -1,0 +1,8303 @@
+[
+  {
+    "qid": "WebQTrn-1259_1997cb4922db71983be26e6a509950f4",
+    "topic_entities": [
+      "Country Nation World Tour",
+      "Bachelor's degree",
+      "College/University"
+    ],
+    "answers": [
+      "Belmont University"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1077_f4a9e5f1e0dcfb82cbadf4771eda7bb5",
+    "topic_entities": [
+      "Afghan National Anthem"
+    ],
+    "answers": [
+      "Shia Islam",
+      "Sunni Islam"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2069_0fa727f3b282196eb1097410b4be6818",
+    "topic_entities": [
+      "Michelle Bachelet"
+    ],
+    "answers": [
+      "Aymara language",
+      "Mapudungun Language",
+      "Rapa Nui Language",
+      "Puquina Language"
+    ]
+  },
+  {
+    "qid": "WebQTrn-710_c264a6d11d7956741926d417b94327e2",
+    "topic_entities": [
+      "Larry Baer"
+    ],
+    "answers": [
+      "2014 World Series"
+    ]
+  },
+  {
+    "qid": "WebQTest-538_49b4e9304f18a0a1cbe37bb162f61131",
+    "topic_entities": [
+      "West Reading El Ctr"
+    ],
+    "answers": [
+      "Hannah Montana: The Movie",
+      "Valentine's Day",
+      "The Lorax",
+      "Jonas Brothers: The Concert Experience",
+      "The Giver"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2722_8babdaa9ecd05a72e3227b43b1f98771",
+    "topic_entities": [
+      "Gold medal",
+      "Dewitt High School"
+    ],
+    "answers": [
+      "Gymnastics at the 2012 Summer Olympics – Women's artistic team all-around"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1770_8db36acba886620a06031d39165d78de",
+    "topic_entities": [
+      "I Am... World Tour"
+    ],
+    "answers": [
+      "Blue Ivy"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1817_89670933168c3f4e5195a241f9d46e76",
+    "topic_entities": [
+      "Tiến Quân Ca"
+    ],
+    "answers": [
+      "Communist state",
+      "Socialist state",
+      "Single-party state"
+    ]
+  },
+  {
+    "qid": "WebQTrn-3376_0619d288bbed0ca782e60c6f841a6051",
+    "topic_entities": [
+      "Castlemont High School"
+    ],
+    "answers": [
+      "Temple University"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1077_0c34ca057060e35aa5c74fbbca682dee",
+    "topic_entities": [
+      "Badakhshan Province"
+    ],
+    "answers": [
+      "Shia Islam",
+      "Sunni Islam"
+    ]
+  },
+  {
+    "qid": "WebQTest-12_68d745a0657c86906382873e57294d6a",
+    "topic_entities": [
+      "Governor",
+      "Ohio"
+    ],
+    "answers": [
+      "John Kasich"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1023_1e7110e48c30a2cef3caf291e3b8d394",
+    "topic_entities": [
+      "Buenos Aires"
+    ],
+    "answers": [
+      "Argentine peso"
+    ]
+  },
+  {
+    "qid": "WebQTrn-21_660138373d19bbffdd3d3f7a30234e4a",
+    "topic_entities": [
+      "Dire Dawa",
+      "Prime minister"
+    ],
+    "answers": [
+      "Hailemariam Desalegn"
+    ]
+  },
+  {
+    "qid": "WebQTrn-634_000f72b60ccaedff5f056f522ee06e98",
+    "topic_entities": [
+      "Mansfeld"
+    ],
+    "answers": [
+      "Professor",
+      "Monk",
+      "Theologian",
+      "Priest",
+      "Writer"
+    ]
+  },
+  {
+    "qid": "WebQTrn-857_9392f3f06e288ee4e3437a74f6bf5a37",
+    "topic_entities": [
+      "Ramble Elementary"
+    ],
+    "answers": [
+      "Al Gore"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2026_d059b24adec4064377b957ca598769be",
+    "topic_entities": [
+      "Santo Domingo"
+    ],
+    "answers": [
+      "Dominican peso"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2189_f4440609f5cecb091bf8e86adb47be25",
+    "topic_entities": [
+      "Bilady, Bilady, Bilady"
+    ],
+    "answers": [
+      "Modern Standard Arabic"
+    ]
+  },
+  {
+    "qid": "WebQTest-100_de15ac1f762e3ec1e1261f6d9c81ebf9",
+    "topic_entities": [
+      "La Dessalinienne"
+    ],
+    "answers": [
+      "Haitian Creole",
+      "French"
+    ]
+  },
+  {
+    "qid": "WebQTest-121_333b95bd45af3e6e31e328bc8c24d84f",
+    "topic_entities": [
+      "Chase Lane Primary School"
+    ],
+    "answers": [
+      "LA Galaxy"
+    ]
+  },
+  {
+    "qid": "WebQTrn-124_028bb5f442b37a4af9f9fd9fa0bc5e9a",
+    "topic_entities": [
+      "William O. Schaefer Elementary School"
+    ],
+    "answers": [
+      "By the Sea",
+      "In the Land of Blood and Honey",
+      "A Place in Time",
+      "Unbroken"
+    ]
+  },
+  {
+    "qid": "WebQTest-96_11da03aa9cec8b011619c8ea0dbfdcf9",
+    "topic_entities": [
+      "East Whittier Elementary School"
+    ],
+    "answers": [
+      "New York City"
+    ]
+  },
+  {
+    "qid": "WebQTest-1119_8c41904eaef9fce2d95afd27eb9150ec",
+    "topic_entities": [
+      "Bentley B. Rayburn"
+    ],
+    "answers": [
+      "College/University"
+    ]
+  },
+  {
+    "qid": "WebQTest-397_c7ee26d5c3f80107d7ae5fede489209a",
+    "topic_entities": [
+      "Harvard Art Museums"
+    ],
+    "answers": [
+      "Crimson"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2478_3e09b108c3448248556d4c34acae3cf7",
+    "topic_entities": [
+      "Eric F. Spina"
+    ],
+    "answers": [
+      "Syracuse University Otto the Orange"
+    ]
+  },
+  {
+    "qid": "WebQTrn-3100_d059b24adec4064377b957ca598769be",
+    "topic_entities": [
+      "Santo Domingo"
+    ],
+    "answers": [
+      "Latin America",
+      "Americas",
+      "País"
+    ]
+  },
+  {
+    "qid": "WebQTest-538_d37989c422fef8a98e7289ca0144159c",
+    "topic_entities": [
+      "The Wyndcroft School"
+    ],
+    "answers": [
+      "Hannah Montana: The Movie",
+      "Valentine's Day",
+      "The Lorax",
+      "Jonas Brothers: The Concert Experience",
+      "The Giver"
+    ]
+  },
+  {
+    "qid": "WebQTest-54_d14abf7768bdbdaa66897780b56dace1",
+    "topic_entities": [
+      "BRG Steyr"
+    ],
+    "answers": [
+      "Nazi Germany"
+    ]
+  },
+  {
+    "qid": "WebQTest-54_f0c99f377c8b944364e85b70b9f9b331",
+    "topic_entities": [
+      "Bundesrealgymnasium Linz"
+    ],
+    "answers": [
+      "Nazi Germany"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2256_d14abf7768bdbdaa66897780b56dace1",
+    "topic_entities": [
+      "BRG Steyr"
+    ],
+    "answers": [
+      "Ballistic trauma",
+      "Suicide"
+    ]
+  },
+  {
+    "qid": "WebQTrn-465_02714e184571525b8c510d20f11fc886",
+    "topic_entities": [
+      "L-Innu Malti"
+    ],
+    "answers": [
+      "Megalithic Temples of Malta",
+      "National Museum of Fine Arts, Malta",
+      "Casa Rocca Piccola",
+      "Fort Rinella",
+      "National Museum of Archaeology, Malta",
+      "St. Paul's Catacombs",
+      "Manoel Theatre",
+      "Gozo 360° Multivision Show",
+      "Dingli Cliffs",
+      "The Armoury and the Maritime Museum"
+    ]
+  },
+  {
+    "qid": "WebQTest-1091_31c94b951f3d708ac503327d7979da93",
+    "topic_entities": [
+      "g.122hpl76",
+      "United States of America"
+    ],
+    "answers": [
+      "Buddhism"
+    ]
+  },
+  {
+    "qid": "WebQTest-1560_61856c62660c382e9579ce72ec422a70",
+    "topic_entities": [
+      "Lindsay Zir"
+    ],
+    "answers": [
+      "Albert Gallatin",
+      "Mordecai Manuel Noah"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2834_31c94b951f3d708ac503327d7979da93",
+    "topic_entities": [
+      "g.122hpl76",
+      "United States of America"
+    ],
+    "answers": [
+      "Buddhism"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1077_3c58a650bf56f8c8d0f6931d08bd2598",
+    "topic_entities": [
+      "Fruit and Tree Nut Farming"
+    ],
+    "answers": [
+      "Shia Islam",
+      "Sunni Islam"
+    ]
+  },
+  {
+    "qid": "WebQTest-397_ef7c0ef1f2f2ee145c3e9fa70b47ab7d",
+    "topic_entities": [
+      "Donald Stanley Marshall"
+    ],
+    "answers": [
+      "Crimson"
+    ]
+  },
+  {
+    "qid": "WebQTrn-493_c8b99bb380a7f157039bdf6c7b8df764",
+    "topic_entities": [
+      "Brabançonne"
+    ],
+    "answers": [
+      "Eurasia",
+      "Western Europe"
+    ]
+  },
+  {
+    "qid": "WebQTest-1923_2d077323191d349225d8f3719925c777",
+    "topic_entities": [
+      "Heritage Elementary School"
+    ],
+    "answers": [
+      "Miley Cyrus: Tongue Tied",
+      "Big Fish",
+      "Hannah Montana: The Movie",
+      "Hannah Montana and Miley Cyrus: Best of Both Worlds Concert",
+      "Sonic the Hedgehog",
+      "Sex and the City 2",
+      "Wizards on Deck with Hannah Montana",
+      "Bolt",
+      "The Last Song",
+      "Super Rhino",
+      "High School Musical 2",
+      "LOL",
+      "Radio Disney Party Jams: The Concert",
+      "The World According to Miley Cyrus",
+      "So Undercover",
+      "Family Bond",
+      "Rock Mafia Presents: The Big Bang"
+    ]
+  },
+  {
+    "qid": "WebQTrn-3035_94f91513faa8a29c82e1f1184277f81a",
+    "topic_entities": [
+      "Governor",
+      "Uinta Mountains"
+    ],
+    "answers": [
+      "Matt Mead"
+    ]
+  },
+  {
+    "qid": "WebQTrn-124_792933caa19fa7b1c474993687851b6a",
+    "topic_entities": [
+      "El Rodeo School"
+    ],
+    "answers": [
+      "By the Sea",
+      "In the Land of Blood and Honey",
+      "A Place in Time",
+      "Unbroken"
+    ]
+  },
+  {
+    "qid": "WebQTrn-3216_823204b81227d73ef5fadc741254c75b",
+    "topic_entities": [
+      "L'Abidjanaise"
+    ],
+    "answers": [
+      "West African CFA franc"
+    ]
+  },
+  {
+    "qid": "WebQTrn-21_a42ef572567ccaf4d1a2e609d11a4226",
+    "topic_entities": [
+      "March Forward, Dear Mother Ethiopia",
+      "Prime minister"
+    ],
+    "answers": [
+      "Hailemariam Desalegn"
+    ]
+  },
+  {
+    "qid": "WebQTrn-484_593bfb1e8da51c4ccd9f768e8f3acd97",
+    "topic_entities": [
+      "Rio de Janeiro"
+    ],
+    "answers": [
+      "Brazilian real"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1817_bab9c2907e69f117b3ef460ecbfd511a",
+    "topic_entities": [
+      "Bac Lieu Province"
+    ],
+    "answers": [
+      "Communist state",
+      "Socialist state",
+      "Single-party state"
+    ]
+  },
+  {
+    "qid": "WebQTest-1108_33675738b1c363431ed63babcc989cb8",
+    "topic_entities": [
+      "Gary Knell",
+      "New York City"
+    ],
+    "answers": [
+      "WNYC"
+    ]
+  },
+  {
+    "qid": "WebQTrn-810_c264a6d11d7956741926d417b94327e2",
+    "topic_entities": [
+      "Larry Baer"
+    ],
+    "answers": [
+      "2014 World Series"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1484_1fbd766e1b1bf978da23e8646cadf3a1",
+    "topic_entities": [
+      "Colegio Alemán Alexander von Humboldt"
+    ],
+    "answers": [
+      "Magic realism",
+      "Modern art",
+      "Surrealism"
+    ]
+  },
+  {
+    "qid": "WebQTrn-3035_5b4639a59ee916bc8e30fbc3bfa2d016",
+    "topic_entities": [
+      "Governor",
+      "Cheyenne"
+    ],
+    "answers": [
+      "Matt Mead"
+    ]
+  },
+  {
+    "qid": "WebQTest-1072_5b0246d0bc7172511480c78134ab2e39",
+    "topic_entities": [
+      "Bruce Babbitt",
+      "Governor"
+    ],
+    "answers": [
+      "Jan Brewer"
+    ]
+  },
+  {
+    "qid": "WebQTrn-3100_0d5bc4f5ce16dafee354662c09965811",
+    "topic_entities": [
+      "Valiant Quisqueyans"
+    ],
+    "answers": [
+      "Greater Antilles",
+      "Latin America",
+      "North America",
+      "Americas",
+      "País"
+    ]
+  },
+  {
+    "qid": "WebQTest-743_42588c6fd3d30a777953bbaf2b4079b9",
+    "topic_entities": [
+      "Male",
+      "Edward Devotion School"
+    ],
+    "answers": [
+      "Ted Kennedy",
+      "Joseph P. Kennedy, Jr.",
+      "Robert F. Kennedy"
+    ]
+  },
+  {
+    "qid": "WebQTrn-105_f4440609f5cecb091bf8e86adb47be25",
+    "topic_entities": [
+      "Bilady, Bilady, Bilady"
+    ],
+    "answers": [
+      "Egyptian pound"
+    ]
+  },
+  {
+    "qid": "WebQTest-12_7b54b31f3e5a6273f4fd2a20e565ec6d",
+    "topic_entities": [
+      "Governor",
+      "Ohio"
+    ],
+    "answers": [
+      "Ted Strickland",
+      "John Kasich"
+    ]
+  },
+  {
+    "qid": "WebQTest-1384_cb60fbc3dea230fc32682cbb8556ba62",
+    "topic_entities": [
+      "Benjamin Netanyahu"
+    ],
+    "answers": [
+      "Judaism"
+    ]
+  },
+  {
+    "qid": "WebQTest-538_7051341e8a163515972dc322874d8aa0",
+    "topic_entities": [
+      "Taylor Swift Fearless 2009 Tour"
+    ],
+    "answers": [
+      "Hannah Montana: The Movie",
+      "Valentine's Day",
+      "The Lorax",
+      "Jonas Brothers: The Concert Experience",
+      "The Giver"
+    ]
+  },
+  {
+    "qid": "WebQTrn-3335_c071c552853eb739a0ff0c67bb9ed366",
+    "topic_entities": [
+      "Dmitry Medvedev"
+    ],
+    "answers": [
+      "Russian ruble"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1155_92f2cf43c174d40942f1c72ba13096e6",
+    "topic_entities": [
+      "Swiss Psalm"
+    ],
+    "answers": [
+      "Swiss franc"
+    ]
+  },
+  {
+    "qid": "WebQTrn-857_87f2309c33a86e13ce73f341a6f1dc46",
+    "topic_entities": [
+      "St. John's Catholic Elementary School"
+    ],
+    "answers": [
+      "Al Gore"
+    ]
+  },
+  {
+    "qid": "WebQTest-1686_4e89c1dffdc379421d43840f4194ca9e",
+    "topic_entities": [
+      "Governor",
+      "Phoenix"
+    ],
+    "answers": [
+      "Janet Napolitano",
+      "Jan Brewer"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1560_799804056310383bba960a7649b85b4f",
+    "topic_entities": [
+      "Downe, Kent",
+      "Marriage"
+    ],
+    "answers": [
+      "Emma Darwin"
+    ]
+  },
+  {
+    "qid": "WebQTest-397_6a82d6252604de26338b33025b2a160a",
+    "topic_entities": [
+      "Franklin Ford"
+    ],
+    "answers": [
+      "Crimson"
+    ]
+  },
+  {
+    "qid": "WebQTrn-412_8f39780bf44690321c49823643e6438d",
+    "topic_entities": [
+      "South Holland"
+    ],
+    "answers": [
+      "West Flemish"
+    ]
+  },
+  {
+    "qid": "WebQTrn-3446_a3875ee1db404486f5502bc39b8e29ec",
+    "topic_entities": [
+      "Gingins"
+    ],
+    "answers": [
+      "Le Mans"
+    ]
+  },
+  {
+    "qid": "WebQTest-1216_a3377a8eb739f84daa945ee91b90f10b",
+    "topic_entities": [
+      "Narym"
+    ],
+    "answers": [
+      "Soviet Union"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2478_f21576961bee318b9eaf1aa648e28e8f",
+    "topic_entities": [
+      "Syracuse University Athletics"
+    ],
+    "answers": [
+      "Syracuse University Otto the Orange"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2875_c1bdcdad310f5bccb773c5aae3e46f20",
+    "topic_entities": [
+      "Nicosia"
+    ],
+    "answers": [
+      "Romani language",
+      "English Language",
+      "Cypriot Maronite Arabic",
+      "German Language",
+      "French",
+      "Armenian Language"
+    ]
+  },
+  {
+    "qid": "WebQTrn-849_82e069064d66663276c549f47e5e179d",
+    "topic_entities": [
+      "Atlantic Time Zone",
+      "Germany",
+      "Country"
+    ],
+    "answers": [
+      "Netherlands"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2319_15c47379c7578b2dd4e0975d032f85d5",
+    "topic_entities": [
+      "Filaret"
+    ],
+    "answers": [
+      "Albanian language",
+      "Tatar Language",
+      "Moldovan language",
+      "Romanian Language",
+      "Hungarian language",
+      "Russian Language",
+      "Ukrainian Language"
+    ]
+  },
+  {
+    "qid": "WebQTrn-3384_275abff5d62790363fe8bc0387660115",
+    "topic_entities": [
+      "Margrethe II of Denmark"
+    ],
+    "answers": [
+      "Greenlandic language",
+      "Faroese",
+      "German Language"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1023_2ed287b0ef57067bd3a79f71c2fa849e",
+    "topic_entities": [
+      "Argentine National Anthem"
+    ],
+    "answers": [
+      "Argentine peso"
+    ]
+  },
+  {
+    "qid": "WebQTest-1560_01bd47cf839a907d796deff29832aa26",
+    "topic_entities": [
+      "William J. Taverner"
+    ],
+    "answers": [
+      "Albert Gallatin",
+      "Mordecai Manuel Noah"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2189_f87f28f0d42904ea62dcab41fb65f3f1",
+    "topic_entities": [
+      "Anwar Sadat"
+    ],
+    "answers": [
+      "Modern Standard Arabic"
+    ]
+  },
+  {
+    "qid": "WebQTest-759_1735fa6bb245e5bb515f24cfd5f76ddb",
+    "topic_entities": [
+      "Benerville-sur-Mer",
+      "Dated"
+    ],
+    "answers": [
+      "Thandie Newton",
+      "Juliette Lewis",
+      "Sinitta",
+      "Shalane McCall",
+      "Robin Givens"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2641_496153141015e2276bf542bbf6a99b96",
+    "topic_entities": [
+      "Horace Mann School for the Deaf and Hard of Hearing"
+    ],
+    "answers": [
+      "Easton"
+    ]
+  },
+  {
+    "qid": "WebQTest-1216_70d51724a4507fc0f35060eb2a65ce68",
+    "topic_entities": [
+      "Solvychegodsk"
+    ],
+    "answers": [
+      "Soviet Union"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2478_e560a71c67277fcd127342e93c8cbe88",
+    "topic_entities": [
+      "Interim Chancellor"
+    ],
+    "answers": [
+      "Syracuse University Otto the Orange"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1069_6cb1331b7de4eccf0c4d3f78f17c7ad8",
+    "topic_entities": [
+      "There is a Lovely Country"
+    ],
+    "answers": [
+      "Greenlandic language",
+      "Faroese",
+      "German Language"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2006_60d761ea1fd499fc404dd4a83941d230",
+    "topic_entities": [
+      "Fordham"
+    ],
+    "answers": [
+      "Graham's Magazine",
+      "Broadway Journal",
+      "Burton's Gentleman's Magazine"
+    ]
+  },
+  {
+    "qid": "WebQTest-1823_6ac48b436d99ed7cd3f2d9329d95a0c8",
+    "topic_entities": [
+      "Ardulfurataini Watan"
+    ],
+    "answers": [
+      "Parliamentary system",
+      "Republic",
+      "Parliamentary republic",
+      "Federal republic"
+    ]
+  },
+  {
+    "qid": "WebQTest-1234_279eccdaed54f8d3746c5897f5d30c51",
+    "topic_entities": [
+      "Plum Orchard"
+    ],
+    "answers": [
+      "financier",
+      "steel"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1521_8a0b4e1cf3027533ff8a45c91970ad01",
+    "topic_entities": [
+      "Dean L. Bresciani"
+    ],
+    "answers": [
+      "Thundar"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2314_2e6d98fb779ac3b63a5dd2688034c0c9",
+    "topic_entities": [
+      "Noble patria, tu hermosa bandera"
+    ],
+    "answers": [
+      "Costa Rican colón"
+    ]
+  },
+  {
+    "qid": "WebQTrn-484_894fd8dc00cf831fe75187abd587b8aa",
+    "topic_entities": [
+      "Pernambuco"
+    ],
+    "answers": [
+      "Brazilian real"
+    ]
+  },
+  {
+    "qid": "WebQTrn-95_0a1797c617f8e1eb87eab85b0790302e",
+    "topic_entities": [
+      "Saint Ann Parish"
+    ],
+    "answers": [
+      "Jamaican dollar"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1077_fb48d47a1d549a96bd54b8bdaf3c4be1",
+    "topic_entities": [
+      "Herat Province"
+    ],
+    "answers": [
+      "Shia Islam",
+      "Sunni Islam"
+    ]
+  },
+  {
+    "qid": "WebQTrn-21_2b2e7b36b664bdd3e85b7c3a190677fc",
+    "topic_entities": [
+      "Loma",
+      "Prime minister"
+    ],
+    "answers": [
+      "Hailemariam Desalegn"
+    ]
+  },
+  {
+    "qid": "WebQTrn-750_3678d94fca2cefdaebd9ae4df2b46ada",
+    "topic_entities": [
+      "Stan Kasten"
+    ],
+    "answers": [
+      "1981 World Series",
+      "1988 World Series",
+      "1965 World Series",
+      "1963 World Series",
+      "1959 World Series"
+    ]
+  },
+  {
+    "qid": "WebQTest-55_15737055923694d16485b6d734decdd1",
+    "topic_entities": [
+      "Seaforth Elementary School"
+    ],
+    "answers": [
+      "Actor",
+      "Singer",
+      "Songwriter"
+    ]
+  },
+  {
+    "qid": "WebQTest-1603_66cf01fb3373deb3f112935fbc2518da",
+    "topic_entities": [
+      "Zhang Jue"
+    ],
+    "answers": [
+      "Zhuang Zhou",
+      "Tao Te Ching",
+      "I Ching",
+      "Daozang"
+    ]
+  },
+  {
+    "qid": "WebQTrn-3151_cfcb8ee843e79059ec902e53426d5d04",
+    "topic_entities": [
+      "Antonis Samaras"
+    ],
+    "answers": [
+      "Albanian language"
+    ]
+  },
+  {
+    "qid": "WebQTrn-412_b5575cb1cef1ef5a555d364a3429dedd",
+    "topic_entities": [
+      "The Hague"
+    ],
+    "answers": [
+      "West Flemish"
+    ]
+  },
+  {
+    "qid": "WebQTest-1686_4fa3b53f1047599414336495b9275a38",
+    "topic_entities": [
+      "Governor",
+      "Jan Brewer"
+    ],
+    "answers": [
+      "Janet Napolitano"
+    ]
+  },
+  {
+    "qid": "WebQTest-1091_843715b5d1b0569540e0316e66763a38",
+    "topic_entities": [
+      "Kushinagar",
+      "United States of America"
+    ],
+    "answers": [
+      "Buddhism"
+    ]
+  },
+  {
+    "qid": "WebQTrn-3166_cb7256fc0312551734293d80792d8d90",
+    "topic_entities": [
+      "Aegukga"
+    ],
+    "answers": [
+      "Seoul"
+    ]
+  },
+  {
+    "qid": "WebQTest-1483_4c2bbfb641cc9cde2a873099756839a0",
+    "topic_entities": [
+      "Duisburg"
+    ],
+    "answers": [
+      "Constitutional republic",
+      "Representative democracy",
+      "Parliamentary republic",
+      "Federal republic"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2834_843715b5d1b0569540e0316e66763a38",
+    "topic_entities": [
+      "Kushinagar",
+      "United States of America"
+    ],
+    "answers": [
+      "Buddhism"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1297_0ed55ab55fae21af5b4b03af90678e30",
+    "topic_entities": [
+      "Stratford Northwestern Secondary School"
+    ],
+    "answers": [
+      "London"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2319_50b710c35a760f79c490a695314e6c74",
+    "topic_entities": [
+      "Sviatoslav Shevchuk"
+    ],
+    "answers": [
+      "Albanian language",
+      "Tatar Language",
+      "Moldovan language",
+      "Romanian Language",
+      "Hungarian language",
+      "Russian Language",
+      "Ukrainian Language"
+    ]
+  },
+  {
+    "qid": "WebQTrn-3766_b189e33b064458d172fee7d5e4c90738",
+    "topic_entities": [
+      "Ollanta Humala"
+    ],
+    "answers": [
+      "Peruvian nuevo sol"
+    ]
+  },
+  {
+    "qid": "WebQTest-1120_c78405f6f2157645f1098f8a871f1bc2",
+    "topic_entities": [
+      "Louis-Eugène Cavaignac"
+    ],
+    "answers": [
+      "Assignat"
+    ]
+  },
+  {
+    "qid": "WebQTest-1216_7b3bbe0291752d176e791ab0a47111f5",
+    "topic_entities": [
+      "Gori Church School"
+    ],
+    "answers": [
+      "Soviet Union"
+    ]
+  },
+  {
+    "qid": "WebQTest-935_031e56afa089a0f679104c73e0ea5126",
+    "topic_entities": [
+      "Al-Thager Model School"
+    ],
+    "answers": [
+      "Abbottabad"
+    ]
+  },
+  {
+    "qid": "WebQTrn-3384_7521446b16f8e39c384fde8af80e3993",
+    "topic_entities": [
+      "Greenland"
+    ],
+    "answers": [
+      "Faroese",
+      "German Language"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2748_52cbd36b86588e3b6e38b0ba8dc53c62",
+    "topic_entities": [
+      "Lopburi Province"
+    ],
+    "answers": [
+      "Saek language"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2069_44d67b357829d662abe1c6dc637e219d",
+    "topic_entities": [
+      "Santiago"
+    ],
+    "answers": [
+      "Aymara language",
+      "Mapudungun Language",
+      "Rapa Nui Language",
+      "Puquina Language"
+    ]
+  },
+  {
+    "qid": "WebQTest-1686_5b0246d0bc7172511480c78134ab2e39",
+    "topic_entities": [
+      "Bruce Babbitt",
+      "Governor"
+    ],
+    "answers": [
+      "Janet Napolitano",
+      "Jan Brewer"
+    ]
+  },
+  {
+    "qid": "WebQTest-1823_da9014983a12d462e03b66679a22e147",
+    "topic_entities": [
+      "Coalition Provisional Authority"
+    ],
+    "answers": [
+      "Parliamentary system",
+      "Republic",
+      "Parliamentary republic",
+      "Federal republic"
+    ]
+  },
+  {
+    "qid": "WebQTrn-846_6ad8b2652f0778ce6b9877c6070d9d4f",
+    "topic_entities": [
+      "Napanee District Secondary School"
+    ],
+    "answers": [
+      "Belleville"
+    ]
+  },
+  {
+    "qid": "WebQTrn-95_bc814d72f169b435afd21e2317dc1a4d",
+    "topic_entities": [
+      "Jamaica, Land We Love"
+    ],
+    "answers": [
+      "Jamaican dollar"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2026_0d5bc4f5ce16dafee354662c09965811",
+    "topic_entities": [
+      "Valiant Quisqueyans"
+    ],
+    "answers": [
+      "Dominican peso"
+    ]
+  },
+  {
+    "qid": "WebQTrn-3170_91fbb9146e3addbb313ff7ead5eb51f8",
+    "topic_entities": [
+      "State Elementary School Menteng 01"
+    ],
+    "answers": [
+      "Political Science"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2576_06ad4470bb7a75b4cb8f5c16ce132aa5",
+    "topic_entities": [
+      "Continent",
+      "Song of the Falklands"
+    ],
+    "answers": [
+      "South America",
+      "Americas"
+    ]
+  },
+  {
+    "qid": "WebQTrn-21_fb317edef12f389e0ed49321d8236622",
+    "topic_entities": [
+      "Coffee and Tea Manufacturing",
+      "Prime minister"
+    ],
+    "answers": [
+      "Hailemariam Desalegn"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2250_06a710540c2c24122b76d789e90023a9",
+    "topic_entities": [
+      "Sony Canada"
+    ],
+    "answers": [
+      "Minato"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2319_f5f520bc296fc9fb19aabfd9936e7f55",
+    "topic_entities": [
+      "Viktor Yanukovych"
+    ],
+    "answers": [
+      "Albanian language",
+      "Moldovan language",
+      "Romanian Language",
+      "Hungarian language"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1770_d6376c225805816bd064b73bac4ff808",
+    "topic_entities": [
+      "Parker Elementary School"
+    ],
+    "answers": [
+      "Blue Ivy"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2478_e53e37596014fb9723a81c577c51b4f3",
+    "topic_entities": [
+      "Syracuse University Video Production Unit"
+    ],
+    "answers": [
+      "Syracuse University Otto the Orange"
+    ]
+  },
+  {
+    "qid": "WebQTest-1216_761d625d144016a4f8b1857f93328727",
+    "topic_entities": [
+      "Tbilisi Spiritual Seminary"
+    ],
+    "answers": [
+      "Soviet Union"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1077_dd11343b9c28a21731d2ce4bbdc2630d",
+    "topic_entities": [
+      "Afghan afghani"
+    ],
+    "answers": [
+      "Shia Islam",
+      "Sunni Islam"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2335_eaa7a9f669e0d6d5caf732fd225ff411",
+    "topic_entities": [
+      "Vladimir Putin"
+    ],
+    "answers": [
+      "National Anthem of Russia"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1646_d059b24adec4064377b957ca598769be",
+    "topic_entities": [
+      "Santo Domingo"
+    ],
+    "answers": [
+      "Haitian Creole",
+      "Samaná English"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2478_a887b1442ee30456f5de89006e1a6c72",
+    "topic_entities": [
+      "Blaise Winter"
+    ],
+    "answers": [
+      "Syracuse University Otto the Orange"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2335_a9b18d079f29555cbd1e1740c7d6e40e",
+    "topic_entities": [
+      "Krasnodar Krai"
+    ],
+    "answers": [
+      "National Anthem of Russia"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2319_1ad2d84ababa47e6d24a8dd6eb2b7943",
+    "topic_entities": [
+      "Ukrainian Greek Catholic Church"
+    ],
+    "answers": [
+      "Albanian language",
+      "Tatar Language",
+      "Moldovan language",
+      "Romanian Language",
+      "Hungarian language",
+      "Russian Language",
+      "Ukrainian Language"
+    ]
+  },
+  {
+    "qid": "WebQTest-1603_1f6f264bb8ed75d1f1faf9b26044401b",
+    "topic_entities": [
+      "Grotto-heavens"
+    ],
+    "answers": [
+      "Zhuang Zhou",
+      "Tao Te Ching",
+      "I Ching",
+      "Daozang"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2335_c071c552853eb739a0ff0c67bb9ed366",
+    "topic_entities": [
+      "Dmitry Medvedev"
+    ],
+    "answers": [
+      "National Anthem of Russia"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2292_8c30eccd3cde88b0a0d389f34d086641",
+    "topic_entities": [
+      "The Internationale"
+    ],
+    "answers": [
+      "Communist state",
+      "Socialist state",
+      "Soviet democracy",
+      "Parliamentary republic"
+    ]
+  },
+  {
+    "qid": "WebQTest-1560_9c92108cab15de86fd747fe1982c5294",
+    "topic_entities": [
+      "Margaret Sanger Papers Project"
+    ],
+    "answers": [
+      "Albert Gallatin",
+      "Mordecai Manuel Noah"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1077_12953ec0b5895afd7da838969d549013",
+    "topic_entities": [
+      "Pakistan"
+    ],
+    "answers": [
+      "Shia Islam",
+      "Sunni Islam"
+    ]
+  },
+  {
+    "qid": "WebQTest-719_f627c1bb9cdbcf6a029c816631a982b2",
+    "topic_entities": [
+      "Noelani Elementary School"
+    ],
+    "answers": [
+      "Democratic Party"
+    ]
+  },
+  {
+    "qid": "WebQTrn-105_af0a37b13a66138a543af50c2ac24bb8",
+    "topic_entities": [
+      "Adly Mansour"
+    ],
+    "answers": [
+      "Egyptian pound"
+    ]
+  },
+  {
+    "qid": "WebQTest-654_f4440609f5cecb091bf8e86adb47be25",
+    "topic_entities": [
+      "Bilady, Bilady, Bilady"
+    ],
+    "answers": [
+      "Egyptian pound"
+    ]
+  },
+  {
+    "qid": "WebQTest-397_0b3a8b0643fac530a078012a025201fa",
+    "topic_entities": [
+      "Harvard Board of Overseers"
+    ],
+    "answers": [
+      "Crimson"
+    ]
+  },
+  {
+    "qid": "WebQTest-185_dfad75afd3c40503f595b4cb6acc43a5",
+    "topic_entities": [
+      "Nicolas Sarkozy"
+    ],
+    "answers": [
+      "Semi-presidential system",
+      "Unitary state",
+      "Constitutional republic"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2540_2c1a0de00568616e1701496dedbba8fe",
+    "topic_entities": [
+      "Giverny"
+    ],
+    "answers": [
+      "Eugène Delacroix",
+      "Gustave Courbet",
+      "Camille Pissarro",
+      "Eugène Boudin",
+      "Pierre-Auguste Renoir",
+      "Stéphane Mallarmé",
+      "Charles-François Daubigny"
+    ]
+  },
+  {
+    "qid": "WebQTest-1736_ba22ae3bdd19c6f33eb70a2977cc7282",
+    "topic_entities": [
+      "Regensburg"
+    ],
+    "answers": [
+      "Europe"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1758_82ba7a28dcbd66ab8e128c8975b2e692",
+    "topic_entities": [
+      "Tehran Province"
+    ],
+    "answers": [
+      "Unitary state"
+    ]
+  },
+  {
+    "qid": "WebQTest-1091_2d45e5f27018fef8d4f5f7e2cf000006",
+    "topic_entities": [
+      "Marcion of Sinope",
+      "United States of America"
+    ],
+    "answers": [
+      "Christianity"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1259_11c4cd5a25fd84f3980d7013c0329bad",
+    "topic_entities": [
+      "Beat This Summer Tour",
+      "Bachelor's degree",
+      "College/University"
+    ],
+    "answers": [
+      "Belmont University"
+    ]
+  },
+  {
+    "qid": "WebQTest-48_382b3b08e12c259c4c206044a8856ff8",
+    "topic_entities": [
+      "Samsung Heavy Industries"
+    ],
+    "answers": [
+      "Suwon"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2653_c78405f6f2157645f1098f8a871f1bc2",
+    "topic_entities": [
+      "Louis-Eugène Cavaignac"
+    ],
+    "answers": [
+      "Gulf War",
+      "Battle of Talavera",
+      "Battle of Bussaco",
+      "Battle of Bailén",
+      "Battle of Berezina",
+      "Second Battle of the Aisne",
+      "Battle of Medellín",
+      "Battle of Passchendaele",
+      "Battle of Dien Bien Phu"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1938_cb60fbc3dea230fc32682cbb8556ba62",
+    "topic_entities": [
+      "Benjamin Netanyahu"
+    ],
+    "answers": [
+      "Parliamentary system"
+    ]
+  },
+  {
+    "qid": "WebQTest-759_85689344913b39e3c35fb5730885ff16",
+    "topic_entities": [
+      "Lake Mohawk",
+      "Dated"
+    ],
+    "answers": [
+      "Thandie Newton",
+      "Juliette Lewis",
+      "Sinitta",
+      "Shalane McCall",
+      "Robin Givens"
+    ]
+  },
+  {
+    "qid": "WebQTest-802_0ed55ab55fae21af5b4b03af90678e30",
+    "topic_entities": [
+      "Stratford Northwestern Secondary School"
+    ],
+    "answers": [
+      "Vocals"
+    ]
+  },
+  {
+    "qid": "WebQTest-1875_847fede584cbd777dfa2d08a1c06ed49",
+    "topic_entities": [
+      "Brasília"
+    ],
+    "answers": [
+      "Presidential system",
+      "Constitutional republic",
+      "Federal republic"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2069_cd2a8c46c7872f3823f42c32e37aaff2",
+    "topic_entities": [
+      "National Anthem of Chile"
+    ],
+    "answers": [
+      "Aymara language",
+      "Mapudungun Language",
+      "Rapa Nui Language",
+      "Puquina Language"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2256_f0c99f377c8b944364e85b70b9f9b331",
+    "topic_entities": [
+      "Bundesrealgymnasium Linz"
+    ],
+    "answers": [
+      "Ballistic trauma",
+      "Suicide"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1770_1128ef6d5d784cec508a041e2d3c87b9",
+    "topic_entities": [
+      "St. Mary's Elementary School"
+    ],
+    "answers": [
+      "Blue Ivy"
+    ]
+  },
+  {
+    "qid": "WebQTrn-3335_97440c6c536f1672835d4cfecf6c698b",
+    "topic_entities": [
+      "National Anthem of Russia"
+    ],
+    "answers": [
+      "Russian ruble"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1023_52deecbffa5c67b0c724c84174c5e019",
+    "topic_entities": [
+      "Society of Jesus"
+    ],
+    "answers": [
+      "Argentine peso"
+    ]
+  },
+  {
+    "qid": "WebQTest-12_0267745d7968252ff8fbf5246c9287e9",
+    "topic_entities": [
+      "Governor",
+      "Ohio"
+    ],
+    "answers": [
+      "Ted Strickland",
+      "John Kasich"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2834_9a69191735636d5c80ee0a6dd1153086",
+    "topic_entities": [
+      "g.123852dg",
+      "United States of America"
+    ],
+    "answers": [
+      "Judaism"
+    ]
+  },
+  {
+    "qid": "WebQTrn-21_6671d5347b1b3cfe482cf5894cc6a05a",
+    "topic_entities": [
+      "Ethiopian birr",
+      "Prime minister"
+    ],
+    "answers": [
+      "Hailemariam Desalegn"
+    ]
+  },
+  {
+    "qid": "WebQTest-12_974c964a1a2810facfeb4b1a996e878a",
+    "topic_entities": [
+      "Governor",
+      "Ohio"
+    ],
+    "answers": [
+      "John Kasich"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2486_bcd294e8b78226fb373c0a54e4dcba01",
+    "topic_entities": [
+      "Forbes Cover Billionaire",
+      "Bachelor of Science"
+    ],
+    "answers": [
+      "Wharton School of the University of Pennsylvania"
+    ]
+  },
+  {
+    "qid": "WebQTrn-241_75d9b5cc01750987992de59003249ac2",
+    "topic_entities": [
+      "french_flag",
+      "Country"
+    ],
+    "answers": [
+      "Belgium",
+      "Germany",
+      "Italy",
+      "Luxembourg",
+      "Monaco",
+      "Spain",
+      "Switzerland",
+      "United Kingdom",
+      "Andorra"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1679_24d46aed793474526e0bf426c38e09e1",
+    "topic_entities": [
+      "Frost/Nixon",
+      "Region"
+    ],
+    "answers": [
+      "Mid-Atlantic states",
+      "South Atlantic States"
+    ]
+  },
+  {
+    "qid": "WebQTrn-25_65269a6707b8923aa10626533b2f7ae9",
+    "topic_entities": [
+      "taylor_wolfpack.jpg"
+    ],
+    "answers": [
+      "Run the Tide",
+      "The Ridiculous Six",
+      "He's a Bully, Charlie Brown",
+      "Twilight",
+      "The Twilight Saga: New Moon",
+      "Valentine's Day",
+      "Cheaper by the Dozen 2",
+      "The Adventures of Sharkboy and Lavagirl",
+      "Shadow Fury",
+      "Eclipse",
+      "The Twilight Saga: Breaking Dawn - Part 1",
+      "The Nick and Jessica Variety Hour",
+      "Northern Lights",
+      "Abduction",
+      "The Twilight Saga: Breaking Dawn - Part 2",
+      "Field of Dreams 2: Lockout",
+      "Incarceron",
+      "Grown Ups 2",
+      "Tracers"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1278_025fdfafd914ff922ab8144f527c06ec",
+    "topic_entities": [
+      "Panther Power"
+    ],
+    "answers": [
+      "Jada Pinkett Smith",
+      "Salli Richardson",
+      "Kidada Jones"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1939_524b7e7fa855202f18ffd7e8c6bdb6c6",
+    "topic_entities": [
+      "I destroy my enemy when I make him my friend."
+    ],
+    "answers": [
+      "United States Representative",
+      "Member of Illinois House of Representatives",
+      "President of the United States"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2314_3b127d6561a71b006b3e6bcf490bf6bc",
+    "topic_entities": [
+      "Astrid Fischel Volio"
+    ],
+    "answers": [
+      "Costa Rican colón"
+    ]
+  },
+  {
+    "qid": "WebQTest-1120_0748ec0755fe09c857c9179e9201eda7",
+    "topic_entities": [
+      "Government of France"
+    ],
+    "answers": [
+      "Assignat",
+      "French franc"
+    ]
+  },
+  {
+    "qid": "WebQTrn-452_f622a5aa2edc14c414357d55e1dfa46a",
+    "topic_entities": [
+      "Anthony Carmelo (Whitehouse)"
+    ],
+    "answers": [
+      "New York City",
+      "Baltimore",
+      "Brooklyn"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2653_a4466a30da1cdc626ffecd134fd0829f",
+    "topic_entities": [
+      "Secretary of State for Human Rights of France"
+    ],
+    "answers": [
+      "Gulf War",
+      "Battle of Talavera",
+      "Battle of Bussaco",
+      "Battle of Bailén",
+      "Battle of Berezina",
+      "Second Battle of the Aisne",
+      "Battle of Medellín",
+      "Battle of Passchendaele",
+      "Battle of Dien Bien Phu"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2748_979197c30f12543d650a73d9ccb0a422",
+    "topic_entities": [
+      "Thai Language"
+    ],
+    "answers": [
+      "Akha Language",
+      "Mlabri Language",
+      "Hmong language",
+      "Saek language",
+      "Malay, Pattani Language",
+      "Vietnamese Language",
+      "Nyaw Language",
+      "Phu Thai language",
+      "Cham language",
+      "Mon Language"
+    ]
+  },
+  {
+    "qid": "WebQTest-1923_275dfbe10c911cf65dff84afb1c5ede2",
+    "topic_entities": [
+      "I Learned From You"
+    ],
+    "answers": [
+      "Miley Cyrus: Tongue Tied",
+      "Big Fish",
+      "Sonic the Hedgehog",
+      "Sex and the City 2",
+      "Wizards on Deck with Hannah Montana",
+      "Bolt",
+      "The Last Song",
+      "Super Rhino",
+      "High School Musical 2",
+      "LOL",
+      "Radio Disney Party Jams: The Concert",
+      "The World According to Miley Cyrus",
+      "So Undercover",
+      "Family Bond",
+      "Rock Mafia Presents: The Big Bang"
+    ]
+  },
+  {
+    "qid": "WebQTrn-776_c8fc158536f54197c55144930d898fb2",
+    "topic_entities": [
+      "College/University",
+      "Norwood"
+    ],
+    "answers": [
+      "University of Alabama"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2335_3594eec2da1975b582d92306cb550b04",
+    "topic_entities": [
+      "Leonid Lebedev"
+    ],
+    "answers": [
+      "National Anthem of Russia"
+    ]
+  },
+  {
+    "qid": "WebQTest-802_11e4c2b019af8a62700bd4b1fe6d1cfd",
+    "topic_entities": [
+      "Thought Of You"
+    ],
+    "answers": [
+      "Vocals"
+    ]
+  },
+  {
+    "qid": "WebQTrn-3034_693b01b24a8f9603a580d83fd80d39c1",
+    "topic_entities": [
+      "Nothing pains some people more than having to think.",
+      "PhD"
+    ],
+    "answers": [
+      "Boston University"
+    ]
+  },
+  {
+    "qid": "WebQTrn-837_690725e14115ca059d1bcbfb022bbf1f",
+    "topic_entities": [
+      "Sister Rosemary"
+    ],
+    "answers": [
+      "Langston University",
+      "Dunbar Vocational High School"
+    ]
+  },
+  {
+    "qid": "WebQTrn-808_b4ac4db1c6077de2d6de3bd634f5a8f0",
+    "topic_entities": [
+      "Triptolemos Louvre G187"
+    ],
+    "answers": [
+      "Zeus"
+    ]
+  },
+  {
+    "qid": "WebQTest-1178_7df82f515bf7947c2bfdd404503b50fd",
+    "topic_entities": [
+      "g.11bbmpspvb"
+    ],
+    "answers": [
+      "East Harlem"
+    ]
+  },
+  {
+    "qid": "WebQTest-12_e5e8ef01173e0c22da7839a4038a146c",
+    "topic_entities": [
+      "Governor",
+      "Ohio",
+      "State Senator"
+    ],
+    "answers": [
+      "John Kasich"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1560_3dba296e57fcc898668201e992da8b6b",
+    "topic_entities": [
+      "Marriage",
+      "The Darwin Adventure"
+    ],
+    "answers": [
+      "Emma Darwin"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2271_2e70435173809311e302350eca716cac",
+    "topic_entities": [
+      "Senator Jasper Irving"
+    ],
+    "answers": [
+      "Scientology"
+    ]
+  },
+  {
+    "qid": "WebQTest-1941_47cd6842734bd753b0b5e8c75a8d5bf0",
+    "topic_entities": [
+      "Peruvian Hairless Dog"
+    ],
+    "answers": [
+      "Presidential system",
+      "Unitary state",
+      "Republic",
+      "Constitutional republic"
+    ]
+  },
+  {
+    "qid": "WebQTrn-849_e70fa56a3d168a6acb77e5bc6f8fd78c",
+    "topic_entities": [
+      "Germany",
+      "Country"
+    ],
+    "answers": [
+      "Luxembourg"
+    ]
+  },
+  {
+    "qid": "WebQTest-1817_9e8c595975df45d106fa8ae7a2cb8e1d",
+    "topic_entities": [
+      "Unfinished Tales"
+    ],
+    "answers": [
+      "King Edward's School, Birmingham",
+      "University of Oxford",
+      "St. Philip's School",
+      "Exeter College, Oxford"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1722_26f2a509cb989ad10438815034d065bb",
+    "topic_entities": [
+      "Governor-General of the Bahamas"
+    ],
+    "answers": [
+      "North America"
+    ]
+  },
+  {
+    "qid": "WebQTest-983_090ff53633dfc20839ea68287bc6e119",
+    "topic_entities": [
+      "I have always depended on the kindness of strangers.",
+      "College/University"
+    ],
+    "answers": [
+      "University of Missouri",
+      "University of Iowa",
+      "The New School",
+      "Washington University in St. Louis"
+    ]
+  },
+  {
+    "qid": "WebQTest-1348_2ef518b6a0dd4762e72424e5739a23e6",
+    "topic_entities": [
+      "NFL Super Bowl XLIV Champions: New Orleans Saints",
+      "Male"
+    ],
+    "answers": [
+      "Ole Miss Rebels football",
+      "Houston Oilers",
+      "Minnesota Vikings",
+      "New Orleans Saints"
+    ]
+  },
+  {
+    "qid": "WebQTest-1348_995227fc5dda25d790a913ba7ce06ae5",
+    "topic_entities": [
+      "Peyton Manning",
+      "Male"
+    ],
+    "answers": [
+      "Minnesota Vikings"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1077_a1813672f79dbb10259a470ea77a0870",
+    "topic_entities": [
+      "Kuchi"
+    ],
+    "answers": [
+      "Shia Islam",
+      "Sunni Islam"
+    ]
+  },
+  {
+    "qid": "WebQTest-743_0ab198918959e0a63172be1705632a9c",
+    "topic_entities": [
+      "Male",
+      "Forgive your enemies, but never forget their names."
+    ],
+    "answers": [
+      "Ted Kennedy",
+      "Joseph P. Kennedy, Jr.",
+      "Robert F. Kennedy"
+    ]
+  },
+  {
+    "qid": "WebQTrn-3170_4e2a785b515c8024dd42f5a9bc60760b",
+    "topic_entities": [
+      "Under Secretary of Defense for Personnel and Readiness"
+    ],
+    "answers": [
+      "Political Science"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2859_1d0f95cbca773971acb85244d72bed62",
+    "topic_entities": [
+      "God's first creature, which was light."
+    ],
+    "answers": [
+      "Spy"
+    ]
+  },
+  {
+    "qid": "WebQTrn-3170_402552b61d68fcf116111585da32583b",
+    "topic_entities": [
+      "A good GI bill would increase the recruit pool."
+    ],
+    "answers": [
+      "Political Science"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2335_98439f8dd2aedbd0556385f02bcb358f",
+    "topic_entities": [
+      "Ministry of Justice"
+    ],
+    "answers": [
+      "National Anthem of Russia"
+    ]
+  },
+  {
+    "qid": "WebQTrn-241_347ac41770c5607a59919e07e21f5626",
+    "topic_entities": [
+      "Country",
+      "Michel Goudchaux"
+    ],
+    "answers": [
+      "Belgium",
+      "Germany",
+      "Italy",
+      "Luxembourg",
+      "Monaco",
+      "Spain",
+      "Switzerland",
+      "United Kingdom",
+      "Andorra"
+    ]
+  },
+  {
+    "qid": "WebQTrn-831_0c00254aab32e227002a70740c5cc921",
+    "topic_entities": [
+      "Emily Jackson-Jacks"
+    ],
+    "answers": [
+      "Something Wicked"
+    ]
+  },
+  {
+    "qid": "WebQTrn-3605_da0c36850947f49fa1f94f4fd744cf3b",
+    "topic_entities": [
+      "Chapter V",
+      "High school"
+    ],
+    "answers": [
+      "Petersburg High School"
+    ]
+  },
+  {
+    "qid": "WebQTest-1387_9bff9b3325534dae4908b820d4364101",
+    "topic_entities": [
+      "Shoot 'Em Up"
+    ],
+    "answers": [
+      "Eastern Time Zone"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1259_823b40b980df8fa2c68cdd1bd7972ce1",
+    "topic_entities": [
+      "Bachelor's degree",
+      "Beat This Summer",
+      "College/University"
+    ],
+    "answers": [
+      "Belmont University"
+    ]
+  },
+  {
+    "qid": "WebQTrn-945_c53455cfc94edf9867b9bafd9614db32",
+    "topic_entities": [
+      "Government of Illinois"
+    ],
+    "answers": [
+      "Central Time Zone"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2859_aa42f50ae2e11ff4be5d8dbb6c65e099",
+    "topic_entities": [
+      "Mysteries are due to secrecy."
+    ],
+    "answers": [
+      "Spy"
+    ]
+  },
+  {
+    "qid": "WebQTrn-846_9b0f32352f19d977ba99e349a3121755",
+    "topic_entities": [
+      "Beatrice Bell"
+    ],
+    "answers": [
+      "Belleville"
+    ]
+  },
+  {
+    "qid": "WebQTest-1348_5ffc0cd6eeaac072e00525704c710951",
+    "topic_entities": [
+      "Peyton Manning",
+      "Male"
+    ],
+    "answers": [
+      "Minnesota Vikings"
+    ]
+  },
+  {
+    "qid": "WebQTrn-3141_8f5580b35c972ae8382d6e04447e79a9",
+    "topic_entities": [
+      "Claire Summers"
+    ],
+    "answers": [
+      "Brooklyn"
+    ]
+  },
+  {
+    "qid": "WebQTest-1348_aaea2f2132c4959cb6212b418a40c985",
+    "topic_entities": [
+      "Male",
+      "NFL Insider"
+    ],
+    "answers": [
+      "Ole Miss Rebels football",
+      "Houston Oilers",
+      "Minnesota Vikings",
+      "New Orleans Saints"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1577_68d3456de4f00782e827bacf13846d5e",
+    "topic_entities": [
+      "The future is... black."
+    ],
+    "answers": [
+      "The New School",
+      "DeWitt Clinton High School"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1722_d50834f94faf4fc329933bfc896be576",
+    "topic_entities": [
+      "Speed 2: Cruise Control"
+    ],
+    "answers": [
+      "North America"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2314_792c6a28d066368131e18e276748ccac",
+    "topic_entities": [
+      "Luis Fishman Zonzinski"
+    ],
+    "answers": [
+      "Costa Rican colón"
+    ]
+  },
+  {
+    "qid": "WebQTest-96_7455d23af76a07d320d23accf66c5a43",
+    "topic_entities": [
+      "White House Deputy"
+    ],
+    "answers": [
+      "New York City"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2486_24240c3eeb4eaa3638e77a8ed858c053",
+    "topic_entities": [
+      "Sometimes your best investments are the ones you don't make.",
+      "Bachelor of Science"
+    ],
+    "answers": [
+      "Wharton School of the University of Pennsylvania"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1077_e8cd4f111b252428852f30f4d6ed1732",
+    "topic_entities": [
+      "Farsi, Eastern Language"
+    ],
+    "answers": [
+      "Shia Islam",
+      "Sunni Islam"
+    ]
+  },
+  {
+    "qid": "WebQTrn-25_f65ceb2f4ef98392b0177705932740a5",
+    "topic_entities": [
+      "Eliott Murtaugh"
+    ],
+    "answers": [
+      "Run the Tide",
+      "The Ridiculous Six",
+      "He's a Bully, Charlie Brown",
+      "Twilight",
+      "The Twilight Saga: New Moon",
+      "Valentine's Day",
+      "The Adventures of Sharkboy and Lavagirl",
+      "Shadow Fury",
+      "Eclipse",
+      "The Twilight Saga: Breaking Dawn - Part 1",
+      "The Nick and Jessica Variety Hour",
+      "Northern Lights",
+      "Abduction",
+      "The Twilight Saga: Breaking Dawn - Part 2",
+      "Field of Dreams 2: Lockout",
+      "Incarceron",
+      "Grown Ups 2",
+      "Tracers"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1278_1ef455d28d4c19f07ec1bf5ca5bad8c3",
+    "topic_entities": [
+      "Ezekiel 'Spoon' Whitmore"
+    ],
+    "answers": [
+      "Jada Pinkett Smith",
+      "Salli Richardson",
+      "Kidada Jones"
+    ]
+  },
+  {
+    "qid": "WebQTrn-241_b96b735d1d754f27bc8986b614669f7b",
+    "topic_entities": [
+      "Amen",
+      "Country"
+    ],
+    "answers": [
+      "Belgium",
+      "Germany",
+      "Italy",
+      "Luxembourg",
+      "Monaco",
+      "Switzerland",
+      "United Kingdom",
+      "Andorra"
+    ]
+  },
+  {
+    "qid": "WebQTrn-347_6f7252fc04cfac2cabbe4d12f43b4b42",
+    "topic_entities": [
+      "NASCAR Driver #2"
+    ],
+    "answers": [
+      "Racing Accident",
+      "Basilar skull fracture"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1392_89c6b37c8c2fb91cc761e61b8c1e8924",
+    "topic_entities": [
+      "You learn by living"
+    ],
+    "answers": [
+      "Allenswood Academy",
+      "The New School"
+    ]
+  },
+  {
+    "qid": "WebQTest-102_2138a6c1814de01ffc054bed7c94061a",
+    "topic_entities": [
+      "James Gordon, Jr."
+    ],
+    "answers": [
+      "Ilyssa Fradin",
+      "Melinda McGraw",
+      "Hannah Gunn"
+    ]
+  },
+  {
+    "qid": "WebQTrn-484_bcb1e681f9136c45c48a60c29662bf28",
+    "topic_entities": [
+      "Vice President of Brazil"
+    ],
+    "answers": [
+      "Brazilian real"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2189_6de87d5153dc87e5b7005e44c2e98e78",
+    "topic_entities": [
+      "Mahmoud Fawzi"
+    ],
+    "answers": [
+      "Modern Standard Arabic"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2069_9a4491f5f6a880a03bd96b8180bace4c",
+    "topic_entities": [
+      "Ricardo Lagos"
+    ],
+    "answers": [
+      "Aymara language",
+      "Mapudungun Language",
+      "Rapa Nui Language",
+      "Puquina Language"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1405_56e8d2e51ce1a46013d0176a58f8d5b3",
+    "topic_entities": [
+      "An American Affair"
+    ],
+    "answers": [
+      "Harvard College",
+      "Stanford Graduate School of Business",
+      "Choate Rosemary Hall",
+      "Harvard University",
+      "Noble and Greenough School",
+      "Canterbury School",
+      "Princeton University",
+      "Riverdale Country School",
+      "Dexter School",
+      "Edward Devotion School"
+    ]
+  },
+  {
+    "qid": "WebQTest-719_3a4de3e3ca56b4c8159542e8fc8f9945",
+    "topic_entities": [
+      "Obama Anak Menteng"
+    ],
+    "answers": [
+      "Democratic Party"
+    ]
+  },
+  {
+    "qid": "WebQTest-965_6149d3b479edde0d00035aa61c2a4a36",
+    "topic_entities": [
+      "The Diary of Anne Frank"
+    ],
+    "answers": [
+      "Montessori Lyceum Amsterdam",
+      "Jewish Lyceum"
+    ]
+  },
+  {
+    "qid": "WebQTrn-3141_680744290a1c918aad52e9c61b428d56",
+    "topic_entities": [
+      "Get Real"
+    ],
+    "answers": [
+      "Brooklyn"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1259_38e836442d3d4535942bf8f0cbbbe65a",
+    "topic_entities": [
+      "Hot Rod Heart",
+      "Bachelor's degree",
+      "College/University"
+    ],
+    "answers": [
+      "Belmont University"
+    ]
+  },
+  {
+    "qid": "WebQTest-54_9979ad066382ff1507c923c8035087c4",
+    "topic_entities": [
+      "Reich Governor"
+    ],
+    "answers": [
+      "Nazi Germany"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2006_d6eeef75a363b8c5bf405ea3b0684cfc",
+    "topic_entities": [
+      "The Raven"
+    ],
+    "answers": [
+      "Graham's Magazine",
+      "Broadway Journal",
+      "Burton's Gentleman's Magazine"
+    ]
+  },
+  {
+    "qid": "WebQTest-783_b181354faec01d121c5f050e0d0da2fd",
+    "topic_entities": [
+      "Puncture"
+    ],
+    "answers": [
+      "Montgomery County"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2335_f81b2d3ee250e8503f128923a79d3c5a",
+    "topic_entities": [
+      "Tsakhur Language"
+    ],
+    "answers": [
+      "National Anthem of Russia"
+    ]
+  },
+  {
+    "qid": "WebQTest-537_743ff6362bb2b9e550d92e0dc9b8b063",
+    "topic_entities": [
+      "John Mathieson",
+      "Charlie Hunnam"
+    ],
+    "answers": [
+      "Knights of the Roundtable: King Arthur"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1677_f440937e3c93270055861e78bf0e0c9a",
+    "topic_entities": [
+      "Charlie Fineman"
+    ],
+    "answers": [
+      "Paul Blart: Mall Cop 2",
+      "Pixels",
+      "Eight Crazy Nights",
+      "You Don't Mess with the Zohan",
+      "Bedtime Stories",
+      "Joe Dirt 2: Beautiful Loser",
+      "Paul Blart: Mall Cop",
+      "The House Bunny",
+      "Grown Ups",
+      "Deuce Bigalow: European Gigolo",
+      "Zookeeper",
+      "Dickie Roberts: Former Child Star",
+      "The Benchwarmers",
+      "Click",
+      "Bucky Larson: Born to Be a Star",
+      "Just Go With It",
+      "Jack and Jill",
+      "I Now Pronounce You Chuck and Larry",
+      "That's My Boy",
+      "Grown Ups 2",
+      "Blended",
+      "Valet Guys"
+    ]
+  },
+  {
+    "qid": "WebQTrn-21_9d6e0b4b6617f7a16f3132c0b756fc77",
+    "topic_entities": [
+      "Harar Beer",
+      "Prime minister"
+    ],
+    "answers": [
+      "Hailemariam Desalegn"
+    ]
+  },
+  {
+    "qid": "WebQTrn-3034_2fd33d22c32307ac6536d5c5644a1bde",
+    "topic_entities": [
+      "In this Revolution no plans have been written for retreat.",
+      "PhD"
+    ],
+    "answers": [
+      "Boston University"
+    ]
+  },
+  {
+    "qid": "WebQTest-1384_1ae1a6be469266690c163ee3f6e0293c",
+    "topic_entities": [
+      "Cabinet of Israel"
+    ],
+    "answers": [
+      "Judaism"
+    ]
+  },
+  {
+    "qid": "WebQTest-1376_f46d89a2e7090339e748bcf7dbd14692",
+    "topic_entities": [
+      "Montreal Executive Committee"
+    ],
+    "answers": [
+      "Québec"
+    ]
+  },
+  {
+    "qid": "WebQTest-561_f4a09a295875531887340bb4c3b57928",
+    "topic_entities": [
+      "William Howard Taft"
+    ],
+    "answers": [
+      "Abraham Lincoln 1861 presidential inauguration",
+      "Abraham Lincoln 1865 presidential inauguration"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1939_87feb43d4b743e2f0172e00f50bfada2",
+    "topic_entities": [
+      "Seriously, I do not think I fit for the presidency."
+    ],
+    "answers": [
+      "United States Representative",
+      "Member of Illinois House of Representatives",
+      "President of the United States"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1069_1ad460cd0410838a2d94b2dd7bd93efe",
+    "topic_entities": [
+      "Faroese"
+    ],
+    "answers": [
+      "German Language"
+    ]
+  },
+  {
+    "qid": "WebQTrn-3249_8854b6b321c9e210d83c0419d6d3b4c5",
+    "topic_entities": [
+      "Danielle Warren"
+    ],
+    "answers": [
+      "Detention",
+      "Strong Medicine",
+      "Roommates",
+      "Sister, Sister",
+      "The Look for Less",
+      "The Adventures of Hyperman"
+    ]
+  },
+  {
+    "qid": "WebQTrn-493_590fff78c30981ef9566ad54a453d002",
+    "topic_entities": [
+      "Schipperke"
+    ],
+    "answers": [
+      "Eurasia",
+      "Western Europe"
+    ]
+  },
+  {
+    "qid": "WebQTest-1539_96ad8e19d4bfae4439f3839b16a5e190",
+    "topic_entities": [
+      "My Name Is Kate",
+      "Marriage"
+    ],
+    "answers": [
+      "Blake Lively"
+    ]
+  },
+  {
+    "qid": "WebQTrn-3170_4c56262d6806c8bd5c0fadb75177520a",
+    "topic_entities": [
+      "Director for Multilateral Affairs"
+    ],
+    "answers": [
+      "Political Science"
+    ]
+  },
+  {
+    "qid": "WebQTrn-3335_ca1d9e583e040b7f2f6103a9f44cd53b",
+    "topic_entities": [
+      "Coat of arms of Russia"
+    ],
+    "answers": [
+      "Russian ruble"
+    ]
+  },
+  {
+    "qid": "WebQTest-213_87ffe7c3404a14f726cc54ae6d6a6057",
+    "topic_entities": [
+      "Theatre World Award"
+    ],
+    "answers": [
+      "nm1157013",
+      "Josh Hartnett",
+      "Topher Grace",
+      "Jared Leto",
+      "Ryan Reynolds",
+      "Patrick Wilson",
+      "Justin Timberlake"
+    ]
+  },
+  {
+    "qid": "WebQTrn-3384_1ad460cd0410838a2d94b2dd7bd93efe",
+    "topic_entities": [
+      "Faroese"
+    ],
+    "answers": [
+      "German Language"
+    ]
+  },
+  {
+    "qid": "WebQTest-719_4c56262d6806c8bd5c0fadb75177520a",
+    "topic_entities": [
+      "Director for Multilateral Affairs"
+    ],
+    "answers": [
+      "Democratic Party"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2006_e258f4c46fa686cf9c12150935e9211f",
+    "topic_entities": [
+      "To observe attentively is to remember distinctly."
+    ],
+    "answers": [
+      "Graham's Magazine",
+      "Broadway Journal",
+      "Burton's Gentleman's Magazine"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2653_7a1f9047f5100e2853d54d69c6793f2d",
+    "topic_entities": [
+      "French Minister of the Economy, Finance and Industry"
+    ],
+    "answers": [
+      "Gulf War",
+      "Battle of Talavera",
+      "Battle of Bussaco",
+      "Battle of Bailén",
+      "Battle of Berezina",
+      "Second Battle of the Aisne",
+      "Battle of Medellín",
+      "Battle of Passchendaele",
+      "Battle of Dien Bien Phu"
+    ]
+  },
+  {
+    "qid": "WebQTrn-3034_0e7444ddeac8c5f9b236df292cb8ba04",
+    "topic_entities": [
+      "Why I Oppose the War in Vietnam",
+      "PhD"
+    ],
+    "answers": [
+      "Boston University"
+    ]
+  },
+  {
+    "qid": "WebQTest-561_5096e7f87655bfead420edf88c0629f0",
+    "topic_entities": [
+      "Gore Vidal's Lincoln"
+    ],
+    "answers": [
+      "Abraham Lincoln 1861 presidential inauguration",
+      "Abraham Lincoln 1865 presidential inauguration"
+    ]
+  },
+  {
+    "qid": "WebQTest-1686_66d1d64f0a7a4de1241baa7f8b34c42a",
+    "topic_entities": [
+      "20th Arizona Territorial Legislature",
+      "Governor"
+    ],
+    "answers": [
+      "Janet Napolitano",
+      "Jan Brewer"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1405_4d2f11c63fa0611b0e29bc00f41bf7a9",
+    "topic_entities": [
+      "Profiles in courage"
+    ],
+    "answers": [
+      "Harvard College",
+      "Stanford Graduate School of Business",
+      "Choate Rosemary Hall",
+      "Harvard University",
+      "Noble and Greenough School",
+      "Canterbury School",
+      "Princeton University",
+      "Riverdale Country School",
+      "Dexter School",
+      "Edward Devotion School"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1532_44fde88468878cac60f3380a368f4f7f",
+    "topic_entities": [
+      "Year of Decisions",
+      "College/University"
+    ],
+    "answers": [
+      "University of Missouri–Kansas City",
+      "University of Missouri–Kansas City School of Law"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1758_477d7040a0ed5bfecb155b8b3d3082fb",
+    "topic_entities": [
+      "The Alchemist of Happiness"
+    ],
+    "answers": [
+      "Presidential system",
+      "Islamic republic",
+      "Theocracy"
+    ]
+  },
+  {
+    "qid": "WebQTrn-568_d6f5d00e34c842980955ff4ccf624d85",
+    "topic_entities": [
+      "Mayor of Charlotte, North Carolina"
+    ],
+    "answers": [
+      "Mecklenburg County"
+    ]
+  },
+  {
+    "qid": "WebQTest-538_0498a505f7181a2845005aaf16d345ba",
+    "topic_entities": [
+      "Speak Now"
+    ],
+    "answers": [
+      "Hannah Montana: The Movie",
+      "Valentine's Day",
+      "The Lorax",
+      "Jonas Brothers: The Concert Experience",
+      "The Giver"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1560_768d9a74377cee6cd3d866cc6312fdcf",
+    "topic_entities": [
+      "The Genius of Charles Darwin",
+      "Marriage"
+    ],
+    "answers": [
+      "Emma Darwin"
+    ]
+  },
+  {
+    "qid": "WebQTrn-3034_9ad09040a8f87a2abeca21f7311fd71e",
+    "topic_entities": [
+      "Freedom Dub",
+      "PhD"
+    ],
+    "answers": [
+      "Boston University"
+    ]
+  },
+  {
+    "qid": "WebQTrn-42_479799609c49ac2f363e42bda7221b6f",
+    "topic_entities": [
+      "Andrew Jackson Daguerrotype"
+    ],
+    "answers": [
+      "Democratic-Republican Party",
+      "Democratic Party"
+    ]
+  },
+  {
+    "qid": "WebQTest-1923_e11655219d44e3762e0510f2bde1c077",
+    "topic_entities": [
+      "Fall Down"
+    ],
+    "answers": [
+      "Miley Cyrus: Tongue Tied",
+      "Big Fish",
+      "Hannah Montana: The Movie",
+      "Sonic the Hedgehog",
+      "Sex and the City 2",
+      "Wizards on Deck with Hannah Montana",
+      "Bolt",
+      "The Last Song",
+      "Super Rhino",
+      "High School Musical 2",
+      "LOL",
+      "Radio Disney Party Jams: The Concert",
+      "The World According to Miley Cyrus",
+      "So Undercover",
+      "Family Bond",
+      "Rock Mafia Presents: The Big Bang"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2777_070cdb4b1a1b15192731867a8f325250",
+    "topic_entities": [
+      "Snedronningen"
+    ],
+    "answers": [
+      "Copenhagen"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2292_da69fa5740453fb0216c2601b92d18d5",
+    "topic_entities": [
+      "Vladimir Lenin"
+    ],
+    "answers": [
+      "Communist state",
+      "Socialist state",
+      "Soviet democracy",
+      "Parliamentary republic"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2859_37bf80e89387cf09fca66eb7915a52b0",
+    "topic_entities": [
+      "The New Atlantis"
+    ],
+    "answers": [
+      "Spy"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1278_984678664419049133d2bd748b68df1b",
+    "topic_entities": [
+      "P.Y.T. (Playa Young Thugs)"
+    ],
+    "answers": [
+      "Jada Pinkett Smith",
+      "Salli Richardson",
+      "Kidada Jones"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1259_4cbb8cf7391cbe27aa32367fc51952f8",
+    "topic_entities": [
+      "Bachelor's degree",
+      "College/University",
+      "Wheelhouse"
+    ],
+    "answers": [
+      "Belmont University"
+    ]
+  },
+  {
+    "qid": "WebQTrn-837_9ccc591f7d669c8c5a177bbc4a1d7dd5",
+    "topic_entities": [
+      "Go All Night (Erick Morillo club mix)"
+    ],
+    "answers": [
+      "Langston University",
+      "Dunbar Vocational High School"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1817_260801306aca8f4c9c44d957e134e8b3",
+    "topic_entities": [
+      "President of Vietnam"
+    ],
+    "answers": [
+      "Communist state",
+      "Socialist state",
+      "Single-party state"
+    ]
+  },
+  {
+    "qid": "WebQTest-1384_fa2f7731ddb5e1a327b2e49b9fe9c9c5",
+    "topic_entities": [
+      "Maccabee"
+    ],
+    "answers": [
+      "Judaism"
+    ]
+  },
+  {
+    "qid": "WebQTest-519_a236cf83f662b6d443c9d7e1b28b2b37",
+    "topic_entities": [
+      "Nashville"
+    ],
+    "answers": [
+      "Central Time Zone"
+    ]
+  },
+  {
+    "qid": "WebQTrn-3048_ca0ea9db8cf1e1f9728c53a7470cf243",
+    "topic_entities": [
+      "Roman Senate"
+    ],
+    "answers": [
+      "Autocracy"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2653_d2311125d5969172b311bdb814c7aae4",
+    "topic_entities": [
+      "France"
+    ],
+    "answers": [
+      "Battle of Talavera",
+      "Battle of Passchendaele"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1577_9bb8696e995a946240090b32f0713383",
+    "topic_entities": [
+      "Evidence of things not seen"
+    ],
+    "answers": [
+      "The New School",
+      "DeWitt Clinton High School"
+    ]
+  },
+  {
+    "qid": "WebQTrn-21_8525c5940f40309bba7d6703f4c2b1f4",
+    "topic_entities": [
+      "ethiopia_flag.png",
+      "Prime minister"
+    ],
+    "answers": [
+      "Hailemariam Desalegn"
+    ]
+  },
+  {
+    "qid": "WebQTest-802_9ae059e5badd25253f83e974ee03b2f5",
+    "topic_entities": [
+      "Wont Stop (feat. Justin Bieber)"
+    ],
+    "answers": [
+      "Vocals"
+    ]
+  },
+  {
+    "qid": "WebQTrn-3035_066397069fa69de216e29d4e570c4a7f",
+    "topic_entities": [
+      "Governor",
+      "Wyoming House of Representatives"
+    ],
+    "answers": [
+      "Matt Mead"
+    ]
+  },
+  {
+    "qid": "WebQTrn-3376_02481bb12c6ba8d596a0bca9a347ea86",
+    "topic_entities": [
+      "Kevin Hart: Let Me Explain"
+    ],
+    "answers": [
+      "Temple University",
+      "Castlemont High School"
+    ]
+  },
+  {
+    "qid": "WebQTest-759_85b64b4dea5209a2c8881109c02cb139",
+    "topic_entities": [
+      "Heartthrobs are a dime a dozen",
+      "Dated"
+    ],
+    "answers": [
+      "Thandie Newton",
+      "Juliette Lewis",
+      "Sinitta",
+      "Shalane McCall",
+      "Robin Givens"
+    ]
+  },
+  {
+    "qid": "WebQTest-1384_1beae13077eb05db9b853a9c74e3aec8",
+    "topic_entities": [
+      "g.1hb_g2v0p"
+    ],
+    "answers": [
+      "Judaism"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2748_f8e535cc5337967c5a07402b86b19aea",
+    "topic_entities": [
+      "Korat"
+    ],
+    "answers": [
+      "Hmong language",
+      "Saek language"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1392_7e95a7893eb4b4a41a0a403b36f8965a",
+    "topic_entities": [
+      "My Day"
+    ],
+    "answers": [
+      "Allenswood Academy",
+      "The New School"
+    ]
+  },
+  {
+    "qid": "WebQTrn-886_36e0f3794f873b19127b97c24fcb3743",
+    "topic_entities": [
+      "Sergio Romo 2010"
+    ],
+    "answers": [
+      "University of North Alabama"
+    ]
+  },
+  {
+    "qid": "WebQTrn-379_b9b7f6f15052523ac84ca15895fba21c",
+    "topic_entities": [
+      "Chris Barry"
+    ],
+    "answers": [
+      "Drug overdose",
+      "Pneumonia"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1259_2fa90adc92b5095b8e1fd27754180250",
+    "topic_entities": [
+      "Bachelor's degree",
+      "College/University",
+      "I'm Gonna Get Drunk and Play Hank Williams"
+    ],
+    "answers": [
+      "Belmont University"
+    ]
+  },
+  {
+    "qid": "WebQTrn-465_d99f71857ba598c3225ef1cc718788aa",
+    "topic_entities": [
+      "Prime Minister of Malta"
+    ],
+    "answers": [
+      "Megalithic Temples of Malta",
+      "National Museum of Fine Arts, Malta",
+      "Casa Rocca Piccola",
+      "Fort Rinella",
+      "National Museum of Archaeology, Malta",
+      "St. Paul's Catacombs",
+      "Manoel Theatre",
+      "Gozo 360° Multivision Show",
+      "Dingli Cliffs",
+      "The Armoury and the Maritime Museum"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1232_37de3da3534fb46d2eeb34c0ded9fa1f",
+    "topic_entities": [
+      "Roman consul"
+    ],
+    "answers": [
+      "Constantinople",
+      "Rome",
+      "Ravenna"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2006_34af9d64cd4d005c83081c62715f1531",
+    "topic_entities": [
+      "Kaaren"
+    ],
+    "answers": [
+      "Graham's Magazine",
+      "Broadway Journal",
+      "Burton's Gentleman's Magazine"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2311_577a8b3d6b075d9a5759a8624a0c22a0",
+    "topic_entities": [
+      "Sportin' Life"
+    ],
+    "answers": [
+      "Laryngeal cancer",
+      "Complication"
+    ]
+  },
+  {
+    "qid": "WebQTrn-3605_a4331963571c77faf65d75d0453a523e",
+    "topic_entities": [
+      "Won't Make a Fool Out of You",
+      "High school"
+    ],
+    "answers": [
+      "Petersburg High School"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1770_6325ee890e333f0d4fe222c15a95906f",
+    "topic_entities": [
+      "Etta James"
+    ],
+    "answers": [
+      "Blue Ivy"
+    ]
+  },
+  {
+    "qid": "WebQTrn-3673_bf741749b9774797cd23abc09daf6106",
+    "topic_entities": [
+      "Colorado House of Representatives"
+    ],
+    "answers": [
+      "Mountain Time Zone"
+    ]
+  },
+  {
+    "qid": "WebQTrn-21_91b371c48144cc8f8c076b5f7ee31557",
+    "topic_entities": [
+      "Kwama Language",
+      "Prime minister"
+    ],
+    "answers": [
+      "Hailemariam Desalegn"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2104_af79e61c5b55ae2baeaf9633c290a979",
+    "topic_entities": [
+      "Mayor of Clarksville"
+    ],
+    "answers": [
+      "37040",
+      "37042",
+      "37043",
+      "37044",
+      "37041"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1665_9026565934fddcb8823b824fb0792518",
+    "topic_entities": [
+      "Lee Christmas"
+    ],
+    "answers": [
+      "Sydenham",
+      "Great Yarmouth"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1069_e87644944e029d31491a748a4b4c824b",
+    "topic_entities": [
+      "Søren Pind"
+    ],
+    "answers": [
+      "Greenlandic language",
+      "Faroese",
+      "German Language"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1938_85631890191901f9022880d7eaab329f",
+    "topic_entities": [
+      "Minister of Justice of Israel"
+    ],
+    "answers": [
+      "Parliamentary system"
+    ]
+  },
+  {
+    "qid": "WebQTrn-3376_22866c9e91699a67e705eae44e29a6a8",
+    "topic_entities": [
+      "Ben Barber"
+    ],
+    "answers": [
+      "Temple University",
+      "Castlemont High School"
+    ]
+  },
+  {
+    "qid": "WebQTest-931_f69da4b564ccde6d627037dc6d1057b6",
+    "topic_entities": [
+      "President of the United States",
+      "Genius is sorrow's child."
+    ],
+    "answers": [
+      "United States Ambassador to the Netherlands",
+      "United States Ambassador to the United Kingdom",
+      "Delegate to the Continental Congress"
+    ]
+  },
+  {
+    "qid": "WebQTrn-3335_c55ccf5445d560b373944df6540f9b31",
+    "topic_entities": [
+      "Samoyed"
+    ],
+    "answers": [
+      "Russian ruble"
+    ]
+  },
+  {
+    "qid": "WebQTrn-3141_9521cdd0a498eb745a7f49c67f6a999f",
+    "topic_entities": [
+      "Allison Lang"
+    ],
+    "answers": [
+      "Brooklyn"
+    ]
+  },
+  {
+    "qid": "WebQTrn-237_bc2d28a82ef8e640aada2f1f1d45aa3c",
+    "topic_entities": [
+      "steelers"
+    ],
+    "answers": [
+      "Mike Tomlin"
+    ]
+  },
+  {
+    "qid": "WebQTrn-465_e356fcb7e81689e87bcbcdeb208d5978",
+    "topic_entities": [
+      "Eddie Fenech Adami"
+    ],
+    "answers": [
+      "Megalithic Temples of Malta",
+      "National Museum of Fine Arts, Malta",
+      "Casa Rocca Piccola",
+      "Fort Rinella",
+      "National Museum of Archaeology, Malta",
+      "St. Paul's Catacombs",
+      "Manoel Theatre",
+      "Gozo 360° Multivision Show",
+      "Dingli Cliffs",
+      "The Armoury and the Maritime Museum"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1665_4293d22de1b977d7bacb0d5896623115",
+    "topic_entities": [
+      "Yves Gluant"
+    ],
+    "answers": [
+      "Sydenham",
+      "Great Yarmouth"
+    ]
+  },
+  {
+    "qid": "WebQTrn-945_fb5be63e6281b7a348b3167addbfac00",
+    "topic_entities": [
+      "John Peter Altgeld"
+    ],
+    "answers": [
+      "Central Time Zone"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1294_126eeea8dc5fdf989e3c826572976fb9",
+    "topic_entities": [
+      "Johnny Fontane"
+    ],
+    "answers": [
+      "Marlon Brando",
+      "Robert De Niro",
+      "Oreste Baldini"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1069_148c07d30cb092181268db05cee78c00",
+    "topic_entities": [
+      "Minister for Development Cooperation of Denmark"
+    ],
+    "answers": [
+      "Greenlandic language",
+      "Danish Language",
+      "Faroese",
+      "German Language"
+    ]
+  },
+  {
+    "qid": "WebQTest-743_56e8d2e51ce1a46013d0176a58f8d5b3",
+    "topic_entities": [
+      "Male",
+      "An American Affair"
+    ],
+    "answers": [
+      "Ted Kennedy",
+      "Joseph P. Kennedy, Jr.",
+      "Robert F. Kennedy"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2026_0a7206e06485b4daf5f8968cec1333dc",
+    "topic_entities": [
+      "g.120vz7rb"
+    ],
+    "answers": [
+      "Dominican peso"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2189_47e8cb60630ddcd00d3a263fce2c792e",
+    "topic_entities": [
+      "Acting Prime Minister of Egypt"
+    ],
+    "answers": [
+      "Modern Standard Arabic"
+    ]
+  },
+  {
+    "qid": "WebQTrn-3376_da0a21681b858af174b64347f5478ce9",
+    "topic_entities": [
+      "Cinnamon Apple"
+    ],
+    "answers": [
+      "Temple University",
+      "Castlemont High School"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2784_7df82f515bf7947c2bfdd404503b50fd",
+    "topic_entities": [
+      "g.11bbmpspvb"
+    ],
+    "answers": [
+      "Murder Was the Case",
+      "Poetic Justice",
+      "Gridlock'd",
+      "Above the Rim",
+      "Juice",
+      "Nothing but Trouble",
+      "Gang Related",
+      "Bullet"
+    ]
+  },
+  {
+    "qid": "WebQTrn-124_0782789f35ce79d56102e26e54e5b700",
+    "topic_entities": [
+      "Cornelia Wallace"
+    ],
+    "answers": [
+      "By the Sea",
+      "In the Land of Blood and Honey",
+      "A Place in Time",
+      "Unbroken"
+    ]
+  },
+  {
+    "qid": "WebQTrn-124_d4e751166dca0559713cf38bac98a9f9",
+    "topic_entities": [
+      "Salt 2"
+    ],
+    "answers": [
+      "By the Sea",
+      "In the Land of Blood and Honey",
+      "A Place in Time",
+      "Unbroken"
+    ]
+  },
+  {
+    "qid": "WebQTest-1736_125140bfa1a60527bde6e40dce7fe54a",
+    "topic_entities": [
+      "Slavic language"
+    ],
+    "answers": [
+      "Europe"
+    ]
+  },
+  {
+    "qid": "WebQTest-1072_66d1d64f0a7a4de1241baa7f8b34c42a",
+    "topic_entities": [
+      "20th Arizona Territorial Legislature",
+      "Governor"
+    ],
+    "answers": [
+      "Jan Brewer"
+    ]
+  },
+  {
+    "qid": "WebQTrn-6_49e5e8dfd7342a352b63fea5c7941dbb",
+    "topic_entities": [
+      "2006 NCAA Men's Basketball Championship"
+    ],
+    "answers": [
+      "Chicago Bulls"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2784_025fdfafd914ff922ab8144f527c06ec",
+    "topic_entities": [
+      "Panther Power"
+    ],
+    "answers": [
+      "Murder Was the Case",
+      "Gridlock'd",
+      "Above the Rim",
+      "Juice",
+      "Nothing but Trouble",
+      "Bullet"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1259_7d99f28971c0ff3aa8437737f81f16b2",
+    "topic_entities": [
+      "Bachelor's degree",
+      "College/University",
+      "She's Everything"
+    ],
+    "answers": [
+      "Belmont University"
+    ]
+  },
+  {
+    "qid": "WebQTest-1316_530c9b007d2e31175fa177ade7ae14ab",
+    "topic_entities": [
+      "Common-law marriage",
+      "Eat to please thyself, but dress to please others."
+    ],
+    "answers": [
+      "Deborah Read"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2664_cda66eaa4f53d709fa22ea3e8c84441c",
+    "topic_entities": [
+      "Ethiopia",
+      "China"
+    ],
+    "answers": [
+      "Djibouti"
+    ]
+  },
+  {
+    "qid": "WebQTest-1875_b0ae21928008f96dcfc1359a394fdc7d",
+    "topic_entities": [
+      "Brazilian Portuguese"
+    ],
+    "answers": [
+      "Federal republic"
+    ]
+  },
+  {
+    "qid": "WebQTrn-25_64dcfc659ae9ffee5e555443282b4e1f",
+    "topic_entities": [
+      "He's a Bully, Charlie Brown"
+    ],
+    "answers": [
+      "Run the Tide",
+      "The Ridiculous Six",
+      "Twilight",
+      "The Twilight Saga: New Moon",
+      "Valentine's Day",
+      "Cheaper by the Dozen 2",
+      "The Adventures of Sharkboy and Lavagirl",
+      "Shadow Fury",
+      "Eclipse",
+      "The Twilight Saga: Breaking Dawn - Part 1",
+      "The Nick and Jessica Variety Hour",
+      "Northern Lights",
+      "Abduction",
+      "The Twilight Saga: Breaking Dawn - Part 2",
+      "Field of Dreams 2: Lockout",
+      "Incarceron",
+      "Grown Ups 2",
+      "Tracers"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1832_876fe7840999a6c1fd5971a21df92df5",
+    "topic_entities": [
+      "Jim Lovell",
+      "Academy Awards"
+    ],
+    "answers": [
+      "Philadelphia"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1938_ae0ef655e304be3e017fd9cd4955fd62",
+    "topic_entities": [
+      "Defamation"
+    ],
+    "answers": [
+      "Parliamentary system"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1259_b6e5a37f53b9952902db798f613a2978",
+    "topic_entities": [
+      "Bachelor's degree",
+      "Ticks",
+      "College/University"
+    ],
+    "answers": [
+      "Belmont University"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1758_c02d5217df72436cdfe8bb9a4f9264e4",
+    "topic_entities": [
+      "Talysh language"
+    ],
+    "answers": [
+      "Parliamentary system"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1560_142d29fdab76ffff96ea5a5fd864adaf",
+    "topic_entities": [
+      "The Correspondence of Charles Darwin, Volume 12",
+      "Marriage"
+    ],
+    "answers": [
+      "Emma Darwin"
+    ]
+  },
+  {
+    "qid": "WebQTrn-6_afc285c8b712e0e1666e831f423e419f",
+    "topic_entities": [
+      "Joakim Noah3"
+    ],
+    "answers": [
+      "Chicago Bulls"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2875_3d4ecc1165ae1c21499afb8f7b9e25a3",
+    "topic_entities": [
+      "Cypriot Maronite Arabic"
+    ],
+    "answers": [
+      "French"
+    ]
+  },
+  {
+    "qid": "WebQTest-1840_220226a8c21cea9b689f213a2f8db2a5",
+    "topic_entities": [
+      "Bokmål"
+    ],
+    "answers": [
+      "Saami, South Language",
+      "Saami, North Language",
+      "Saami, Lule Language",
+      "Finnish, Kven Language"
+    ]
+  },
+  {
+    "qid": "WebQTrn-3123_c8fc158536f54197c55144930d898fb2",
+    "topic_entities": [
+      "Norwood"
+    ],
+    "answers": [
+      "University of Alabama"
+    ]
+  },
+  {
+    "qid": "WebQTrn-849_49afc8a5dba8498854b18fdcca57e833",
+    "topic_entities": [
+      "Germany",
+      "Country"
+    ],
+    "answers": [
+      "Netherlands"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1577_b7eb0b3e2b652a3ce8e39983244976ba",
+    "topic_entities": [
+      "Some Days"
+    ],
+    "answers": [
+      "The New School",
+      "DeWitt Clinton High School"
+    ]
+  },
+  {
+    "qid": "WebQTest-361_c219901b4ceceb5afaad52d0e3cf11f2",
+    "topic_entities": [
+      "Kronen Zeitung"
+    ],
+    "answers": [
+      "Rock im Park"
+    ]
+  },
+  {
+    "qid": "WebQTrn-3384_2229eb4cf51b84c632d4f3f60c0cb8f3",
+    "topic_entities": [
+      "g.122wt67x"
+    ],
+    "answers": [
+      "Greenlandic language",
+      "Danish Language",
+      "Faroese",
+      "German Language"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2319_cdbcc6b35919272e53e514bfd6285ea8",
+    "topic_entities": [
+      "Acting Prime Minister of Ukraine"
+    ],
+    "answers": [
+      "Albanian language",
+      "Tatar Language",
+      "Moldovan language",
+      "Romanian Language",
+      "Hungarian language",
+      "Russian Language",
+      "Ukrainian Language"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1278_9ddd77154bbd5aa55ea6b7d543dceaac",
+    "topic_entities": [
+      "Tupac: Hip Hop Genius"
+    ],
+    "answers": [
+      "Jada Pinkett Smith",
+      "Salli Richardson",
+      "Kidada Jones"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2006_94eccff08ac7b521174864c8ad3f3c04",
+    "topic_entities": [
+      "The Death of Poe"
+    ],
+    "answers": [
+      "Graham's Magazine",
+      "Broadway Journal",
+      "Burton's Gentleman's Magazine"
+    ]
+  },
+  {
+    "qid": "WebQTest-634_4f2c0d9eb022ed67ec2cc356d4d5113a",
+    "topic_entities": [
+      "San Antonio City Council"
+    ],
+    "answers": [
+      "Comal County"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2653_ce6428806014c16be5c15e9deca77b6b",
+    "topic_entities": [
+      "France"
+    ],
+    "answers": [
+      "Gulf War",
+      "Battle of Passchendaele"
+    ]
+  },
+  {
+    "qid": "WebQTest-1384_765336ce498563d83d62643fccdd19e1",
+    "topic_entities": [
+      "Knesset"
+    ],
+    "answers": [
+      "Judaism"
+    ]
+  },
+  {
+    "qid": "WebQTest-1316_75053cb108f036148b2e5631983f76a3",
+    "topic_entities": [
+      "Common-law marriage",
+      "Poor Richard's Almanac of 1735"
+    ],
+    "answers": [
+      "Deborah Read"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1597_51bf00b62c1d2a126e4c5a7544d97fff",
+    "topic_entities": [
+      "Seth MacFarlane",
+      "Voice"
+    ],
+    "answers": [
+      "Kevin Swanson"
+    ]
+  },
+  {
+    "qid": "WebQTest-12_5373d9d04da65179a41e5d4669db121e",
+    "topic_entities": [
+      "Governor",
+      "Ohio",
+      "Methodism"
+    ],
+    "answers": [
+      "Ted Strickland"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1794_0e40770fb613032a26f9ef65dcab65be",
+    "topic_entities": [
+      "Twelfth grade",
+      "Business @ the Speed of Thought"
+    ],
+    "answers": [
+      "Lakeside School"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2335_a6da51fcd89e451b7c9eaccc1b7690bf",
+    "topic_entities": [
+      "Yury Chaika"
+    ],
+    "answers": [
+      "National Anthem of Russia"
+    ]
+  },
+  {
+    "qid": "WebQTrn-124_ef2a332818d98d9101c1f25cfcb6ffd9",
+    "topic_entities": [
+      "London Film Critics Circle for Actress of the Year"
+    ],
+    "answers": [
+      "By the Sea",
+      "In the Land of Blood and Honey",
+      "A Place in Time",
+      "Unbroken"
+    ]
+  },
+  {
+    "qid": "WebQTest-1807_b0ecab5a92b635d2b713e3429d12c3b7",
+    "topic_entities": [
+      "NHL: All Access!"
+    ],
+    "answers": [
+      "Edmonton Oilers"
+    ]
+  },
+  {
+    "qid": "WebQTest-1307_727248e493325c05836e5bb159c752d5",
+    "topic_entities": [
+      "School",
+      "To Kill a Mockingbird (Heinemann Plays)"
+    ],
+    "answers": [
+      "Monroe County High School"
+    ]
+  },
+  {
+    "qid": "WebQTest-1103_ae2fa8293b479842e7e236d1e925d808",
+    "topic_entities": [
+      "We’re Gonna Make It"
+    ],
+    "answers": [
+      "Tina Campbell",
+      "Erica Campbell"
+    ]
+  },
+  {
+    "qid": "WebQTrn-775_f7fd99724214e971bcf7a7d2746f6cc5",
+    "topic_entities": [
+      "Aubrey O'Day"
+    ],
+    "answers": [
+      "Dumblonde",
+      "Danity Kane"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2748_4a22e87b9e3af2f4de74d5017c09de12",
+    "topic_entities": [
+      "Royal Thai Government Gazette"
+    ],
+    "answers": [
+      "Saek language"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1259_4b1d9f87e9407bef5a468e6c1124c547",
+    "topic_entities": [
+      "Bachelor's degree",
+      "Letter to Me",
+      "College/University"
+    ],
+    "answers": [
+      "Belmont University"
+    ]
+  },
+  {
+    "qid": "WebQTrn-25_a595672eac8b0f404df1cdec081c2e10",
+    "topic_entities": [
+      "Empire9.jpg"
+    ],
+    "answers": [
+      "Run the Tide",
+      "The Ridiculous Six",
+      "He's a Bully, Charlie Brown",
+      "Twilight",
+      "The Twilight Saga: New Moon",
+      "Valentine's Day",
+      "Cheaper by the Dozen 2",
+      "The Adventures of Sharkboy and Lavagirl",
+      "Shadow Fury",
+      "Eclipse",
+      "The Twilight Saga: Breaking Dawn - Part 1",
+      "The Nick and Jessica Variety Hour",
+      "Northern Lights",
+      "Abduction",
+      "The Twilight Saga: Breaking Dawn - Part 2",
+      "Field of Dreams 2: Lockout",
+      "Incarceron",
+      "Grown Ups 2",
+      "Tracers"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2335_c1ee86e75cac5d1087ce6131dd7c7414",
+    "topic_entities": [
+      "Pivzavod AO Vena Nevskoye Light"
+    ],
+    "answers": [
+      "National Anthem of Russia"
+    ]
+  },
+  {
+    "qid": "WebQTrn-857_d585a4c2e04a9cd40dd5ec98e2456515",
+    "topic_entities": [
+      "Bill Clinton: His Life"
+    ],
+    "answers": [
+      "Al Gore"
+    ]
+  },
+  {
+    "qid": "WebQTrn-857_0fb078446bb207186f65a2b70b3f0243",
+    "topic_entities": [
+      "Comptroller General of the United States"
+    ],
+    "answers": [
+      "Al Gore"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1155_de31133ce50eafd9ef8c6e37432cde23",
+    "topic_entities": [
+      "Member of the Swiss Federal Council"
+    ],
+    "answers": [
+      "Swiss franc"
+    ]
+  },
+  {
+    "qid": "WebQTest-538_c96f2fb72ec36eebda3526e033a4634c",
+    "topic_entities": [
+      "Long Live"
+    ],
+    "answers": [
+      "Hannah Montana: The Movie",
+      "Valentine's Day",
+      "The Lorax",
+      "Jonas Brothers: The Concert Experience",
+      "The Giver"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2286_357b1c4b2fdaaf9bd16c1bcabe173ce5",
+    "topic_entities": [
+      "Bert T. Combs"
+    ],
+    "answers": [
+      "Contiguous United States"
+    ]
+  },
+  {
+    "qid": "WebQTrn-3024_af0e35c3a617f83f33d3bd482bd98e63",
+    "topic_entities": [
+      "Jay-Jay Manners"
+    ],
+    "answers": [
+      "Parkinson's disease"
+    ]
+  },
+  {
+    "qid": "WebQTest-759_4800df0becd2268912f4b6d59fc000e4",
+    "topic_entities": [
+      "Dated",
+      "A Stoning in Fulham County"
+    ],
+    "answers": [
+      "Thandie Newton",
+      "Juliette Lewis",
+      "Sinitta",
+      "Shalane McCall",
+      "Robin Givens"
+    ]
+  },
+  {
+    "qid": "WebQTrn-484_b0ae21928008f96dcfc1359a394fdc7d",
+    "topic_entities": [
+      "Brazilian Portuguese"
+    ],
+    "answers": [
+      "Brazilian real"
+    ]
+  },
+  {
+    "qid": "WebQTrn-849_f0ffa14797f7486fb0510a740e1cc8d6",
+    "topic_entities": [
+      "Germany",
+      "Country"
+    ],
+    "answers": [
+      "Switzerland"
+    ]
+  },
+  {
+    "qid": "WebQTest-213_4206ac0a907076be177d272525fdbe68",
+    "topic_entities": [
+      "Toronto Film Critics Association Awards 2001"
+    ],
+    "answers": [
+      "nm1157013",
+      "Josh Hartnett",
+      "Topher Grace",
+      "Jared Leto",
+      "Ryan Reynolds",
+      "Patrick Wilson",
+      "Justin Timberlake"
+    ]
+  },
+  {
+    "qid": "WebQTest-96_2af7a2025c8c6c49f9a3779f81d32d61",
+    "topic_entities": [
+      "Frost/Nixon"
+    ],
+    "answers": [
+      "New York City"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1938_15f3741a2f90a3d0f955fc5f971c8f16",
+    "topic_entities": [
+      "Deputy Minister of Defense of Israel"
+    ],
+    "answers": [
+      "Parliamentary system"
+    ]
+  },
+  {
+    "qid": "WebQTest-1306_c02d5217df72436cdfe8bb9a4f9264e4",
+    "topic_entities": [
+      "Talysh language"
+    ],
+    "answers": [
+      "Parliamentary system"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1392_d372995c4cada937a6f201d316698ad5",
+    "topic_entities": [
+      "This I remember"
+    ],
+    "answers": [
+      "Allenswood Academy",
+      "The New School"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2271_d9b83d585e786de1c9d61037d0279b00",
+    "topic_entities": [
+      "Vincent Lauria"
+    ],
+    "answers": [
+      "Scientology"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2057_ea55aa1268126e2b1193d26ffac28e40",
+    "topic_entities": [
+      "Member of the Congress of Guatemala"
+    ],
+    "answers": [
+      "Guatemalan quetzal"
+    ]
+  },
+  {
+    "qid": "WebQTest-802_a0da13a7b70a064b8cffb58007f6739d",
+    "topic_entities": [
+      "#Thatpower"
+    ],
+    "answers": [
+      "Vocals"
+    ]
+  },
+  {
+    "qid": "WebQTest-983_cf471b3dce509fe45224c029f4556a69",
+    "topic_entities": [
+      "College/University",
+      "In memory everything seems to happen to music."
+    ],
+    "answers": [
+      "University of Missouri",
+      "University of Iowa",
+      "The New School",
+      "Washington University in St. Louis"
+    ]
+  },
+  {
+    "qid": "WebQTest-1178_b09c00219764b4f102d325a00e808259",
+    "topic_entities": [
+      "The Don Killuminati: The 7 Day Theory"
+    ],
+    "answers": [
+      "East Harlem"
+    ]
+  },
+  {
+    "qid": "WebQTest-1387_e519712761951b558bb7cbf4ea39198a",
+    "topic_entities": [
+      "Saw V"
+    ],
+    "answers": [
+      "Eastern Time Zone"
+    ]
+  },
+  {
+    "qid": "WebQTest-538_2473cabeeab942f2a11ad812e53880a8",
+    "topic_entities": [
+      "Long Live"
+    ],
+    "answers": [
+      "Hannah Montana: The Movie",
+      "Valentine's Day",
+      "The Lorax",
+      "Jonas Brothers: The Concert Experience",
+      "The Giver"
+    ]
+  },
+  {
+    "qid": "WebQTest-1547_9a301711fdf36a2e2d6fdd7b21d65d3c",
+    "topic_entities": [
+      "United States Secretary of the Air Force",
+      "Book"
+    ],
+    "answers": [
+      "In My Time: A Personal and Political Memoir"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2779_b4d3621c029381c3c08db078461edaf8",
+    "topic_entities": [
+      "Julia, the Waitress"
+    ],
+    "answers": [
+      "Businessperson",
+      "Presenter",
+      "Paralegal",
+      "Actor",
+      "Consultant",
+      "Environmentalist"
+    ]
+  },
+  {
+    "qid": "WebQTest-96_945e274ae8d4a812e5943569139d2b33",
+    "topic_entities": [
+      "White House Staff Assistant"
+    ],
+    "answers": [
+      "New York City"
+    ]
+  },
+  {
+    "qid": "WebQTest-719_2883cc73d6e7cc887da948a32c5fd2bb",
+    "topic_entities": [
+      "Yes we can!"
+    ],
+    "answers": [
+      "Democratic Party"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1597_4825c5da8cf895458dfae2f288e3a136",
+    "topic_entities": [
+      "Voice",
+      "Stan Smith"
+    ],
+    "answers": [
+      "Kevin Swanson",
+      "Carter Pewterschmidt",
+      "Giodano Bruno",
+      "Tom Tucker",
+      "Mickey McFinnegan",
+      "God",
+      "Kool-aid Guy",
+      "Seamus",
+      "Jasper",
+      "Dr. Elmer Hartman",
+      "Nate Griffin",
+      "Jake Tucker",
+      "Tim the Bear",
+      "Jeff McGarland",
+      "Lion-O"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1155_6e1c9b11eb7aee396c43ed4f20102957",
+    "topic_entities": [
+      "Ruth Dreifuss"
+    ],
+    "answers": [
+      "Swiss franc"
+    ]
+  },
+  {
+    "qid": "WebQTest-1316_0b5041659b357b7246a23ac30d7f6b29",
+    "topic_entities": [
+      "Poor Richard's Almanac of 1757",
+      "Common-law marriage"
+    ],
+    "answers": [
+      "Deborah Read"
+    ]
+  },
+  {
+    "qid": "WebQTest-719_88427e4cf8c94effb8217cddfd827261",
+    "topic_entities": [
+      "Dreams from My Father"
+    ],
+    "answers": [
+      "Democratic Party"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2653_ca1fd3c3c7925891ded824cb9f4d95b2",
+    "topic_entities": [
+      "France"
+    ],
+    "answers": [
+      "Gulf War"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1817_5e5820ae78bf808cd4682f952c2af9d7",
+    "topic_entities": [
+      "Vietnam, Long Time Coming"
+    ],
+    "answers": [
+      "Communist state",
+      "Socialist state",
+      "Single-party state"
+    ]
+  },
+  {
+    "qid": "WebQTest-1072_92f27159a96f716c1691371e64e5a604",
+    "topic_entities": [
+      "Governor",
+      "United States Bankruptcy Court, District of Arizona"
+    ],
+    "answers": [
+      "Jan Brewer"
+    ]
+  },
+  {
+    "qid": "WebQTrn-849_8520ca90bd1e650edf1dbcad90336227",
+    "topic_entities": [
+      "V Bird",
+      "Country"
+    ],
+    "answers": [
+      "Belgium",
+      "Czech Republic",
+      "Luxembourg",
+      "Netherlands",
+      "Poland",
+      "Switzerland",
+      "France",
+      "Austria",
+      "Denmark"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2335_c2a93d81765db7685128999463c089c3",
+    "topic_entities": [
+      "Prosecutor General of Russia"
+    ],
+    "answers": [
+      "National Anthem of Russia"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1939_5096e7f87655bfead420edf88c0629f0",
+    "topic_entities": [
+      "Gore Vidal's Lincoln"
+    ],
+    "answers": [
+      "United States Representative",
+      "Member of Illinois House of Representatives",
+      "President of the United States"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1646_b3dea5ef61d99706b52127dd45ae6149",
+    "topic_entities": [
+      "Manuel Altagracia Cáceres"
+    ],
+    "answers": [
+      "Haitian Creole",
+      "Samaná English",
+      "Spanish Language"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1283_5523febd1dd9c623d830ca7301539649",
+    "topic_entities": [
+      "Si quaeris peninsulam amoenam circumspice"
+    ],
+    "answers": [
+      "UTC−05:00",
+      "Central Time Zone",
+      "Eastern Time Zone"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2271_64ee61c8abeb74c791d5c8e71c0bcbe1",
+    "topic_entities": [
+      "Top Gun 2"
+    ],
+    "answers": [
+      "Scientology"
+    ]
+  },
+  {
+    "qid": "WebQTrn-3170_3a4de3e3ca56b4c8159542e8fc8f9945",
+    "topic_entities": [
+      "Obama Anak Menteng"
+    ],
+    "answers": [
+      "Political Science"
+    ]
+  },
+  {
+    "qid": "WebQTest-1923_ed3a18cb79e33b1c2a13d67593ed189c",
+    "topic_entities": [
+      "Come Get It Bae"
+    ],
+    "answers": [
+      "Miley Cyrus: Tongue Tied",
+      "Big Fish",
+      "Hannah Montana: The Movie",
+      "Sonic the Hedgehog",
+      "Sex and the City 2",
+      "Wizards on Deck with Hannah Montana",
+      "Bolt",
+      "The Last Song",
+      "Super Rhino",
+      "High School Musical 2",
+      "LOL",
+      "Radio Disney Party Jams: The Concert",
+      "The World According to Miley Cyrus",
+      "So Undercover",
+      "Family Bond",
+      "Rock Mafia Presents: The Big Bang"
+    ]
+  },
+  {
+    "qid": "WebQTrn-62_e9f030de7d75661701a4cec15dd268dd",
+    "topic_entities": [
+      "New York Film Critics Circle Special Award"
+    ],
+    "answers": [
+      "Diane Disney Miller",
+      "Sharon Mae Disney"
+    ]
+  },
+  {
+    "qid": "WebQTest-743_3a40921ae6042ff93cc654f727b80209",
+    "topic_entities": [
+      "Happy Birthday, Mr. President",
+      "Male"
+    ],
+    "answers": [
+      "Ted Kennedy",
+      "Joseph P. Kennedy, Jr.",
+      "Robert F. Kennedy"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2335_5831bd7b6badbaf458df00184249bb38",
+    "topic_entities": [
+      "Bochkarev Krepkoe"
+    ],
+    "answers": [
+      "National Anthem of Russia"
+    ]
+  },
+  {
+    "qid": "WebQTrn-3084_ec0835b1ad2d181fa3b4195d539d862a",
+    "topic_entities": [
+      "Japan",
+      "Fiji"
+    ],
+    "answers": [
+      "Tuvalu"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2784_b07e107c65bc0fd544f059414e879d6f",
+    "topic_entities": [
+      "Dear Mama"
+    ],
+    "answers": [
+      "Murder Was the Case",
+      "Gridlock'd",
+      "Above the Rim",
+      "Juice",
+      "Nothing but Trouble",
+      "Bullet"
+    ]
+  },
+  {
+    "qid": "WebQTest-1875_a7e655ba2343c8713f26f616c09aa12f",
+    "topic_entities": [
+      "Monte Alto, São Paulo"
+    ],
+    "answers": [
+      "Federal republic"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2006_d311691159dca09b7c6d2e612f41108f",
+    "topic_entities": [
+      "On the Last Frontier"
+    ],
+    "answers": [
+      "Graham's Magazine",
+      "Broadway Journal",
+      "Burton's Gentleman's Magazine"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2615_969d65c3a8459c68dbf2ee96e03b87d9",
+    "topic_entities": [
+      "Fela in Concert"
+    ],
+    "answers": [
+      "Drums",
+      "Guitar",
+      "Keyboard",
+      "Saxophone",
+      "Trumpet"
+    ]
+  },
+  {
+    "qid": "WebQTest-538_c8cc1688f5fb5d27690b7a9cb248865f",
+    "topic_entities": [
+      "Holy Ground"
+    ],
+    "answers": [
+      "Hannah Montana: The Movie",
+      "Valentine's Day",
+      "The Lorax",
+      "Jonas Brothers: The Concert Experience",
+      "The Giver"
+    ]
+  },
+  {
+    "qid": "WebQTest-1234_30d15cd8eab212bd2dc808a29bc6dc27",
+    "topic_entities": [
+      "All honor's wounds are self-inflicted."
+    ],
+    "answers": [
+      "financier",
+      "steel"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2576_6aa0049fce78deb570ac7ba78dc19d65",
+    "topic_entities": [
+      "Continent",
+      "Member of Legislative Assembly of the Falkland Islands"
+    ],
+    "answers": [
+      "South America",
+      "Americas"
+    ]
+  },
+  {
+    "qid": "WebQTest-1384_9440ac3bd6d8053ca4d553da408a7cb0",
+    "topic_entities": [
+      "Old Israeli shekel"
+    ],
+    "answers": [
+      "Judaism"
+    ]
+  },
+  {
+    "qid": "WebQTest-1384_82d451237e3819f1b085a95e72a89aa4",
+    "topic_entities": [
+      "Supreme Court of Israel"
+    ],
+    "answers": [
+      "Judaism"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2218_d3dd8e49166b536fbd443b5e8f53157d",
+    "topic_entities": [
+      "Collector of the Port of Philadelphia"
+    ],
+    "answers": [
+      "Westmoreland County"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1023_05a49eb00f9fa7d509fc776493d05b8c",
+    "topic_entities": [
+      "Quechuan languages"
+    ],
+    "answers": [
+      "Argentine peso"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1597_99ae14b4f2ee3bb521e43a02ab084d0e",
+    "topic_entities": [
+      "Voice",
+      "Lois Cummings"
+    ],
+    "answers": [
+      "Kevin Swanson",
+      "Carter Pewterschmidt",
+      "Giodano Bruno",
+      "Glenn Quagmire",
+      "Tom Tucker",
+      "Mickey McFinnegan",
+      "Stewie Griffin",
+      "God",
+      "Peter Griffin",
+      "Brian Griffin",
+      "Kool-aid Guy",
+      "Seamus",
+      "Jasper",
+      "Dr. Elmer Hartman",
+      "Nate Griffin",
+      "Jake Tucker",
+      "Tim the Bear",
+      "Roger: American Dad!",
+      "Stan Smith",
+      "Jeff McGarland",
+      "Lion-O"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1597_c8ab7eb9865b458244093ddedeb05134",
+    "topic_entities": [
+      "Voice",
+      "Everybody Needs a Best Friend"
+    ],
+    "answers": [
+      "Kevin Swanson",
+      "Carter Pewterschmidt",
+      "Giodano Bruno",
+      "Tom Tucker",
+      "Mickey McFinnegan",
+      "God",
+      "Kool-aid Guy",
+      "Seamus",
+      "Jasper",
+      "Dr. Elmer Hartman",
+      "Nate Griffin",
+      "Jake Tucker",
+      "Tim the Bear",
+      "Jeff McGarland",
+      "Lion-O"
+    ]
+  },
+  {
+    "qid": "WebQTest-1686_ff336cfd0a1c70f4e9b1a89b268c559d",
+    "topic_entities": [
+      "Ditat Deus",
+      "Governor"
+    ],
+    "answers": [
+      "Janet Napolitano",
+      "Jan Brewer"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2784_4b7058a69c5eb71df36a89837b1e4f60",
+    "topic_entities": [
+      "Papa'z Song"
+    ],
+    "answers": [
+      "Murder Was the Case",
+      "Gridlock'd",
+      "Above the Rim",
+      "Juice",
+      "Nothing but Trouble",
+      "Bullet"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1278_7df82f515bf7947c2bfdd404503b50fd",
+    "topic_entities": [
+      "g.11bbmpspvb"
+    ],
+    "answers": [
+      "Jada Pinkett Smith",
+      "Salli Richardson",
+      "Kidada Jones"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2653_6c19bc1fe78f2c0015bfd29e5c12767c",
+    "topic_entities": [
+      "First Valls Government"
+    ],
+    "answers": [
+      "Gulf War",
+      "Battle of Talavera",
+      "Battle of Bussaco",
+      "Battle of Bailén",
+      "Battle of Berezina",
+      "Second Battle of the Aisne",
+      "Battle of Medellín",
+      "Battle of Passchendaele",
+      "Battle of Dien Bien Phu"
+    ]
+  },
+  {
+    "qid": "WebQTrn-3170_bcc7cf86fe716e0c10225e1a98b719bb",
+    "topic_entities": [
+      "Energy development"
+    ],
+    "answers": [
+      "Political Science"
+    ]
+  },
+  {
+    "qid": "WebQTrn-3376_e00a8eab7666e17c83d8acab6d4e1a8b",
+    "topic_entities": [
+      "Pawn Shop Employee"
+    ],
+    "answers": [
+      "Temple University",
+      "Castlemont High School"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2258_520257486600615e5f5704a63c2281dd",
+    "topic_entities": [
+      "Lt. Jimmy Saunders"
+    ],
+    "answers": [
+      "George H. W. Bush"
+    ]
+  },
+  {
+    "qid": "WebQTest-213_92d687ae5c1095b83ae11c771ed0f41b",
+    "topic_entities": [
+      "Coteau Guidry"
+    ],
+    "answers": [
+      "nm1157013",
+      "Josh Hartnett",
+      "Topher Grace",
+      "Jared Leto",
+      "Ryan Reynolds",
+      "Patrick Wilson",
+      "Justin Timberlake"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2311_a82b389c06081907ebdd12acd9382ab0",
+    "topic_entities": [
+      "Morris Fenderbaum"
+    ],
+    "answers": [
+      "Laryngeal cancer",
+      "Complication"
+    ]
+  },
+  {
+    "qid": "WebQTest-1120_b96b735d1d754f27bc8986b614669f7b",
+    "topic_entities": [
+      "Amen"
+    ],
+    "answers": [
+      "Assignat",
+      "French franc"
+    ]
+  },
+  {
+    "qid": "WebQTest-719_bcc7cf86fe716e0c10225e1a98b719bb",
+    "topic_entities": [
+      "Energy development"
+    ],
+    "answers": [
+      "Democratic Party"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2486_8e7dc1d53f592b0d09bffb2fb511ef96",
+    "topic_entities": [
+      "Waldo's Dad",
+      "Bachelor of Science"
+    ],
+    "answers": [
+      "Wharton School of the University of Pennsylvania"
+    ]
+  },
+  {
+    "qid": "WebQTest-213_3ec496c94ff4f83167e7d83479fa7082",
+    "topic_entities": [
+      "A Love Song for Bobby Long"
+    ],
+    "answers": [
+      "nm1157013",
+      "Josh Hartnett",
+      "Topher Grace",
+      "Jared Leto",
+      "Ryan Reynolds",
+      "Patrick Wilson",
+      "Justin Timberlake"
+    ]
+  },
+  {
+    "qid": "WebQTrn-124_892dc0cdcd6f5469a8c88275f741535f",
+    "topic_entities": [
+      "Angela & Viril"
+    ],
+    "answers": [
+      "By the Sea",
+      "In the Land of Blood and Honey",
+      "A Place in Time",
+      "Unbroken"
+    ]
+  },
+  {
+    "qid": "WebQTrn-76_d0bcff78dbe41bd5c70c0f36a3eeb30d",
+    "topic_entities": [
+      "College/University",
+      "Sesame Beginnings: Exploring Together"
+    ],
+    "answers": [
+      "Ohio University"
+    ]
+  },
+  {
+    "qid": "WebQTrn-21_7d825b5eadbaf5e8c1dee03159b9f99e",
+    "topic_entities": [
+      "Prime minister",
+      "Meles Zenawi"
+    ],
+    "answers": [
+      "Hailemariam Desalegn"
+    ]
+  },
+  {
+    "qid": "WebQTest-743_af8b975343e4098913128e9ac7d04c05",
+    "topic_entities": [
+      "Male",
+      "Anti-Apartheid"
+    ],
+    "answers": [
+      "Ted Kennedy",
+      "Joseph P. Kennedy, Jr."
+    ]
+  },
+  {
+    "qid": "WebQTrn-1577_8983d767d91f2c7eec26c71cea350b93",
+    "topic_entities": [
+      "It is a very rare man who does not victimize the helpless."
+    ],
+    "answers": [
+      "The New School",
+      "DeWitt Clinton High School"
+    ]
+  },
+  {
+    "qid": "WebQTrn-3170_2c9888f591cdea04f631b1f473bf1578",
+    "topic_entities": [
+      "70th anniversary of D-Day and the Battle of Normandy"
+    ],
+    "answers": [
+      "Political Science"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1758_ee96ef39147e9369f0285bce0b21812e",
+    "topic_entities": [
+      "Orloff chicken"
+    ],
+    "answers": [
+      "Theocracy"
+    ]
+  },
+  {
+    "qid": "WebQTest-1337_5f339cc3a7979a71dd90298c8532b71b",
+    "topic_entities": [
+      "Continental Congress"
+    ],
+    "answers": [
+      "Lightning rod",
+      "Bifocals",
+      "Glass harmonica",
+      "Franklin stove"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2292_c672d27c3d00ea802b18f17142a0c867",
+    "topic_entities": [
+      "Hungarian Revolution of 1956"
+    ],
+    "answers": [
+      "Soviet democracy"
+    ]
+  },
+  {
+    "qid": "WebQTrn-3249_ad66f99d2894fe516e522730a6cca60a",
+    "topic_entities": [
+      "Cat Donovan"
+    ],
+    "answers": [
+      "Detention",
+      "Strong Medicine",
+      "Roommates",
+      "Sister, Sister",
+      "The Look for Less",
+      "The Adventures of Hyperman"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2708_446e4b328466173822f9394127cb6257",
+    "topic_entities": [
+      "Aflac"
+    ],
+    "answers": [
+      "Roush Fenway Racing"
+    ]
+  },
+  {
+    "qid": "WebQTrn-3673_e138e1bf22cbeb2af5937f34e46afdc6",
+    "topic_entities": [
+      "Yule Marble"
+    ],
+    "answers": [
+      "Mountain Time Zone"
+    ]
+  },
+  {
+    "qid": "WebQTrn-465_7ec1aff598d72f91907d801c464ca7d4",
+    "topic_entities": [
+      "Maltese"
+    ],
+    "answers": [
+      "Megalithic Temples of Malta",
+      "National Museum of Fine Arts, Malta",
+      "Casa Rocca Piccola",
+      "Fort Rinella",
+      "National Museum of Archaeology, Malta",
+      "St. Paul's Catacombs",
+      "Manoel Theatre",
+      "Gozo 360° Multivision Show",
+      "Dingli Cliffs",
+      "The Armoury and the Maritime Museum"
+    ]
+  },
+  {
+    "qid": "WebQTest-1072_a86f2ebf5f56d7c7a97bcf7f76fa2d8f",
+    "topic_entities": [
+      "Governor",
+      "Tropical Storm Norma"
+    ],
+    "answers": [
+      "Jan Brewer"
+    ]
+  },
+  {
+    "qid": "WebQTest-719_8c4cd2a8dd5064dcd1e88389796138c7",
+    "topic_entities": [
+      "Associate Director, White House Office of Public Liaison"
+    ],
+    "answers": [
+      "Democratic Party"
+    ]
+  },
+  {
+    "qid": "WebQTest-719_f1a83a32bf04983a5a5f9da914f867c8",
+    "topic_entities": [
+      "2012 State of the Union Address"
+    ],
+    "answers": [
+      "Democratic Party"
+    ]
+  },
+  {
+    "qid": "WebQTest-1686_b955f51044a2123babff29671bfd4e70",
+    "topic_entities": [
+      "Governor",
+      "Saguaro"
+    ],
+    "answers": [
+      "Janet Napolitano",
+      "Jan Brewer"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1405_ca6ce44d620e3ead920f09f2813da1af",
+    "topic_entities": [
+      "Berlin Wall"
+    ],
+    "answers": [
+      "Harvard College",
+      "Stanford Graduate School of Business",
+      "Choate Rosemary Hall",
+      "Harvard University",
+      "Noble and Greenough School",
+      "Canterbury School",
+      "Princeton University",
+      "Riverdale Country School",
+      "Dexter School",
+      "Edward Devotion School"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2654_9b6037bb097871b8d61a8bc0138de6f3",
+    "topic_entities": [
+      "The L Word Theme",
+      "g.121_4f1c"
+    ],
+    "answers": [
+      "Daniela Sea"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2250_8da6011c43c603892f12f81e4b5e7a5b",
+    "topic_entities": [
+      "Columbia"
+    ],
+    "answers": [
+      "Minato"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2335_7cd339eefa681cdb907de4bdf65f8aae",
+    "topic_entities": [
+      "Chechen Language"
+    ],
+    "answers": [
+      "National Anthem of Russia"
+    ]
+  },
+  {
+    "qid": "WebQTest-1178_09e61020934818b85641a22821e7a455",
+    "topic_entities": [
+      "Strictly 4 My N.I.G.G.A.Z..."
+    ],
+    "answers": [
+      "East Harlem"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1377_a0b780b1c7d342a9f523493405dcf048",
+    "topic_entities": [
+      "Shirley Temple: The Early Years"
+    ],
+    "answers": [
+      "Lori Black",
+      "Charles Alden Black Jr.",
+      "Linda Susan Agar"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2748_510ee63721c43d65b08c99d91f4f4efc",
+    "topic_entities": [
+      "Shutter"
+    ],
+    "answers": [
+      "Lao Language",
+      "Khmer language",
+      "Akha Language",
+      "Mlabri Language",
+      "Hmong language",
+      "Saek language",
+      "Malay, Pattani Language",
+      "Vietnamese Language",
+      "Nyaw Language",
+      "Phu Thai language",
+      "Cham language",
+      "Mon Language"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2006_c96614f281a32cf9b91c7adc81220daf",
+    "topic_entities": [
+      "The cask of Amontillado"
+    ],
+    "answers": [
+      "Graham's Magazine",
+      "Broadway Journal",
+      "Burton's Gentleman's Magazine"
+    ]
+  },
+  {
+    "qid": "WebQTrn-241_7a1f9047f5100e2853d54d69c6793f2d",
+    "topic_entities": [
+      "Country",
+      "French Minister of the Economy, Finance and Industry"
+    ],
+    "answers": [
+      "Belgium",
+      "Germany",
+      "Italy",
+      "Luxembourg",
+      "Monaco",
+      "Spain",
+      "Switzerland",
+      "United Kingdom",
+      "Andorra"
+    ]
+  },
+  {
+    "qid": "WebQTrn-849_88e00458cad669a0d01644cdd6029157",
+    "topic_entities": [
+      "Germany",
+      "Country"
+    ],
+    "answers": [
+      "Belgium"
+    ]
+  },
+  {
+    "qid": "WebQTrn-776_5968b1cb8e15d4f7819fde8b72714100",
+    "topic_entities": [
+      "C.C. Ryder",
+      "College/University"
+    ],
+    "answers": [
+      "University of Alabama"
+    ]
+  },
+  {
+    "qid": "WebQTest-802_02ed5ce4f0d0e6c1b8d15752a1be80ad",
+    "topic_entities": [
+      "Miami"
+    ],
+    "answers": [
+      "Vocals"
+    ]
+  },
+  {
+    "qid": "WebQTrn-3035_5bbd209c5f356210c6d0f9d2657054ed",
+    "topic_entities": [
+      "Governor",
+      "Uinta Mountains"
+    ],
+    "answers": [
+      "Matt Mead"
+    ]
+  },
+  {
+    "qid": "WebQTrn-567_df2c14e6e73ab6368cb40f5566fa5c85",
+    "topic_entities": [
+      "Philosophy Club President"
+    ],
+    "answers": [
+      "Return to Mayberry",
+      "Welcome to Hollywood",
+      "Night Shift",
+      "The Courtship of Eddie's Father",
+      "Grand Theft Auto",
+      "Act of Love",
+      "Eat My Dust!",
+      "More American Graffiti",
+      "The First Nudie Musical",
+      "The Independent",
+      "Fire on the Mountain",
+      "The Spikes Gang",
+      "Five Minutes to Live",
+      "The Shootist",
+      "Village of the Giants",
+      "The Journey",
+      "A Beautiful Mind",
+      "When Your Lover Leaves",
+      "The Wild Country",
+      "The Music Man",
+      "Huckleberry Finn",
+      "Dr. Seuss' How the Grinch Stole Christmas",
+      "Cannes: All Access",
+      "I'm a Fool",
+      "Bitter Harvest",
+      "Osmosis Jones",
+      "Under the Boardwalk: The Monopoly Story",
+      "American Graffiti",
+      "Happy Mother's Day, Love George"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2748_5394f28651892e7656afeda366a6af04",
+    "topic_entities": [
+      "Fan Chan"
+    ],
+    "answers": [
+      "Lao Language",
+      "Khmer language",
+      "Akha Language",
+      "Mlabri Language",
+      "Hmong language",
+      "Saek language",
+      "Malay, Pattani Language",
+      "Vietnamese Language",
+      "Nyaw Language",
+      "Phu Thai language",
+      "Cham language",
+      "Mon Language"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1278_b09c00219764b4f102d325a00e808259",
+    "topic_entities": [
+      "The Don Killuminati: The 7 Day Theory"
+    ],
+    "answers": [
+      "Jada Pinkett Smith",
+      "Salli Richardson",
+      "Kidada Jones"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1939_8b001bcb44293629f1f5d0ab796adf8d",
+    "topic_entities": [
+      "Egalitarianism"
+    ],
+    "answers": [
+      "United States Representative",
+      "Member of Illinois House of Representatives",
+      "President of the United States"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1677_813cfbca9da2283ea3fb87254bc8d55a",
+    "topic_entities": [
+      "Saturday Night Live: The Best of Adam Sandler"
+    ],
+    "answers": [
+      "Paul Blart: Mall Cop 2",
+      "Pixels",
+      "Eight Crazy Nights",
+      "You Don't Mess with the Zohan",
+      "Bedtime Stories",
+      "Joe Dirt 2: Beautiful Loser",
+      "Paul Blart: Mall Cop",
+      "The House Bunny",
+      "Grown Ups",
+      "Deuce Bigalow: European Gigolo",
+      "Zookeeper",
+      "Dickie Roberts: Former Child Star",
+      "The Benchwarmers",
+      "Click",
+      "Bucky Larson: Born to Be a Star",
+      "Just Go With It",
+      "Jack and Jill",
+      "I Now Pronounce You Chuck and Larry",
+      "That's My Boy",
+      "Grown Ups 2",
+      "Blended",
+      "Valet Guys"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2641_c344028c2ef7fb59dec539cb908d3214",
+    "topic_entities": [
+      "Black"
+    ],
+    "answers": [
+      "Easton"
+    ]
+  },
+  {
+    "qid": "WebQTrn-3170_8c4cd2a8dd5064dcd1e88389796138c7",
+    "topic_entities": [
+      "Associate Director, White House Office of Public Liaison"
+    ],
+    "answers": [
+      "Political Science"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2311_468c5b3cd215a51a476065b8b454f6c4",
+    "topic_entities": [
+      "Sammy Davis Jr.: Best of Live"
+    ],
+    "answers": [
+      "Laryngeal cancer",
+      "Complication"
+    ]
+  },
+  {
+    "qid": "WebQTest-802_99157c72607b35d66607df042ab3af4f",
+    "topic_entities": [
+      "All Around The World"
+    ],
+    "answers": [
+      "Vocals"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2784_d8e43a02200cfdff82052f8cc5395b27",
+    "topic_entities": [
+      "Digital Underground member"
+    ],
+    "answers": [
+      "Murder Was the Case",
+      "Poetic Justice",
+      "Gridlock'd",
+      "Above the Rim",
+      "Juice",
+      "Gang Related",
+      "Bullet"
+    ]
+  },
+  {
+    "qid": "WebQTrn-21_63e2e4208eb4ac364cdc131500b71e42",
+    "topic_entities": [
+      "President of  Ethiopia",
+      "Prime minister"
+    ],
+    "answers": [
+      "Hailemariam Desalegn"
+    ]
+  },
+  {
+    "qid": "WebQTrn-849_b67524255490b93db0c88d74d2d144a7",
+    "topic_entities": [
+      "Germany",
+      "Country",
+      "nl"
+    ],
+    "answers": [
+      "Netherlands"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2815_af8b975343e4098913128e9ac7d04c05",
+    "topic_entities": [
+      "Anti-Apartheid"
+    ],
+    "answers": [
+      "Brookline"
+    ]
+  },
+  {
+    "qid": "WebQTrn-849_fa1fffe7995213b6528da57ea4c8d226",
+    "topic_entities": [
+      "Germany",
+      "Country"
+    ],
+    "answers": [
+      "Belgium"
+    ]
+  },
+  {
+    "qid": "WebQTest-1686_a965046ceb8f96e283925e0c41abb69a",
+    "topic_entities": [
+      "Governor",
+      "Bad Bill"
+    ],
+    "answers": [
+      "Janet Napolitano",
+      "Jan Brewer"
+    ]
+  },
+  {
+    "qid": "WebQTrn-3123_5968b1cb8e15d4f7819fde8b72714100",
+    "topic_entities": [
+      "C.C. Ryder"
+    ],
+    "answers": [
+      "University of Alabama"
+    ]
+  },
+  {
+    "qid": "WebQTrn-124_92133c60417a74da674a0807a5a56eff",
+    "topic_entities": [
+      "Franky Cook"
+    ],
+    "answers": [
+      "By the Sea",
+      "In the Land of Blood and Honey",
+      "A Place in Time",
+      "Unbroken"
+    ]
+  },
+  {
+    "qid": "WebQTest-802_5a2ec93356f843d9765c62f12d6d559b",
+    "topic_entities": [
+      "Young Hollywood Award for Newcomer of the Year"
+    ],
+    "answers": [
+      "Vocals"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1392_d7ccb7228171a0f4f334c9f01aebf830",
+    "topic_entities": [
+      "Nobody can make you feel inferior without your consent."
+    ],
+    "answers": [
+      "Allenswood Academy",
+      "The New School"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1770_5b3bf220d92b3f103ac36ebff6651bd0",
+    "topic_entities": [
+      "I Am...Sasha Fierce"
+    ],
+    "answers": [
+      "Blue Ivy"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2271_01bee992ba299cbfb816875df4b1cbfb",
+    "topic_entities": [
+      "Bambi Courage"
+    ],
+    "answers": [
+      "Scientology"
+    ]
+  },
+  {
+    "qid": "WebQTrn-831_96d8bac34f6be227890fe566392c5b3b",
+    "topic_entities": [
+      "A Fatal Desire"
+    ],
+    "answers": [
+      "Something Wicked"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2335_2cb97dc9d778b69fd832740909b026a9",
+    "topic_entities": [
+      "Vyatka horse"
+    ],
+    "answers": [
+      "National Anthem of Russia"
+    ]
+  },
+  {
+    "qid": "WebQTest-1923_f61568ed06e8ed92e68deb8a5ddfb717",
+    "topic_entities": [
+      "Blimp Award for Favorite Movie Star"
+    ],
+    "answers": [
+      "Miley Cyrus: Tongue Tied",
+      "Big Fish",
+      "Hannah Montana: The Movie",
+      "Hannah Montana and Miley Cyrus: Best of Both Worlds Concert",
+      "Sonic the Hedgehog",
+      "Sex and the City 2",
+      "Wizards on Deck with Hannah Montana",
+      "Bolt",
+      "The Last Song",
+      "Super Rhino",
+      "High School Musical 2",
+      "LOL",
+      "Radio Disney Party Jams: The Concert",
+      "The World According to Miley Cyrus",
+      "So Undercover",
+      "Family Bond",
+      "Rock Mafia Presents: The Big Bang"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2815_3a3a861fe35922a25bb5991497496887",
+    "topic_entities": [
+      "Leonard Bernstein"
+    ],
+    "answers": [
+      "Brookline"
+    ]
+  },
+  {
+    "qid": "WebQTest-397_5eead5a3fc202e4ac08be7cfe170e040",
+    "topic_entities": [
+      "Harvard Undergraduate Research Journal"
+    ],
+    "answers": [
+      "Crimson"
+    ]
+  },
+  {
+    "qid": "WebQTrn-3170_f1a83a32bf04983a5a5f9da914f867c8",
+    "topic_entities": [
+      "2012 State of the Union Address"
+    ],
+    "answers": [
+      "Political Science"
+    ]
+  },
+  {
+    "qid": "WebQTest-1316_5f339cc3a7979a71dd90298c8532b71b",
+    "topic_entities": [
+      "Continental Congress",
+      "Common-law marriage"
+    ],
+    "answers": [
+      "Deborah Read"
+    ]
+  },
+  {
+    "qid": "WebQTest-1348_b3739a5ca0b1d127fe46f94a14f4e470",
+    "topic_entities": [
+      "Peyton Manning",
+      "Male"
+    ],
+    "answers": [
+      "New Orleans Saints"
+    ]
+  },
+  {
+    "qid": "WebQTrn-831_1e718eaaf2217fc00dcaac32d79a65d1",
+    "topic_entities": [
+      "Jody Marken"
+    ],
+    "answers": [
+      "Something Wicked"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2859_ed0ddfab1f5264869a9b9fc0b2fd6889",
+    "topic_entities": [
+      "New Atlantis"
+    ],
+    "answers": [
+      "Spy"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1377_b8c883c80a5e64c4edc05ba6c625e508",
+    "topic_entities": [
+      "Kathleen Davis"
+    ],
+    "answers": [
+      "Lori Black",
+      "Charles Alden Black Jr.",
+      "Linda Susan Agar"
+    ]
+  },
+  {
+    "qid": "WebQTrn-3034_0818b36d353ffb39f85b4606b1230866",
+    "topic_entities": [
+      "March on Washington for Jobs and Freedom",
+      "PhD"
+    ],
+    "answers": [
+      "Boston University"
+    ]
+  },
+  {
+    "qid": "WebQTest-1875_de57960e299fa018454749173f222521",
+    "topic_entities": [
+      "Nova Roma"
+    ],
+    "answers": [
+      "Federal republic"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1077_351b2ecb2c5209c2fad43731e8ab3199",
+    "topic_entities": [
+      "BS 546"
+    ],
+    "answers": [
+      "Shia Islam",
+      "Sunni Islam"
+    ]
+  },
+  {
+    "qid": "WebQTrn-21_e3e2cb1b91e66f2084bcff510d57bf0e",
+    "topic_entities": [
+      "Amharic Language",
+      "Prime minister"
+    ],
+    "answers": [
+      "Hailemariam Desalegn"
+    ]
+  },
+  {
+    "qid": "WebQTrn-412_cd0f98f0640aa1ab6c224a564e8024ad",
+    "topic_entities": [
+      "Heemstede"
+    ],
+    "answers": [
+      "West Flemish"
+    ]
+  },
+  {
+    "qid": "WebQTest-626_a7e69ef8a716d6db11c3ba8316c57d9d",
+    "topic_entities": [
+      "Brower's Spring"
+    ],
+    "answers": [
+      "Iowa",
+      "Kansas",
+      "Missouri",
+      "Nebraska",
+      "North Dakota",
+      "South Dakota"
+    ]
+  },
+  {
+    "qid": "WebQTrn-105_f4f38507bbec5d30bec54c8c8dd9a72b",
+    "topic_entities": [
+      "Government of Egypt"
+    ],
+    "answers": [
+      "Egyptian pound"
+    ]
+  },
+  {
+    "qid": "WebQTrn-837_22daefbefb82c8f22e1efc5d0f189d67",
+    "topic_entities": [
+      "Effie White"
+    ],
+    "answers": [
+      "Langston University",
+      "Dunbar Vocational High School"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2784_b09c00219764b4f102d325a00e808259",
+    "topic_entities": [
+      "The Don Killuminati: The 7 Day Theory"
+    ],
+    "answers": [
+      "Murder Was the Case",
+      "Poetic Justice",
+      "Gridlock'd",
+      "Above the Rim",
+      "Juice",
+      "Nothing but Trouble",
+      "Gang Related",
+      "Bullet"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1939_80bc69215f6fdb6c93a8cc8494b116e9",
+    "topic_entities": [
+      "Young Mr. Lincoln"
+    ],
+    "answers": [
+      "United States Representative",
+      "Member of Illinois House of Representatives",
+      "President of the United States"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2815_ca6ce44d620e3ead920f09f2813da1af",
+    "topic_entities": [
+      "Berlin Wall"
+    ],
+    "answers": [
+      "Brookline"
+    ]
+  },
+  {
+    "qid": "WebQTest-719_e56e856592a9a57b9e331b718adc1b75",
+    "topic_entities": [
+      "The Audacity of Hope"
+    ],
+    "answers": [
+      "Democratic Party"
+    ]
+  },
+  {
+    "qid": "WebQTest-212_828b79d960f806ea9d291b87184103cd",
+    "topic_entities": [
+      "Las Vegas"
+    ],
+    "answers": [
+      "Colorado",
+      "California",
+      "Arizona"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2335_4bedefa2f2f0c2843bcf7407cd03420c",
+    "topic_entities": [
+      "Battle of Kulikovo"
+    ],
+    "answers": [
+      "National Anthem of Russia"
+    ]
+  },
+  {
+    "qid": "WebQTrn-484_1996c89d55923fc2ed1047b4f70d3ee7",
+    "topic_entities": [
+      "João Goulart"
+    ],
+    "answers": [
+      "Brazilian real"
+    ]
+  },
+  {
+    "qid": "WebQTrn-3024_ee6a53f0556f0dd1b566ce71a7c97e4e",
+    "topic_entities": [
+      "The Michael J. Fox Show"
+    ],
+    "answers": [
+      "Parkinson's disease"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1069_2229eb4cf51b84c632d4f3f60c0cb8f3",
+    "topic_entities": [
+      "g.122wt67x"
+    ],
+    "answers": [
+      "Greenlandic language",
+      "Danish Language",
+      "Faroese",
+      "German Language"
+    ]
+  },
+  {
+    "qid": "WebQTest-96_a709afda983b520d23564e7662d9c7da",
+    "topic_entities": [
+      "Watergate scandal"
+    ],
+    "answers": [
+      "New York City"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1023_0309cc7dd5a31d29e6e4741ff478ff6a",
+    "topic_entities": [
+      "Dogo Argentino"
+    ],
+    "answers": [
+      "Argentine peso"
+    ]
+  },
+  {
+    "qid": "WebQTrn-241_82f730bc9553223096011848ffc6a6a5",
+    "topic_entities": [
+      "French Ministry of Foreign Affairs",
+      "Country"
+    ],
+    "answers": [
+      "Belgium",
+      "Germany",
+      "Italy",
+      "Luxembourg",
+      "Monaco",
+      "Spain",
+      "Switzerland",
+      "United Kingdom",
+      "Andorra"
+    ]
+  },
+  {
+    "qid": "WebQTest-1171_05a60a5e9a6d52b6f23993c4868c111f",
+    "topic_entities": [
+      "Voice",
+      "Tatooine"
+    ],
+    "answers": [
+      "Dr. Smoov",
+      "Zac Efron",
+      "Abraham Benrubi",
+      "Matt Lanter",
+      "James Earl Jones"
+    ]
+  },
+  {
+    "qid": "WebQTrn-241_7659976dea7b2f44cee245f089f3fd7d",
+    "topic_entities": [
+      "Country",
+      "Ariste Jacques Trouvé-Chauvel"
+    ],
+    "answers": [
+      "Belgium",
+      "Germany",
+      "Italy",
+      "Luxembourg",
+      "Monaco",
+      "Spain",
+      "Switzerland",
+      "United Kingdom",
+      "Andorra"
+    ]
+  },
+  {
+    "qid": "WebQTest-1234_840083e6d7f8b9c24c7893c2fa6c203a",
+    "topic_entities": [
+      "I would as soon leave my son a curse as the almighty dollar."
+    ],
+    "answers": [
+      "financier",
+      "steel"
+    ]
+  },
+  {
+    "qid": "WebQTest-212_4678a3ae0399fc03eec69ec26c6c9f3f",
+    "topic_entities": [
+      "Phoenix"
+    ],
+    "answers": [
+      "Colorado",
+      "California",
+      "Nevada"
+    ]
+  },
+  {
+    "qid": "WebQTrn-849_376c8faeba1d098426ae34c3ab07f824",
+    "topic_entities": [
+      "Germany",
+      "Country"
+    ],
+    "answers": [
+      "Switzerland",
+      "Denmark",
+      "Luxembourg"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1297_5a2ec93356f843d9765c62f12d6d559b",
+    "topic_entities": [
+      "Young Hollywood Award for Newcomer of the Year"
+    ],
+    "answers": [
+      "London"
+    ]
+  },
+  {
+    "qid": "WebQTest-965_00ba49818085a0ba2cec95290f1bf1fa",
+    "topic_entities": [
+      "The Diary of a Young Girl"
+    ],
+    "answers": [
+      "Montessori Lyceum Amsterdam",
+      "Jewish Lyceum"
+    ]
+  },
+  {
+    "qid": "WebQTrn-3141_4d46ac3bebff7cb2099870e10de6dd46",
+    "topic_entities": [
+      "18th Empire Awards"
+    ],
+    "answers": [
+      "Brooklyn"
+    ]
+  },
+  {
+    "qid": "WebQTrn-857_c95460984b03c16cef45a5a40c69a9e8",
+    "topic_entities": [
+      "Deputy Assistant to the Press Secretary"
+    ],
+    "answers": [
+      "Al Gore"
+    ]
+  },
+  {
+    "qid": "WebQTest-1072_b955f51044a2123babff29671bfd4e70",
+    "topic_entities": [
+      "Governor",
+      "Saguaro"
+    ],
+    "answers": [
+      "Jan Brewer"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2286_219d76ff98f71fe939c88e81e2a66960",
+    "topic_entities": [
+      "Spotted bass"
+    ],
+    "answers": [
+      "Contiguous United States",
+      "United States, with Territories"
+    ]
+  },
+  {
+    "qid": "WebQTest-1384_0e945cac8043fe5af615e4b2f0ddac8f",
+    "topic_entities": [
+      "Israeli lira"
+    ],
+    "answers": [
+      "Judaism"
+    ]
+  },
+  {
+    "qid": "WebQTest-361_9e185c7877a287a7b24655f489b63f8f",
+    "topic_entities": [
+      "Vienna"
+    ],
+    "answers": [
+      "Rock im Park"
+    ]
+  },
+  {
+    "qid": "WebQTest-743_3a3a861fe35922a25bb5991497496887",
+    "topic_entities": [
+      "Leonard Bernstein",
+      "Male"
+    ],
+    "answers": [
+      "Ted Kennedy",
+      "Joseph P. Kennedy, Jr.",
+      "Robert F. Kennedy"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1278_d8e43a02200cfdff82052f8cc5395b27",
+    "topic_entities": [
+      "Digital Underground member"
+    ],
+    "answers": [
+      "Jada Pinkett Smith",
+      "Salli Richardson",
+      "Kidada Jones"
+    ]
+  },
+  {
+    "qid": "WebQTrn-3605_db2800fd99437cf0cc58328df31b74cb",
+    "topic_entities": [
+      "Unusual",
+      "High school"
+    ],
+    "answers": [
+      "Petersburg High School"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2748_77d7699db4694c72c125520900c105ae",
+    "topic_entities": [
+      "Thai Bangkaew Dog"
+    ],
+    "answers": [
+      "Lao Language",
+      "Khmer language",
+      "Akha Language",
+      "Mlabri Language",
+      "Hmong language",
+      "Saek language",
+      "Malay, Pattani Language",
+      "Vietnamese Language",
+      "Nyaw Language",
+      "Phu Thai language",
+      "Cham language",
+      "Mon Language"
+    ]
+  },
+  {
+    "qid": "WebQTest-1840_20627dc086675c21450a79748f146c51",
+    "topic_entities": [
+      "Government of Norway"
+    ],
+    "answers": [
+      "Saami, South Language",
+      "Saami, North Language",
+      "Saami, Lule Language",
+      "Finnish, Kven Language"
+    ]
+  },
+  {
+    "qid": "WebQTrn-846_1d6d23a9882109bcf2ffffd51dcc4c8e",
+    "topic_entities": [
+      "Radio Disney Music Award for Best Album"
+    ],
+    "answers": [
+      "Belleville"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1283_2f2ee5b6c2b71038d3850ef50f049361",
+    "topic_entities": [
+      "American mastodon"
+    ],
+    "answers": [
+      "UTC−05:00",
+      "Central Time Zone",
+      "Eastern Time Zone"
+    ]
+  },
+  {
+    "qid": "WebQTest-1923_037ebc0e903ab6eb5ef8ce44ecd3bd64",
+    "topic_entities": [
+      "Blimp Award for Favorite Television Star"
+    ],
+    "answers": [
+      "Miley Cyrus: Tongue Tied",
+      "Big Fish",
+      "Hannah Montana: The Movie",
+      "Hannah Montana and Miley Cyrus: Best of Both Worlds Concert",
+      "Sonic the Hedgehog",
+      "Sex and the City 2",
+      "Wizards on Deck with Hannah Montana",
+      "Bolt",
+      "The Last Song",
+      "Super Rhino",
+      "High School Musical 2",
+      "LOL",
+      "Radio Disney Party Jams: The Concert",
+      "The World According to Miley Cyrus",
+      "So Undercover",
+      "Family Bond",
+      "Rock Mafia Presents: The Big Bang"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1377_8ecc9750b70115c9a0129addd56a4e4c",
+    "topic_entities": [
+      "Gloria Shelton"
+    ],
+    "answers": [
+      "Lori Black",
+      "Charles Alden Black Jr.",
+      "Linda Susan Agar"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2859_2a1c4757065f055b7529e2153cf14903",
+    "topic_entities": [
+      "James VI and I"
+    ],
+    "answers": [
+      "Spy",
+      "Statesman",
+      "Scientist"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1560_e38aa8cfa4a34bbdbc1fb1cbf2bc1149",
+    "topic_entities": [
+      "The Origin of Species (Enriched Classics)",
+      "Marriage"
+    ],
+    "answers": [
+      "Emma Darwin"
+    ]
+  },
+  {
+    "qid": "WebQTest-213_574a8a152e35c2b935edf71c8a0f0028",
+    "topic_entities": [
+      "Coteau Guidry Reprise"
+    ],
+    "answers": [
+      "nm1157013",
+      "Josh Hartnett",
+      "Topher Grace",
+      "Jared Leto",
+      "Ryan Reynolds",
+      "Patrick Wilson",
+      "Justin Timberlake"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1405_3a3a861fe35922a25bb5991497496887",
+    "topic_entities": [
+      "Leonard Bernstein"
+    ],
+    "answers": [
+      "Harvard College",
+      "Stanford Graduate School of Business",
+      "Choate Rosemary Hall",
+      "Noble and Greenough School",
+      "Canterbury School",
+      "Princeton University",
+      "Riverdale Country School",
+      "Dexter School",
+      "Edward Devotion School"
+    ]
+  },
+  {
+    "qid": "WebQTrn-3170_7478e17a7cd155f218c821899d42a755",
+    "topic_entities": [
+      "Education reform"
+    ],
+    "answers": [
+      "Political Science"
+    ]
+  },
+  {
+    "qid": "WebQTest-719_7478e17a7cd155f218c821899d42a755",
+    "topic_entities": [
+      "Education reform"
+    ],
+    "answers": [
+      "Democratic Party"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2486_68026a3b51433920276f3dfbaec8d75d",
+    "topic_entities": [
+      "Bachelor of Science",
+      "The point is that you can't be too greedy."
+    ],
+    "answers": [
+      "Wharton School of the University of Pennsylvania"
+    ]
+  },
+  {
+    "qid": "WebQTest-745_0a8c48e034655dbf9b49f8291fc92df3",
+    "topic_entities": [
+      "Marcus Vitruvius Pollio"
+    ],
+    "answers": [
+      "Roman emperor",
+      "Politician"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2904_91c32521a3c9bba546de5a70054318fe",
+    "topic_entities": [
+      "Legally Blonde: The Musical"
+    ],
+    "answers": [
+      "Los Angeles",
+      "San Francisco",
+      "Laguna Beach"
+    ]
+  },
+  {
+    "qid": "WebQTest-185_b96b735d1d754f27bc8986b614669f7b",
+    "topic_entities": [
+      "Amen"
+    ],
+    "answers": [
+      "Semi-presidential system"
+    ]
+  },
+  {
+    "qid": "WebQTrn-493_6b2394e4e035f76dba39ad5449291ec3",
+    "topic_entities": [
+      "Leo Belgicus"
+    ],
+    "answers": [
+      "Europe",
+      "Eurasia",
+      "Western Europe"
+    ]
+  },
+  {
+    "qid": "WebQTrn-62_b65d4152531fb45e7c495bbaa63ebc90",
+    "topic_entities": [
+      "Mickey's Surprise Party"
+    ],
+    "answers": [
+      "Diane Disney Miller",
+      "Sharon Mae Disney"
+    ]
+  },
+  {
+    "qid": "WebQTest-548_3c4307ec02c7150d9c47edf5891bd0b5",
+    "topic_entities": [
+      "The Best of MusikLaden: Vols. 1 & 2"
+    ],
+    "answers": [
+      "Fender Stratocaster"
+    ]
+  },
+  {
+    "qid": "WebQTest-1875_b0412b83228508271932b11e338e48c6",
+    "topic_entities": [
+      "54th Brazilian National Congress"
+    ],
+    "answers": [
+      "Presidential system",
+      "Constitutional republic",
+      "Federal republic"
+    ]
+  },
+  {
+    "qid": "WebQTest-1072_ff336cfd0a1c70f4e9b1a89b268c559d",
+    "topic_entities": [
+      "Ditat Deus",
+      "Governor"
+    ],
+    "answers": [
+      "Jan Brewer"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1394_f634dd018cba9f4fb4ab125b08a486bd",
+    "topic_entities": [
+      "Brazil",
+      "Turkey"
+    ],
+    "answers": [
+      "Algeria"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2286_dab999052dd777adf9d45942738e151d",
+    "topic_entities": [
+      "Brachiopod"
+    ],
+    "answers": [
+      "Contiguous United States",
+      "United States of America",
+      "United States, with Territories"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2250_2f9986c29a8e3086683459a4bb054123",
+    "topic_entities": [
+      "Strickland v. Sony"
+    ],
+    "answers": [
+      "Minato"
+    ]
+  },
+  {
+    "qid": "WebQTest-719_2c9888f591cdea04f631b1f473bf1578",
+    "topic_entities": [
+      "70th anniversary of D-Day and the Battle of Normandy"
+    ],
+    "answers": [
+      "Democratic Party"
+    ]
+  },
+  {
+    "qid": "WebQTest-1736_9a46ae131212bed576da6654db6d399e",
+    "topic_entities": [
+      "Pope Innocent III"
+    ],
+    "answers": [
+      "Europe"
+    ]
+  },
+  {
+    "qid": "WebQTrn-3035_0f2d94fcc6dd6658d6682a714dc32e24",
+    "topic_entities": [
+      "Greater short-horned lizard",
+      "Governor"
+    ],
+    "answers": [
+      "Matt Mead"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1023_3f52b9fe00f821ebd9b7bd11ae80fd09",
+    "topic_entities": [
+      "The Motorcycle Diaries"
+    ],
+    "answers": [
+      "Argentine peso"
+    ]
+  },
+  {
+    "qid": "WebQTest-942_4d46ac3bebff7cb2099870e10de6dd46",
+    "topic_entities": [
+      "18th Empire Awards"
+    ],
+    "answers": [
+      "Gerald Hathaway",
+      "Kate McCauley Hathaway"
+    ]
+  },
+  {
+    "qid": "WebQTrn-25_22d248e0f323da79889e804d1c64d5f9",
+    "topic_entities": [
+      "Jacob Black"
+    ],
+    "answers": [
+      "Run the Tide",
+      "The Ridiculous Six",
+      "He's a Bully, Charlie Brown",
+      "Valentine's Day",
+      "Cheaper by the Dozen 2",
+      "The Adventures of Sharkboy and Lavagirl",
+      "Shadow Fury",
+      "The Nick and Jessica Variety Hour",
+      "Northern Lights",
+      "Abduction",
+      "Field of Dreams 2: Lockout",
+      "Incarceron",
+      "Grown Ups 2",
+      "Tracers"
+    ]
+  },
+  {
+    "qid": "WebQTest-397_6a55c4db008678557d668691ba885210",
+    "topic_entities": [
+      "Harvard Review"
+    ],
+    "answers": [
+      "Crimson"
+    ]
+  },
+  {
+    "qid": "WebQTest-557_ca0ea9db8cf1e1f9728c53a7470cf243",
+    "topic_entities": [
+      "Roman Senate"
+    ],
+    "answers": [
+      "Autocracy"
+    ]
+  },
+  {
+    "qid": "WebQTrn-3766_68c0e1216564542d1e1a110c4f99ce22",
+    "topic_entities": [
+      "Quechuan languages"
+    ],
+    "answers": [
+      "Peruvian nuevo sol"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2292_2b3b9f6946b4568e42ff7cf53cd7cb5d",
+    "topic_entities": [
+      "Premier of the Soviet Union"
+    ],
+    "answers": [
+      "Communist state",
+      "Socialist state",
+      "Soviet democracy",
+      "Parliamentary republic"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1077_b0e1a46b580ab69854c6fbb55524d3f7",
+    "topic_entities": [
+      "Farsi, Eastern Language"
+    ],
+    "answers": [
+      "Shia Islam",
+      "Sunni Islam"
+    ]
+  },
+  {
+    "qid": "WebQTest-1817_e0caffb4c2f90b728308ee137c9b45fa",
+    "topic_entities": [
+      "Blunt the Knives"
+    ],
+    "answers": [
+      "King Edward's School, Birmingham",
+      "University of Oxford",
+      "St. Philip's School",
+      "Exeter College, Oxford"
+    ]
+  },
+  {
+    "qid": "WebQTest-12_3c5c69e3800f38649fbe7828895879e8",
+    "topic_entities": [
+      "Governor",
+      "Ohio",
+      "Member of Congress"
+    ],
+    "answers": [
+      "John Kasich"
+    ]
+  },
+  {
+    "qid": "WebQTrn-831_f2d789d28c11bc5b682263b07195d208",
+    "topic_entities": [
+      "Faster Kill Pussycat"
+    ],
+    "answers": [
+      "Something Wicked"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1232_15d1989ca82e76b817f6a531f78e52cc",
+    "topic_entities": [
+      "Marcus Lollius"
+    ],
+    "answers": [
+      "Constantinople",
+      "Ravenna"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1551_67ecccdb1e36ec6ab651eb3bdf3193bd",
+    "topic_entities": [
+      "Jesse James Rides Again",
+      "Marriage"
+    ],
+    "answers": [
+      "Zerelda Mimms"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2319_14ab2260ec77ebd5b3b8f666efc08fc3",
+    "topic_entities": [
+      "First Vice Prime Minister of Ukraine"
+    ],
+    "answers": [
+      "Albanian language",
+      "Tatar Language",
+      "Moldovan language",
+      "Romanian Language",
+      "Hungarian language",
+      "Russian Language",
+      "Ukrainian Language"
+    ]
+  },
+  {
+    "qid": "WebQTrn-21_beeb032ce88fb3abfb8bf8bd2b657e62",
+    "topic_entities": [
+      "House of Peoples' Representatives",
+      "Prime minister"
+    ],
+    "answers": [
+      "Hailemariam Desalegn"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2784_9ddd77154bbd5aa55ea6b7d543dceaac",
+    "topic_entities": [
+      "Tupac: Hip Hop Genius"
+    ],
+    "answers": [
+      "Murder Was the Case",
+      "Gridlock'd",
+      "Above the Rim",
+      "Juice",
+      "Nothing but Trouble",
+      "Bullet"
+    ]
+  },
+  {
+    "qid": "WebQTest-1528_4599452026541030cf9501fbe153fa1e",
+    "topic_entities": [
+      "g.122h61qh"
+    ],
+    "answers": [
+      "The Flannerys",
+      "The Butterfly Effect",
+      "Gamer",
+      "My One and Only",
+      "Percy Jackson & the Olympians: The Lightning Thief",
+      "A Painted House",
+      "Riding in Cars with Boys",
+      "Hoot",
+      "3:10 to Yuma",
+      "The Number 23",
+      "The Three Musketeers",
+      "Percy Jackson: Sea of Monsters",
+      "Meet Bill",
+      "The Perks of Being a Wallflower",
+      "The Patriot",
+      "The Only Living Boy in New York",
+      "Stuck in Love",
+      "Noah",
+      "The Scribe",
+      "What Women Want",
+      "Fury"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2023_139d69ce55d2d9feed41587eb4aa1b54",
+    "topic_entities": [
+      "Untouchable J"
+    ],
+    "answers": [
+      "Brooklyn"
+    ]
+  },
+  {
+    "qid": "WebQTrn-3673_3d9860939127b963951c73a63c039f6a",
+    "topic_entities": [
+      "Aquilegia caerulea"
+    ],
+    "answers": [
+      "Mountain Time Zone"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2784_1ef455d28d4c19f07ec1bf5ca5bad8c3",
+    "topic_entities": [
+      "Ezekiel 'Spoon' Whitmore"
+    ],
+    "answers": [
+      "Murder Was the Case",
+      "Poetic Justice",
+      "Above the Rim",
+      "Juice",
+      "Nothing but Trouble",
+      "Gang Related",
+      "Bullet"
+    ]
+  },
+  {
+    "qid": "WebQTrn-125_0e7444ddeac8c5f9b236df292cb8ba04",
+    "topic_entities": [
+      "Why I Oppose the War in Vietnam"
+    ],
+    "answers": [
+      "Memphis"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1077_d9bc2c5e35761bbc475b7900393fcc97",
+    "topic_entities": [
+      "Qatgani"
+    ],
+    "answers": [
+      "Shia Islam",
+      "Sunni Islam"
+    ]
+  },
+  {
+    "qid": "WebQTest-1120_6c19bc1fe78f2c0015bfd29e5c12767c",
+    "topic_entities": [
+      "First Valls Government"
+    ],
+    "answers": [
+      "Assignat",
+      "French franc"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2818_afea22a6b6053661163da4f6fdfdbc5e",
+    "topic_entities": [
+      "Kazan"
+    ],
+    "answers": [
+      "Valdai Hills"
+    ]
+  },
+  {
+    "qid": "WebQTest-1817_cf0d7c6febac6c25ce4682eccbe7171a",
+    "topic_entities": [
+      "Hymn to Elbereth"
+    ],
+    "answers": [
+      "King Edward's School, Birmingham",
+      "University of Oxford",
+      "St. Philip's School",
+      "Exeter College, Oxford"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1577_49e51cefc94932deb2b160d8de21d204",
+    "topic_entities": [
+      "Just Above My Head"
+    ],
+    "answers": [
+      "The New School",
+      "DeWitt Clinton High School"
+    ]
+  },
+  {
+    "qid": "WebQTrn-3170_b50634fcb022c0a649341ed319148244",
+    "topic_entities": [
+      "Undersecretary"
+    ],
+    "answers": [
+      "Political Science"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1077_cc0464b6c4d58f46963855573fbc7c3b",
+    "topic_entities": [
+      "Abasi"
+    ],
+    "answers": [
+      "Shia Islam",
+      "Sunni Islam"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2483_ca1749e4baddea3c1584a14e53888fbd",
+    "topic_entities": [
+      "Dowra"
+    ],
+    "answers": [
+      "Shannon Estuary"
+    ]
+  },
+  {
+    "qid": "WebQTest-1547_233832822f99bd298ddc9886c37537b3",
+    "topic_entities": [
+      "Acting Attorney General",
+      "Book"
+    ],
+    "answers": [
+      "In My Time: A Personal and Political Memoir"
+    ]
+  },
+  {
+    "qid": "WebQTest-12_bd869b480bcbb83514b224fba0736b4a",
+    "topic_entities": [
+      "Governor",
+      "Ohio",
+      "Ohio Senate"
+    ],
+    "answers": [
+      "John Kasich"
+    ]
+  },
+  {
+    "qid": "WebQTrn-849_7f4713671a7c33559720de5fdd36517e",
+    "topic_entities": [
+      "g.119v5zx6b",
+      "Germany",
+      "Country"
+    ],
+    "answers": [
+      "Netherlands"
+    ]
+  },
+  {
+    "qid": "WebQTrn-846_0054c0ba8dc5d491dfa3e8834592f764",
+    "topic_entities": [
+      "Boombox All Access with Avril Lavigne"
+    ],
+    "answers": [
+      "Belleville"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1832_26cacfd16c08b59abc1a2b1f095122f1",
+    "topic_entities": [
+      "Academy Awards",
+      "David McCullough: Painting With Words"
+    ],
+    "answers": [
+      "Philadelphia"
+    ]
+  },
+  {
+    "qid": "WebQTrn-95_0ea6067dc9a89693494dd4bd7e8fbc8c",
+    "topic_entities": [
+      "Governor-General of Jamaica"
+    ],
+    "answers": [
+      "Jamaican dollar"
+    ]
+  },
+  {
+    "qid": "WebQTrn-3673_b0f2d7005d48b548c7022ad46eccfd31",
+    "topic_entities": [
+      "Colorado recall election, 2013"
+    ],
+    "answers": [
+      "Mountain Time Zone"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1278_4b7058a69c5eb71df36a89837b1e4f60",
+    "topic_entities": [
+      "Papa'z Song"
+    ],
+    "answers": [
+      "Jada Pinkett Smith",
+      "Salli Richardson",
+      "Kidada Jones"
+    ]
+  },
+  {
+    "qid": "WebQTest-538_4767846f70218c1178e6fb0c4937e547",
+    "topic_entities": [
+      "Taylor Swift: Her Life, Her Story"
+    ],
+    "answers": [
+      "Hannah Montana: The Movie",
+      "Valentine's Day",
+      "The Lorax",
+      "Jonas Brothers: The Concert Experience",
+      "The Giver"
+    ]
+  },
+  {
+    "qid": "WebQTest-983_7f8f5ce06b0e9780d907082953206bb3",
+    "topic_entities": [
+      "Truman Capote",
+      "College/University"
+    ],
+    "answers": [
+      "University of Missouri",
+      "University of Iowa",
+      "The New School",
+      "Washington University in St. Louis"
+    ]
+  },
+  {
+    "qid": "WebQTest-719_4e2a785b515c8024dd42f5a9bc60760b",
+    "topic_entities": [
+      "Under Secretary of Defense for Personnel and Readiness"
+    ],
+    "answers": [
+      "Democratic Party"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1077_6387028f7255b20b1c889ff8ed77734a",
+    "topic_entities": [
+      "Abdul Rahim Hatif"
+    ],
+    "answers": [
+      "Shia Islam",
+      "Sunni Islam"
+    ]
+  },
+  {
+    "qid": "WebQTest-1348_589bf2e9a5eb102999faf52a27cb6483",
+    "topic_entities": [
+      "Peyton Manning",
+      "Male"
+    ],
+    "answers": [
+      "Minnesota Vikings"
+    ]
+  },
+  {
+    "qid": "WebQTest-743_ca6ce44d620e3ead920f09f2813da1af",
+    "topic_entities": [
+      "Berlin Wall",
+      "Male"
+    ],
+    "answers": [
+      "Ted Kennedy",
+      "Joseph P. Kennedy, Jr.",
+      "Robert F. Kennedy"
+    ]
+  },
+  {
+    "qid": "WebQTest-1072_a965046ceb8f96e283925e0c41abb69a",
+    "topic_entities": [
+      "Governor",
+      "Bad Bill"
+    ],
+    "answers": [
+      "Jan Brewer"
+    ]
+  },
+  {
+    "qid": "WebQTest-561_0a522fd602641e4c7acb7870908615ed",
+    "topic_entities": [
+      "United States Congress"
+    ],
+    "answers": [
+      "Abraham Lincoln 1861 presidential inauguration",
+      "Abraham Lincoln 1865 presidential inauguration"
+    ]
+  },
+  {
+    "qid": "WebQTest-654_f4f38507bbec5d30bec54c8c8dd9a72b",
+    "topic_entities": [
+      "Government of Egypt"
+    ],
+    "answers": [
+      "Egyptian pound"
+    ]
+  },
+  {
+    "qid": "WebQTrn-3035_7e9708008ed769efea52e35cd8846649",
+    "topic_entities": [
+      "Governor",
+      "Dave Freudenthal"
+    ],
+    "answers": [
+      "Matt Mead"
+    ]
+  },
+  {
+    "qid": "WebQTrn-484_dd6bb253556f96cc801f1b16e60ae1cf",
+    "topic_entities": [
+      "Araporã"
+    ],
+    "answers": [
+      "Brazilian real"
+    ]
+  },
+  {
+    "qid": "WebQTest-759_7354c9c64a319b6709919bcfbfe16d92",
+    "topic_entities": [
+      "Voyage of Time",
+      "Dated"
+    ],
+    "answers": [
+      "Thandie Newton",
+      "Juliette Lewis",
+      "Sinitta",
+      "Shalane McCall",
+      "Robin Givens"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1645_5d478fefef781c32d0333988a7455ac6",
+    "topic_entities": [
+      "Edward Pakenham"
+    ],
+    "answers": [
+      "Chalmette"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2258_e0781ce6ee283851f8bf3a5c386c764f",
+    "topic_entities": [
+      "United States Ambassador to Lesotho"
+    ],
+    "answers": [
+      "George H. W. Bush"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1297_4b1c2c1f824d5b470b5a8b188df541e9",
+    "topic_entities": [
+      "Alien on TV Monitors #2"
+    ],
+    "answers": [
+      "London"
+    ]
+  },
+  {
+    "qid": "WebQTrn-484_de57960e299fa018454749173f222521",
+    "topic_entities": [
+      "Nova Roma"
+    ],
+    "answers": [
+      "Brazilian real"
+    ]
+  },
+  {
+    "qid": "WebQTest-1812_2febacb3c783b84086cec1db4ae7470a",
+    "topic_entities": [
+      "World Music Award for World's Best Selling Barbadian Artist"
+    ],
+    "answers": [
+      "Saint Michael Parish"
+    ]
+  },
+  {
+    "qid": "WebQTrn-42_68ca58222630fcb347377f70c8c180cc",
+    "topic_entities": [
+      "Our Union: It must be preserved."
+    ],
+    "answers": [
+      "Democratic-Republican Party",
+      "Democratic Party"
+    ]
+  },
+  {
+    "qid": "WebQTrn-95_9cefb57084da782f843b2c57e373f0a7",
+    "topic_entities": [
+      "Donald Sangster"
+    ],
+    "answers": [
+      "Jamaican dollar"
+    ]
+  },
+  {
+    "qid": "WebQTest-361_313ad5665508312b968492895147f134",
+    "topic_entities": [
+      "Yearly",
+      "Vienna"
+    ],
+    "answers": [
+      "Rock im Park"
+    ]
+  },
+  {
+    "qid": "WebQTrn-76_f29b3764fd88d76c5faa9ea947c57286",
+    "topic_entities": [
+      "Hark Hanson",
+      "College/University"
+    ],
+    "answers": [
+      "Ohio University"
+    ]
+  },
+  {
+    "qid": "WebQTrn-241_6c19bc1fe78f2c0015bfd29e5c12767c",
+    "topic_entities": [
+      "First Valls Government",
+      "Country"
+    ],
+    "answers": [
+      "Belgium",
+      "Germany",
+      "Italy",
+      "Luxembourg",
+      "Monaco",
+      "Spain",
+      "Switzerland",
+      "United Kingdom",
+      "Andorra"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1405_af8b975343e4098913128e9ac7d04c05",
+    "topic_entities": [
+      "Anti-Apartheid"
+    ],
+    "answers": [
+      "Harvard College",
+      "Stanford Graduate School of Business",
+      "Choate Rosemary Hall",
+      "Harvard University",
+      "Noble and Greenough School",
+      "Canterbury School",
+      "Princeton University",
+      "Riverdale Country School",
+      "Dexter School",
+      "Edward Devotion School"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2904_2e36b6986e9bd1c449bafc82caafa585",
+    "topic_entities": [
+      "Young Hollywood Award for SodaStream Unbottle the World"
+    ],
+    "answers": [
+      "Los Angeles",
+      "San Francisco",
+      "Laguna Beach"
+    ]
+  },
+  {
+    "qid": "WebQTrn-452_e1d6f53f49be4abf9b71b6f18c67ac13",
+    "topic_entities": [
+      "Carmelo's Way"
+    ],
+    "answers": [
+      "New York City",
+      "Baltimore",
+      "Brooklyn"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2784_09e61020934818b85641a22821e7a455",
+    "topic_entities": [
+      "Strictly 4 My N.I.G.G.A.Z..."
+    ],
+    "answers": [
+      "Murder Was the Case",
+      "Poetic Justice",
+      "Gridlock'd",
+      "Above the Rim",
+      "Juice",
+      "Nothing but Trouble",
+      "Gang Related",
+      "Bullet"
+    ]
+  },
+  {
+    "qid": "WebQTrn-484_a7e655ba2343c8713f26f616c09aa12f",
+    "topic_entities": [
+      "Monte Alto, São Paulo"
+    ],
+    "answers": [
+      "Brazilian real"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2641_9f4e223ee039ce1799510374ffe59428",
+    "topic_entities": [
+      "Wright-Humason School for the Deaf"
+    ],
+    "answers": [
+      "Easton"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1405_42588c6fd3d30a777953bbaf2b4079b9",
+    "topic_entities": [
+      "Edward Devotion School"
+    ],
+    "answers": [
+      "Harvard College",
+      "Stanford Graduate School of Business",
+      "Choate Rosemary Hall",
+      "Harvard University",
+      "Noble and Greenough School",
+      "Canterbury School",
+      "Princeton University",
+      "Riverdale Country School",
+      "Dexter School"
+    ]
+  },
+  {
+    "qid": "WebQTest-654_af0a37b13a66138a543af50c2ac24bb8",
+    "topic_entities": [
+      "Adly Mansour"
+    ],
+    "answers": [
+      "Egyptian pound"
+    ]
+  },
+  {
+    "qid": "WebQTest-55_2506fa68f5112e77c1167a3aa03f218b",
+    "topic_entities": [
+      "Cariboo Hill Secondary School"
+    ],
+    "answers": [
+      "Actor",
+      "Singer",
+      "Songwriter"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2319_e9de608a162453baa77b7972ae3beb40",
+    "topic_entities": [
+      "Kiev"
+    ],
+    "answers": [
+      "Albanian language",
+      "Tatar Language",
+      "Moldovan language",
+      "Romanian Language",
+      "Hungarian language"
+    ]
+  },
+  {
+    "qid": "WebQTest-1091_9a69191735636d5c80ee0a6dd1153086",
+    "topic_entities": [
+      "g.123852dg",
+      "United States of America"
+    ],
+    "answers": [
+      "Judaism"
+    ]
+  },
+  {
+    "qid": "WebQTest-1923_7fda21e9bd5453a67c7f1b983b955114",
+    "topic_entities": [
+      "Hannah Montana: World Tour 2010/2011"
+    ],
+    "answers": [
+      "Miley Cyrus: Tongue Tied",
+      "Big Fish",
+      "Sonic the Hedgehog",
+      "Sex and the City 2",
+      "Wizards on Deck with Hannah Montana",
+      "Bolt",
+      "The Last Song",
+      "Super Rhino",
+      "High School Musical 2",
+      "LOL",
+      "Radio Disney Party Jams: The Concert",
+      "The World According to Miley Cyrus",
+      "So Undercover",
+      "Family Bond",
+      "Rock Mafia Presents: The Big Bang"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2057_5d012d4a5a946880162135e9a08ba1d3",
+    "topic_entities": [
+      "National Anthem of Guatemala"
+    ],
+    "answers": [
+      "Guatemalan quetzal"
+    ]
+  },
+  {
+    "qid": "WebQTrn-3151_a3be6ba7c257f1c9c8514e54a314337a",
+    "topic_entities": [
+      "Crete"
+    ],
+    "answers": [
+      "Albanian language"
+    ]
+  },
+  {
+    "qid": "WebQTest-1234_5d4f19710445c6dcee021e0282b06e1d",
+    "topic_entities": [
+      "Edgar Thomson Steel Works"
+    ],
+    "answers": [
+      "financier",
+      "steel"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2478_0e2a90c8d8bf04cd881d1fd53ab0c6bc",
+    "topic_entities": [
+      "Nancy Cantor"
+    ],
+    "answers": [
+      "Syracuse University Otto the Orange"
+    ]
+  },
+  {
+    "qid": "WebQTest-538_246ecc85350b201944b66ecc40d8179c",
+    "topic_entities": [
+      "The 1989 World Tour"
+    ],
+    "answers": [
+      "Hannah Montana: The Movie",
+      "Valentine's Day",
+      "The Lorax",
+      "Jonas Brothers: The Concert Experience",
+      "The Giver"
+    ]
+  },
+  {
+    "qid": "WebQTrn-3384_6cb1331b7de4eccf0c4d3f78f17c7ad8",
+    "topic_entities": [
+      "There is a Lovely Country"
+    ],
+    "answers": [
+      "Greenlandic language",
+      "Faroese",
+      "German Language"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2834_2d45e5f27018fef8d4f5f7e2cf000006",
+    "topic_entities": [
+      "Marcion of Sinope",
+      "United States of America"
+    ],
+    "answers": [
+      "Christianity"
+    ]
+  },
+  {
+    "qid": "WebQTest-1178_08a3071aec88af141fc20ed22cfff0e2",
+    "topic_entities": [
+      "Marin City"
+    ],
+    "answers": [
+      "East Harlem"
+    ]
+  },
+  {
+    "qid": "WebQTrn-3694_8e4ffbb924cdcf9393c9cfa849b3a31c",
+    "topic_entities": [
+      "La Bayamesa"
+    ],
+    "answers": [
+      "Cuban peso",
+      "Cuban convertible peso"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1722_c2ff19afb275737b0309f11e46a2d691",
+    "topic_entities": [
+      "March On, Bahamaland"
+    ],
+    "answers": [
+      "North America"
+    ]
+  },
+  {
+    "qid": "WebQTest-1807_0a58f5c10a1664797b73a9ca424fea7f",
+    "topic_entities": [
+      "NHL Greatest Moments"
+    ],
+    "answers": [
+      "Edmonton Oilers"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2256_549761eca9c4f858651ea00f4f9c4abc",
+    "topic_entities": [
+      "Commander in Chief of Home Forces"
+    ],
+    "answers": [
+      "Ballistic trauma",
+      "Suicide"
+    ]
+  },
+  {
+    "qid": "WebQTest-965_e91a95bd503f0704b9cc40c6f2139524",
+    "topic_entities": [
+      "Laziness may appear attractive but work gives satisfaction."
+    ],
+    "answers": [
+      "Montessori Lyceum Amsterdam",
+      "Jewish Lyceum"
+    ]
+  },
+  {
+    "qid": "WebQTrn-3605_afa7bf9ead3f3af2b802bee6e65066a5",
+    "topic_entities": [
+      "Out of My Head",
+      "High school"
+    ],
+    "answers": [
+      "Petersburg High School"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1832_4d7b047e2900ebf3a27a74de7fd84c51",
+    "topic_entities": [
+      "Academy Awards",
+      "Woody Car"
+    ],
+    "answers": [
+      "Philadelphia"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1770_eacb827b9f76250dd8e9b68184ed09b5",
+    "topic_entities": [
+      "Xania"
+    ],
+    "answers": [
+      "Blue Ivy"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2286_aa1aa451c3b55a18e03b379bdf6fc156",
+    "topic_entities": [
+      "Keen Johnson"
+    ],
+    "answers": [
+      "Contiguous United States"
+    ]
+  },
+  {
+    "qid": "WebQTest-537_b934936c418a21861f71d9d67dbb7d7b",
+    "topic_entities": [
+      "g.11b6gq6dl2"
+    ],
+    "answers": [
+      "Knights of the Roundtable: King Arthur",
+      "Cold Mountain",
+      "Nicholas Nickleby",
+      "Whatever Happened to Harold Smith?",
+      "Green Street",
+      "Abandon",
+      "Children of Men",
+      "The Ledge",
+      "Deadfall",
+      "Frankie Go Boom",
+      "Pacific Rim",
+      "Crimson Peak"
+    ]
+  },
+  {
+    "qid": "WebQTrn-3035_ff2c4820391d2938104a8d9b530250e1",
+    "topic_entities": [
+      "Governor",
+      "Equal Rights"
+    ],
+    "answers": [
+      "Matt Mead"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1938_1beae13077eb05db9b853a9c74e3aec8",
+    "topic_entities": [
+      "g.1hb_g2v0p"
+    ],
+    "answers": [
+      "Parliamentary system"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2026_de4e12cff67645e8580d6a495196c768",
+    "topic_entities": [
+      "Acting President of the Dominican Republic"
+    ],
+    "answers": [
+      "Dominican peso"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2006_3355822f94d09240bfd66d421d6b9737",
+    "topic_entities": [
+      "Mournful and Never-ending Remembrance."
+    ],
+    "answers": [
+      "Graham's Magazine",
+      "Broadway Journal",
+      "Burton's Gentleman's Magazine"
+    ]
+  },
+  {
+    "qid": "WebQTrn-124_b06519264f241ceb270d8c9b1dce6adb",
+    "topic_entities": [
+      "Lara Croft: Tomb Raider"
+    ],
+    "answers": [
+      "By the Sea",
+      "In the Land of Blood and Honey",
+      "A Place in Time",
+      "Unbroken"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2258_87e0084d38db8372b243b8cb17e3d47a",
+    "topic_entities": [
+      "Recognition of the Japanese Zero Fighter"
+    ],
+    "answers": [
+      "George H. W. Bush"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1407_cb18224cb0abcbf682964f1b9c5d226b",
+    "topic_entities": [
+      "Fukushima"
+    ],
+    "answers": [
+      "Disaster-affected structure"
+    ]
+  },
+  {
+    "qid": "WebQTrn-379_7ba9490ebb3456103508845fd2906b4c",
+    "topic_entities": [
+      "Dinger Holfield"
+    ],
+    "answers": [
+      "Drug overdose",
+      "Pneumonia"
+    ]
+  },
+  {
+    "qid": "WebQTest-1014_334528d6e7e76b73a53c4b72b52cf255",
+    "topic_entities": [
+      "Digital Death/Buy Life"
+    ],
+    "answers": [
+      "Los Angeles"
+    ]
+  },
+  {
+    "qid": "WebQTest-1316_15cace8f716a3aed245757a5874e1bb0",
+    "topic_entities": [
+      "Common-law marriage",
+      "Who is rich? He that rejoices in his portion."
+    ],
+    "answers": [
+      "Deborah Read"
+    ]
+  },
+  {
+    "qid": "WebQTest-743_4d2f11c63fa0611b0e29bc00f41bf7a9",
+    "topic_entities": [
+      "Profiles in courage",
+      "Male"
+    ],
+    "answers": [
+      "Ted Kennedy",
+      "Joseph P. Kennedy, Jr.",
+      "Robert F. Kennedy"
+    ]
+  },
+  {
+    "qid": "WebQTest-12_4877288a6328203e76db788c200ae16e",
+    "topic_entities": [
+      "Governor",
+      "Ohio"
+    ],
+    "answers": [
+      "Ted Strickland"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2653_e8a19b1545bda07304fa7dd15e050ea9",
+    "topic_entities": [
+      "France"
+    ],
+    "answers": [
+      "Battle of Talavera",
+      "Gulf War",
+      "Battle of Passchendaele"
+    ]
+  },
+  {
+    "qid": "WebQTest-213_4eb3e7558badc841db25b30e7988d917",
+    "topic_entities": [
+      "The Perfect Score"
+    ],
+    "answers": [
+      "nm1157013",
+      "Josh Hartnett",
+      "Topher Grace",
+      "Jared Leto",
+      "Ryan Reynolds",
+      "Patrick Wilson",
+      "Justin Timberlake"
+    ]
+  },
+  {
+    "qid": "WebQTrn-124_a5dc6fbc8555dea81984bbbd018321f8",
+    "topic_entities": [
+      "Taking Lives"
+    ],
+    "answers": [
+      "By the Sea",
+      "In the Land of Blood and Honey",
+      "A Place in Time",
+      "Unbroken"
+    ]
+  },
+  {
+    "qid": "WebQTrn-945_c1f469f64005572a1c81eeec3969bac7",
+    "topic_entities": [
+      "Governor of Illinois"
+    ],
+    "answers": [
+      "Central Time Zone"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1394_58fc62f12e18fa64619476efd4fbedb4",
+    "topic_entities": [
+      "Greece",
+      "Turkey"
+    ],
+    "answers": [
+      "Albania"
+    ]
+  },
+  {
+    "qid": "WebQTrn-3605_dc036e6c27221c525c028b9d91296cd8",
+    "topic_entities": [
+      "Girl Tonight",
+      "High school"
+    ],
+    "answers": [
+      "Petersburg High School"
+    ]
+  },
+  {
+    "qid": "WebQTest-719_b50634fcb022c0a649341ed319148244",
+    "topic_entities": [
+      "Undersecretary"
+    ],
+    "answers": [
+      "Democratic Party"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1939_0a522fd602641e4c7acb7870908615ed",
+    "topic_entities": [
+      "United States Congress"
+    ],
+    "answers": [
+      "Member of Illinois House of Representatives",
+      "President of the United States"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2189_f4f38507bbec5d30bec54c8c8dd9a72b",
+    "topic_entities": [
+      "Government of Egypt"
+    ],
+    "answers": [
+      "Modern Standard Arabic"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1278_e1d81a60b5954aea1f4417696d8cf733",
+    "topic_entities": [
+      "Still Ballin'"
+    ],
+    "answers": [
+      "Jada Pinkett Smith",
+      "Salli Richardson",
+      "Kidada Jones"
+    ]
+  },
+  {
+    "qid": "WebQTrn-105_602d3e74c7063895f149a8f44b9e406f",
+    "topic_entities": [
+      "Domari Language"
+    ],
+    "answers": [
+      "Egyptian pound"
+    ]
+  },
+  {
+    "qid": "WebQTest-1686_92f27159a96f716c1691371e64e5a604",
+    "topic_entities": [
+      "Governor",
+      "United States Bankruptcy Court, District of Arizona"
+    ],
+    "answers": [
+      "Janet Napolitano",
+      "Jan Brewer"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2335_79ee4c5d31170a2a4638a4fa603f0b52",
+    "topic_entities": [
+      "Zhivoye Dyelo"
+    ],
+    "answers": [
+      "National Anthem of Russia"
+    ]
+  },
+  {
+    "qid": "WebQTest-185_08c0146e6ee5281e52c72f9bb9199474",
+    "topic_entities": [
+      "Ayrault Government"
+    ],
+    "answers": [
+      "Semi-presidential system",
+      "Unitary state",
+      "Constitutional republic"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1665_46147d9704c8a625bd7e4a53596764af",
+    "topic_entities": [
+      "Echelon"
+    ],
+    "answers": [
+      "Sydenham",
+      "Great Yarmouth"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2653_597d8271f0714c7e1c57bdd74a449e2d",
+    "topic_entities": [
+      "France"
+    ],
+    "answers": [
+      "Gulf War"
+    ]
+  },
+  {
+    "qid": "WebQTrn-3098_5f339cc3a7979a71dd90298c8532b71b",
+    "topic_entities": [
+      "Continental Congress"
+    ],
+    "answers": [
+      "Boston"
+    ]
+  },
+  {
+    "qid": "WebQTest-12_96449ea99c483410641ffbbe84e44f1c",
+    "topic_entities": [
+      "Christianity",
+      "Governor",
+      "Ohio"
+    ],
+    "answers": [
+      "John Kasich"
+    ]
+  },
+  {
+    "qid": "WebQTrn-3605_5ce22bd1d7a29e9d543b0c970683bcb6",
+    "topic_entities": [
+      "Dive In",
+      "High school"
+    ],
+    "answers": [
+      "Petersburg High School"
+    ]
+  },
+  {
+    "qid": "WebQTrn-3170_2883cc73d6e7cc887da948a32c5fd2bb",
+    "topic_entities": [
+      "Yes we can!"
+    ],
+    "answers": [
+      "Political Science"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2280_b26c73164ed35a00c2d9ed862aee184a",
+    "topic_entities": [
+      "Carlos P. Romulo"
+    ],
+    "answers": [
+      "New York City"
+    ]
+  },
+  {
+    "qid": "WebQTrn-21_607732d3793a0f96969ee27a0729b7ff",
+    "topic_entities": [
+      "Kambaata people",
+      "Prime minister"
+    ],
+    "answers": [
+      "Hailemariam Desalegn"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2256_9979ad066382ff1507c923c8035087c4",
+    "topic_entities": [
+      "Reich Governor"
+    ],
+    "answers": [
+      "Ballistic trauma",
+      "Suicide"
+    ]
+  },
+  {
+    "qid": "WebQTest-542_aeadf3a0902a2a71546a7144ca1a5d4d",
+    "topic_entities": [
+      "Gravest Hits"
+    ],
+    "answers": [
+      "New Orleans"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2784_08a3071aec88af141fc20ed22cfff0e2",
+    "topic_entities": [
+      "Marin City"
+    ],
+    "answers": [
+      "Above the Rim"
+    ]
+  },
+  {
+    "qid": "WebQTest-1108_1988e0b7c1ed7316160b416a7c83b44d",
+    "topic_entities": [
+      "Jarl Mohn",
+      "New York City"
+    ],
+    "answers": [
+      "WNYC"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1938_744a496b907e407b16bc5d7c197dc3f0",
+    "topic_entities": [
+      "Ovadia Yosef"
+    ],
+    "answers": [
+      "Parliamentary system"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1646_0d5bc4f5ce16dafee354662c09965811",
+    "topic_entities": [
+      "Valiant Quisqueyans"
+    ],
+    "answers": [
+      "Samaná English"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2319_a109f9eb92e7770f2795631f461e7226",
+    "topic_entities": [
+      "Ukrainian Orthodox Church of the Kyivan Patriarchate"
+    ],
+    "answers": [
+      "Ukrainian Language"
+    ]
+  },
+  {
+    "qid": "WebQTest-1560_3f9e3373173bba6e70a26c4df64aa943",
+    "topic_entities": [
+      "New York University"
+    ],
+    "answers": [
+      "Ukrainian Language"
+    ]
+  },
+  {
+    "qid": "WebQTest-1119_af822f386c49e89a32d2889d16618e1c",
+    "topic_entities": [
+      "Terry Guthrie"
+    ],
+    "answers": [
+      "College/University"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2570_c47133a5a4595621bf114ffa8ed4c3e3",
+    "topic_entities": [
+      "President of the United States",
+      "World War II"
+    ],
+    "answers": [
+      "Khmer language"
+    ]
+  },
+  {
+    "qid": "WebQTest-802_8562012e739a0e7aee294a26ad53e581",
+    "topic_entities": [
+      "Believe Tour"
+    ],
+    "answers": [
+      "Vocals"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2189_af0a37b13a66138a543af50c2ac24bb8",
+    "topic_entities": [
+      "Adly Mansour"
+    ],
+    "answers": [
+      "Modern Standard Arabic"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2250_6b44fe608d47a32e09dd25238bd238c8",
+    "topic_entities": [
+      "Nobuyuki Idei"
+    ],
+    "answers": [
+      "Minato"
+    ]
+  },
+  {
+    "qid": "WebQTest-1120_dfad75afd3c40503f595b4cb6acc43a5",
+    "topic_entities": [
+      "Nicolas Sarkozy"
+    ],
+    "answers": [
+      "Assignat"
+    ]
+  },
+  {
+    "qid": "WebQTest-924_22690ad5ad70b56c7dc11ec59b093c0e",
+    "topic_entities": [
+      "Lionel Messi",
+      "1957 Pequeña Copa del Mundo de Clubes"
+    ],
+    "answers": [
+      "Assignat"
+    ]
+  },
+  {
+    "qid": "WebQTrn-662_8c408912497ab033dbcf58287a5f5086",
+    "topic_entities": [
+      "Ed Woodward"
+    ],
+    "answers": [
+      "Newton Heath L&YR F.C."
+    ]
+  },
+  {
+    "qid": "WebQTest-1384_74c0600ef5349cd456fdc405823140e7",
+    "topic_entities": [
+      "Chief Rabbinate of Israel"
+    ],
+    "answers": [
+      "Judaism"
+    ]
+  },
+  {
+    "qid": "WebQTrn-810_87afbf2481df60df8476b920f00c4247",
+    "topic_entities": [
+      "2012 World Series"
+    ],
+    "answers": [
+      "Wales"
+    ]
+  },
+  {
+    "qid": "WebQTrn-105_f87f28f0d42904ea62dcab41fb65f3f1",
+    "topic_entities": [
+      "Anwar Sadat"
+    ],
+    "answers": [
+      "Egyptian pound"
+    ]
+  },
+  {
+    "qid": "WebQTest-1686_c374fe555611a2e3aba1ba9ffd739d13",
+    "topic_entities": [
+      "Governor",
+      "Arizona"
+    ],
+    "answers": [
+      "Egyptian pound"
+    ]
+  },
+  {
+    "qid": "WebQTrn-3057_c264a6d11d7956741926d417b94327e2",
+    "topic_entities": [
+      "Larry Baer"
+    ],
+    "answers": [
+      "2014 World Series"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1812_279ab36d62e499754cff2b68b31a1f78",
+    "topic_entities": [
+      "Caribbean",
+      "Country"
+    ],
+    "answers": [
+      "1981 World Series"
+    ]
+  },
+  {
+    "qid": "WebQTrn-465_625dcc2028696681e621cceadd1d10cb",
+    "topic_entities": [
+      "Anton Buttigieg"
+    ],
+    "answers": [
+      "The Armoury and the Maritime Museum"
+    ]
+  },
+  {
+    "qid": "WebQTrn-465_46d5d7d6aba16a10af4f4059dde155b7",
+    "topic_entities": [
+      "Pharaoh Hound"
+    ],
+    "answers": [
+      "The Armoury and the Maritime Museum"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2047_66f0df8efaf1096fa9077e643da228ad",
+    "topic_entities": [
+      "Chicago Cubs"
+    ],
+    "answers": [
+      "Riding in Cars with Boys"
+    ]
+  },
+  {
+    "qid": "WebQTest-375_b9c59f54eef5d5d0b700b4f6d85ef011",
+    "topic_entities": [
+      "Book",
+      "That very wise man, Old Aesop"
+    ],
+    "answers": [
+      "Wales"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2006_54c677761ff06a9b6e223ccb4c72a2a6",
+    "topic_entities": [
+      "The fall of the House of Usher"
+    ],
+    "answers": [
+      "Burton's Gentleman's Magazine"
+    ]
+  },
+  {
+    "qid": "WebQTest-1797_386170d21af6b8637d7a42ba848b2e60",
+    "topic_entities": [
+      "Siege of Vicksburg"
+    ],
+    "answers": [
+      "Burton's Gentleman's Magazine"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1677_469a7dd6af87b88fa3832c3c7e7a3b70",
+    "topic_entities": [
+      "Adam Sandler"
+    ],
+    "answers": [
+      "Swiss franc"
+    ]
+  },
+  {
+    "qid": "WebQTest-719_402552b61d68fcf116111585da32583b",
+    "topic_entities": [
+      "A good GI bill would increase the recruit pool."
+    ],
+    "answers": [
+      "Democratic Party"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2570_5b1b5d2f3ee779968b5c5273b1a4c6f8",
+    "topic_entities": [
+      "President of the United States",
+      "Henry George",
+      "World War II"
+    ],
+    "answers": [
+      "Columbia University"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2904_5bbc655e07c54705f8f18c453bd06307",
+    "topic_entities": [
+      "Lauren Conrad",
+      "Orange County"
+    ],
+    "answers": [
+      "Ontario"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2570_a381da44d3a6d3da928c30cebe4df1db",
+    "topic_entities": [
+      "President of the United States",
+      "The Day Will Dawn"
+    ],
+    "answers": [
+      "Ontario"
+    ]
+  },
+  {
+    "qid": "WebQTrn-3376_6f63302a5c1425c7a4f31bd93c423f2b",
+    "topic_entities": [
+      "Kevin Hart"
+    ],
+    "answers": [
+      "UTC−05:00"
+    ]
+  },
+  {
+    "qid": "WebQTrn-831_c191674d835a2284701f16d70a146360",
+    "topic_entities": [
+      "Faster Kill Pussycat (club mix)"
+    ],
+    "answers": [
+      "Brooklyn"
+    ]
+  },
+  {
+    "qid": "WebQTest-837_b3082a96cbaeb04f7d7ea8cdf5df3181",
+    "topic_entities": [
+      "Super Bowl",
+      "Baltimore Ravens"
+    ],
+    "answers": [
+      "Dr. Seuss' How the Grinch Stole Christmas"
+    ]
+  },
+  {
+    "qid": "WebQTest-743_bef14a2c5e7b8f9ce875fe024cacdf9c",
+    "topic_entities": [
+      "John F. Kennedy",
+      "Male"
+    ],
+    "answers": [
+      "A Beautiful Mind"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2218_7fde645929322023cada4f38c263bdcb",
+    "topic_entities": [
+      "We Fight to Be Free"
+    ],
+    "answers": [
+      ":m.0mmyl"
+    ]
+  },
+  {
+    "qid": "WebQTest-1785_ed471d4e2f31b0c26f925ed5587123ab",
+    "topic_entities": [
+      "Kim Richards"
+    ],
+    "answers": [
+      ":m.0mmyl"
+    ]
+  },
+  {
+    "qid": "WebQTrn-484_d35194e42e8dfb2250164a3a10b93131",
+    "topic_entities": [
+      "Artur da Costa e Silva"
+    ],
+    "answers": [
+      "Brazilian real"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2218_2579a45724107097558a5091b9e8d420",
+    "topic_entities": [
+      "Few people have the virtue to withstand the highest bidder."
+    ],
+    "answers": [
+      ":m.0mmyl"
+    ]
+  },
+  {
+    "qid": "WebQTest-1736_8526fc2dec1ebbf627ccdf877d837b32",
+    "topic_entities": [
+      "West Germanic languages"
+    ],
+    "answers": [
+      "Europe"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1377_d671896f5b21944383d61bfc072566d0",
+    "topic_entities": [
+      "Shirley Temple",
+      "Washington, D.C."
+    ],
+    "answers": [
+      "Europe"
+    ]
+  },
+  {
+    "qid": "WebQTest-1686_981dece7a8a3bd2c8fca1368b39e0cca",
+    "topic_entities": [
+      "Governor",
+      "Arizona"
+    ],
+    "answers": [
+      "Europe"
+    ]
+  },
+  {
+    "qid": "WebQTrn-3034_72c6ea4886c67c9b4d000010703a5301",
+    "topic_entities": [
+      "The Boy King",
+      "PhD"
+    ],
+    "answers": [
+      "Boston University"
+    ]
+  },
+  {
+    "qid": "WebQTest-1923_e28bbb9313b4cb679ad8a3bd535efe40",
+    "topic_entities": [
+      "Miley Cyrus"
+    ],
+    "answers": [
+      "Boston University"
+    ]
+  },
+  {
+    "qid": "WebQTrn-849_ad0b8b2df51fda957d4f1eaac3225768",
+    "topic_entities": [
+      "Germany",
+      "Country"
+    ],
+    "answers": [
+      "Netherlands"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2653_0748ec0755fe09c857c9179e9201eda7",
+    "topic_entities": [
+      "Government of France"
+    ],
+    "answers": [
+      "Battle of Dien Bien Phu"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2653_6a188757d196d24be80495a40b38147d",
+    "topic_entities": [
+      "Germany",
+      "France"
+    ],
+    "answers": [
+      "Second Battle of the Aisne"
+    ]
+  },
+  {
+    "qid": "WebQTrn-124_609120802c32c3608fc379700186f76c",
+    "topic_entities": [
+      "Angelina Jolie"
+    ],
+    "answers": [
+      "Blue Ivy"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1832_6d63b4d4c20d567feb9cdadde2bb2a2a",
+    "topic_entities": [
+      "Academy Awards",
+      "The Lost Symbol"
+    ],
+    "answers": [
+      "Topher Grace"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1646_bb47f8754b61c6ad5b360a0780bcd6f3",
+    "topic_entities": [
+      "Francisco Gregorio Billini"
+    ],
+    "answers": [
+      "Samaná English"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2335_ca1d9e583e040b7f2f6103a9f44cd53b",
+    "topic_entities": [
+      "Coat of arms of Russia"
+    ],
+    "answers": [
+      "National Anthem of Russia"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2026_b3dea5ef61d99706b52127dd45ae6149",
+    "topic_entities": [
+      "Manuel Altagracia Cáceres"
+    ],
+    "answers": [
+      "Dominican peso"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2311_323d33d74e368bf4e2cb60bff38878cc",
+    "topic_entities": [
+      "Sammy and Company"
+    ],
+    "answers": [
+      "Complication"
+    ]
+  },
+  {
+    "qid": "WebQTest-1306_47315d2d91da33c8fb1812320919e970",
+    "topic_entities": [
+      "Islamic Consultative Assembly"
+    ],
+    "answers": [
+      "Jack Williams"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1077_970fa0bb57e1e55674ed2194714c782f",
+    "topic_entities": [
+      "President of Afghanistan"
+    ],
+    "answers": [
+      "Shia Islam"
+    ]
+  },
+  {
+    "qid": "WebQTest-1923_60c98dd577b89e982f0432c395e26743",
+    "topic_entities": [
+      "Rock Mafia Presents: The Big Bang"
+    ],
+    "answers": [
+      "Unbroken"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1677_0b14789685cfffce45b4d7b918c46ac3",
+    "topic_entities": [
+      "Adam Sandler"
+    ],
+    "answers": [
+      "Andorra"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2570_9ab91b6450e306714c572969bebea1ed",
+    "topic_entities": [
+      "President of the United States",
+      "Governor-General of the Philippines",
+      "World War II"
+    ],
+    "answers": [
+      "Andorra"
+    ]
+  },
+  {
+    "qid": "WebQTest-1686_a86f2ebf5f56d7c7a97bcf7f76fa2d8f",
+    "topic_entities": [
+      "Governor",
+      "Tropical Storm Norma"
+    ],
+    "answers": [
+      "Raúl Héctor Castro"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1557_a1529117c1c3bfb5507949ff1667ffe7",
+    "topic_entities": [
+      "Charles R. Drew",
+      "College/University"
+    ],
+    "answers": [
+      "Raúl Héctor Castro"
+    ]
+  },
+  {
+    "qid": "WebQTest-185_6c19bc1fe78f2c0015bfd29e5c12767c",
+    "topic_entities": [
+      "First Valls Government"
+    ],
+    "answers": [
+      "Constitutional republic"
+    ]
+  },
+  {
+    "qid": "WebQTest-1547_480b406a8cdcc33169b39cc20be2f0df",
+    "topic_entities": [
+      "Member of President's Advisory Council on Financial Literacy",
+      "Book"
+    ],
+    "answers": [
+      "Constitutional republic"
+    ]
+  },
+  {
+    "qid": "WebQTest-134_d951075723a9fdb1505e6bfefa71831b",
+    "topic_entities": [
+      "The labours of Hercules"
+    ],
+    "answers": [
+      "Ted Kennedy"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1283_c14b4adc328f5f45ba766e95d00b57a3",
+    "topic_entities": [
+      "Capitalism: A Love Story"
+    ],
+    "answers": [
+      "UTC−05:00"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1770_62d20fcffcf1cf92c3139248c02c78c8",
+    "topic_entities": [
+      "Billboard Music Hot 100 Award for Most Weeks at No. 1"
+    ],
+    "answers": [
+      "Blue Ivy"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2006_502e7e2bf76ca104d64c4f3eef101408",
+    "topic_entities": [
+      "Edgar Allan Poe"
+    ],
+    "answers": [
+      "The New School"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2047_8412139f5feae89b046f4afb1d4f27ed",
+    "topic_entities": [
+      "Chicago Cubs"
+    ],
+    "answers": [
+      "Drums"
+    ]
+  },
+  {
+    "qid": "WebQTest-1379_8b1ff0551fb22f1d4e54d33d3656b8e8",
+    "topic_entities": [
+      "Life of Franz Liszt"
+    ],
+    "answers": [
+      "Drums"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1294_c78732921e06412cc491a866e2dabf59",
+    "topic_entities": [
+      "Vito Corleone"
+    ],
+    "answers": [
+      "Albert Gallatin"
+    ]
+  },
+  {
+    "qid": "WebQTest-654_602d3e74c7063895f149a8f44b9e406f",
+    "topic_entities": [
+      "Domari Language"
+    ],
+    "answers": [
+      "Egyptian pound"
+    ]
+  },
+  {
+    "qid": "WebQTrn-846_50383833393ddda52ad949cebcb1877f",
+    "topic_entities": [
+      "Radio Disney Music Award for Best Song to Air Guitar"
+    ],
+    "answers": [
+      "Belleville"
+    ]
+  },
+  {
+    "qid": "WebQTest-1072_8e6dfa8822e4d4a94104aa4c25644866",
+    "topic_entities": [
+      "Governor",
+      "Arizona Senate"
+    ],
+    "answers": [
+      "Raúl Héctor Castro"
+    ]
+  },
+  {
+    "qid": "WebQTest-1120_08c0146e6ee5281e52c72f9bb9199474",
+    "topic_entities": [
+      "Ayrault Government"
+    ],
+    "answers": [
+      "Assignat"
+    ]
+  },
+  {
+    "qid": "WebQTest-1817_81c0ebf9fe16672cac0e64470d756f17",
+    "topic_entities": [
+      "Elessar’s Oath"
+    ],
+    "answers": [
+      "Exeter College, Oxford"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2570_dce1b67851599cfa99e98702fb0934f6",
+    "topic_entities": [
+      "President of the United States",
+      "World War II"
+    ],
+    "answers": [
+      "In the Land of Blood and Honey"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2708_b24ecf73cc87ecb9c27565fdec5dc934",
+    "topic_entities": [
+      "Office Depot"
+    ],
+    "answers": [
+      "Roush Fenway Racing"
+    ]
+  },
+  {
+    "qid": "WebQTest-1483_8520ca90bd1e650edf1dbcad90336227",
+    "topic_entities": [
+      "V Bird"
+    ],
+    "answers": [
+      "Constitutional republic"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1629_190b1dffbd0600e00ee739d95c7fb862",
+    "topic_entities": [
+      "Voice",
+      "Jack Skellington",
+      "Edward Scissorhands"
+    ],
+    "answers": [
+      "Belgium"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2569_b20fdb17c5ed076fa54968727f274763",
+    "topic_entities": [
+      "Houston Rockets"
+    ],
+    "answers": [
+      "Consultant"
+    ]
+  },
+  {
+    "qid": "WebQTrn-3376_41059183a7ccab178427c57ed27fe803",
+    "topic_entities": [
+      "Kevin Hart"
+    ],
+    "answers": [
+      "Consultant"
+    ]
+  },
+  {
+    "qid": "WebQTrn-465_f2af31afe52a13cecf19acb7f08832ea",
+    "topic_entities": [
+      "Government of Malta"
+    ],
+    "answers": [
+      "Judy Garland"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2818_db09fc9949516c3b8e34002f5507514d",
+    "topic_entities": [
+      "Volgograd"
+    ],
+    "answers": [
+      "Valdai Hills"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1629_dcf875b1cb6fe32fcb3a7e682856ef77",
+    "topic_entities": [
+      "Composer",
+      "Voice",
+      "Jack Skellington"
+    ],
+    "answers": [
+      "Valdai Hills"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1023_03dc1e51e48aaeff9d589d066eaf1140",
+    "topic_entities": [
+      "g.121j1m9y"
+    ],
+    "answers": [
+      "Argentine peso"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2006_2c10e06058f2ec5a912670c44257757f",
+    "topic_entities": [
+      "Edgar Allan Poe"
+    ],
+    "answers": [
+      "Daozang"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2784_c2aa73d71b620d685e5aac69784ec8ce",
+    "topic_entities": [
+      "Tupac Shakur"
+    ],
+    "answers": [
+      "Portugal"
+    ]
+  },
+  {
+    "qid": "WebQTest-1547_316b05297664f68c8dd5e61f08130769",
+    "topic_entities": [
+      "Book",
+      "Texas Air National Guard"
+    ],
+    "answers": [
+      "Dutch Language"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2570_db34fd8440052b417b431fca90cfc47c",
+    "topic_entities": [
+      "President of the United States",
+      "World War II"
+    ],
+    "answers": [
+      "Glen Dale"
+    ]
+  },
+  {
+    "qid": "WebQTrn-837_45f00cf834ec70381e45de57b5b26219",
+    "topic_entities": [
+      "Go All Night (extended mix)"
+    ],
+    "answers": [
+      "Langston University"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2570_77dde5a026e1fc4a375d8f7326bd62f8",
+    "topic_entities": [
+      "President of the United States",
+      "Taiwan"
+    ],
+    "answers": [
+      "Joe Dirt 2: Beautiful Loser"
+    ]
+  },
+  {
+    "qid": "WebQTrn-3766_2c2886b473de5fea039d659cd86d9606",
+    "topic_entities": [
+      "Cabinet of Peru"
+    ],
+    "answers": [
+      "Peruvian nuevo sol"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2319_80b6d707e097b0a6f9ecf73579f717a7",
+    "topic_entities": [
+      "Office of the Prosecutor General of Ukraine"
+    ],
+    "answers": [
+      "Ukrainian Language"
+    ]
+  },
+  {
+    "qid": "WebQTest-989_0d0ba885d5f820933d79d996e99dd87c",
+    "topic_entities": [
+      "Dunkirk",
+      "World War II"
+    ],
+    "answers": [
+      "Unbroken"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2069_90e55c1f8af98edbab56a37210ef3cd9",
+    "topic_entities": [
+      "Nucingen House"
+    ],
+    "answers": [
+      "Mapudungun Language"
+    ]
+  },
+  {
+    "qid": "WebQTrn-484_0bd50f38d8c9b7904b5a1187a904cd73",
+    "topic_entities": [
+      "Fila Brasileiro"
+    ],
+    "answers": [
+      "Brazilian real"
+    ]
+  },
+  {
+    "qid": "WebQTrn-3170_88427e4cf8c94effb8217cddfd827261",
+    "topic_entities": [
+      "Dreams from My Father"
+    ],
+    "answers": [
+      "Political Science"
+    ]
+  },
+  {
+    "qid": "WebQTrn-837_66af81787994177f0d3e64d0c0fb871f",
+    "topic_entities": [
+      "Jennifer Hudson"
+    ],
+    "answers": [
+      "The Ledge"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1405_0ab198918959e0a63172be1705632a9c",
+    "topic_entities": [
+      "Forgive your enemies, but never forget their names."
+    ],
+    "answers": [
+      "Harvard College"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2570_6f059734e774504c68f628670516e72c",
+    "topic_entities": [
+      "President of the United States",
+      "I would rather have peace in the world than be President.",
+      "World War II"
+    ],
+    "answers": [
+      "Harvard College"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1939_f4a09a295875531887340bb4c3b57928",
+    "topic_entities": [
+      "William Howard Taft"
+    ],
+    "answers": [
+      "Jesus Christ"
+    ]
+  },
+  {
+    "qid": "WebQTrn-3057_5a7cd2677ed97e520a124ba9c2da6ad4",
+    "topic_entities": [
+      "San Francisco Giants"
+    ],
+    "answers": [
+      "Songwriter"
+    ]
+  },
+  {
+    "qid": "WebQTrn-2258_7eef3253bf4eafe45e05c66e05a2c94c",
+    "topic_entities": [
+      "U.S. Attorney for the Northern District of Georgia"
+    ],
+    "answers": [
+      "George H. W. Bush"
+    ]
+  },
+  {
+    "qid": "WebQTest-213_69ead5f11f920334fa972ca0d1fffc2a",
+    "topic_entities": [
+      "Venice Film Festival Upstream Prize for Best Actress"
+    ],
+    "answers": [
+      "George H. W. Bush"
+    ]
+  },
+  {
+    "qid": "WebQTrn-1841_52a1c0b6a4362fec365873adecb58146",
+    "topic_entities": [
+      "Spain"
+    ],
+    "answers": [
+      "Roommates"
+    ]
+  },
+  {
+    "qid": "WebQTest-213_71621b15ae9777fca8c1becaa188a3bb",
+    "topic_entities": [
+      "Boston Society of Film Critics Awards 2003"
+    ],
+    "answers": [
+      "Josh Hartnett"
+    ]
+  }
+]
